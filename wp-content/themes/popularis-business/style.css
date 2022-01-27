@@ -1,0 +1,179 @@
+/*
+ Theme Name: Popularis Business
+ Theme URI: https://populariswp.com/popularis-business/
+ Description: Popularis Business is a fast, clean and modern-looking responsive multipurpose and blogging theme for WordPress. Theme works perfect with any of favorite page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Visual Composer, etc. Popularis Business is WooCommerce ready, lightweight, easy to use and SEO friendly. Demo ready to import: https://populariswp.com/popularis-business-demo/
+ Author: Themes4WP
+ Author URI: https://themes4wp.com/
+ Version: 1.0.1
+ Requires PHP: 5.4
+ Tested up to: 5.8
+ License: GNU General Public License v3
+ License URI: http://www.gnu.org/licenses/gpl.html
+ Tags: one-column, two-columns, full-width-template, left-sidebar, custom-background, custom-menu, editor-style, featured-images, translation-ready, custom-logo, threaded-comments, footer-widgets, blog, e-commerce
+ Text Domain: popularis-business
+ Template: popularis
+*/
+
+body {
+    color: #566073;
+    font-weight: 400;
+    line-height: 1.8;
+    font-size: 22px;
+}
+a, a:active, a:hover, a:focus {
+    color: #fd7f07;
+    text-decoration: none;
+}
+.single-entry-summary  a, .post-excerpt a, .comment-body a, .textwidget a {
+    text-decoration: underline;
+}
+.page-area {
+    padding: 35px 15px;
+}
+#site-navigation {
+    -webkit-box-shadow: 0px 14px 20px 0px rgba(0, 0, 0, 0.08);
+    -moz-box-shadow: 0px 14px 20px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: 0px 14px 20px 0px rgba(0, 0, 0, 0.08);
+}
+.navbar-default .navbar-nav > li > a {
+    font-size: 15px;
+    font-weight: 700;
+}
+.nav > li.active > a:hover:after, .current-page-parent:hover:after {
+    width: 70%;
+    left: 15%;
+}
+article {
+    clear: none;
+}
+article.col-md-6:nth-of-type(2n-1) {
+    clear: both;
+}
+.top-bar-section {
+    background-color: #fd7f07;
+}
+.top-bar-section a {
+    color: #000000;
+}
+.site-heading.navbar-brand {
+    height: auto;
+    padding-left: 0;
+}
+.header-part .container {
+    display: flex;
+    float: none;
+    align-items: center;
+    position: relative;
+}
+@media (min-width: 768px) {
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover {
+        background-color: #ff9c12;
+        color: #fff;
+    }
+}
+@media (max-width: 767px) {
+    .header-part .container {
+        flex-direction: column;
+    }
+    .site-heading.navbar-brand {
+        width: 100%;
+        text-align: center;
+    }
+    .site-branding-logo, .site-branding-text {
+        float: none;
+    }
+}
+.post-item .news-thumb {
+    padding: 0;
+}
+.post-item .news-thumb img{
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.cats-tags {
+    float: none;
+    display: block;
+    width: auto;
+}
+.posted-date, .cat-links a, .cat-links span, .tags-links span {
+    position: relative;
+}
+.tagcloud a {
+    border-radius: 10px;
+}
+.cat-links a {
+    border: 1px solid;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.post-item h2, h1.single-title {
+    width: 100%;
+    clear: both;
+    padding-top: 20px;
+    padding-bottom: 15px
+}
+.post-excerpt {
+    font-size: 16px;
+}
+.post-item {
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 7px 0px rgba(28,45,113,0.20);
+    overflow: hidden;
+}
+.post-item h2 a {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+}
+.news-thumb img {
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
+.post-item .news-text-wrap {
+    padding: 20px;
+}
+aside#sidebar {
+    padding-right: 25px;
+}
+#sidebar .widget {
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 7px 0px rgba(28,45,113,0.20);
+    padding: 25px;
+}
+.widget-title h3 {
+    font-size: 26px;
+    line-height: 28px;
+    padding: 0;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.widget-title:after {
+    display: none;
+}
+.about-author-avatar {
+    float: left;
+    margin-right: 10px;
+}
+nav.navigation.pagination .nav-links a, nav.navigation.pagination .current {
+    border-radius: 10px;
+}
+
+.cart-contents span.count, .woocommerce span.onsale, .nav > li.active > a:after, .current-page-parent:after, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    background-color: #fd7f07;
+}
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .btn-default, input[type="submit"], input#submit, button, a.comment-reply-link, .woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    color: #fd7f07;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a, .woocommerce div.product .woocommerce-tabs ul.tabs.wc-tabs li:hover a {
+    border-bottom: 2px solid #fd7f07;
+    color: #fd7f07;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs {
+    text-align: center;
+}
+.woocommerce span.onsale {
+    color: #fff;
+}

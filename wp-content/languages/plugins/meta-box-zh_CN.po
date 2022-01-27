@@ -1,0 +1,698 @@
+# Translation of Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-24 08:17:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release)\n"
+
+#: inc/about/sections/welcome.php:23
+msgid "Youtube Channel"
+msgstr "YouTube 频道"
+
+#: inc/about/sections/welcome.php:22
+msgid "Facebook Group"
+msgstr "Facebook 群组"
+
+#: inc/about/sections/getting-started-pro.php:2
+msgid "Please follow this video tutorial to get started with Meta Box and extensions:"
+msgstr "请按照此视频教程开始使用 Meta Box 和扩展："
+
+#: inc/loader.php:123
+msgid "Are you sure to dismiss all Meta Box news?"
+msgstr "您确定要关闭所有 Meta Box 新闻吗？"
+
+#: inc/loader.php:122
+msgid "Dismiss all Meta Box news"
+msgstr "关闭所有 Meta Box 新闻"
+
+#: inc/fields/post.php:160 inc/fields/taxonomy.php:157 inc/fields/user.php:144
+msgid "(No title)"
+msgstr "（无标题）"
+
+#: inc/meta-box.php:342
+msgid "Meta Box Title"
+msgstr "元框标题"
+
+#: inc/about/sections/getting-started.php:13
+msgid "Online Generator is a free tool to help you create and set up custom fields using a simple, friendly user interface. With it, you can add fields, set options and generate needed code that's ready to copy and paste."
+msgstr "Online Generator 是一款免费工具，可帮助您使用简单、友好的用户界面创建和设置自定义字段。有了它，您可以添加字段、设置选项并生成准备好复制和粘贴的所需代码。"
+
+#: inc/about/sections/products.php:17
+msgid "A super fast, lightweight and highly customizable WordPress theme"
+msgstr "一个超快速、轻量级和高度可定制的 WordPress 主题"
+
+#: inc/about/sections/products.php:16
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr "适用于 WordPress 的自动化和快速 SEO 插件"
+
+#: inc/about/sections/products.php:15
+msgid "Like this plugin? Check out our other WordPress products:"
+msgstr "喜欢这个插件吗？查看我们的其他 WordPress 产品："
+
+#: inc/about/sections/products.php:12
+msgid "Our WordPress Products"
+msgstr "我们的 WordPress 产品"
+
+#: inc/fields/background.php:145
+msgid "-- Size --"
+msgstr "-- 尺寸 --"
+
+#: inc/fields/background.php:129
+msgid "-- Attachment --"
+msgstr "-- 附件 --"
+
+#: inc/fields/background.php:107
+msgid "-- Position --"
+msgstr "-- 位置 --"
+
+#: inc/fields/background.php:89
+msgid "-- Repeat --"
+msgstr "-- 重复 --"
+
+#: inc/about/sections/getting-started.php:27
+msgid "Create settings pages/Customizer options."
+msgstr "创建设置页面/定制器选项。"
+
+#: inc/about/sections/getting-started.php:26
+msgid "Control the visibility of fields."
+msgstr "控制字段的可见性。"
+
+#: inc/about/sections/getting-started.php:25
+msgid "Organize fields into repeatable groups."
+msgstr "将字段组织成可重复的组。"
+
+#: inc/about/sections/getting-started.php:24
+msgid "Build meta boxes and fields with UI."
+msgstr "使用UI构建元框和字段。"
+
+#: inc/about/sections/getting-started.php:24
+msgid "Meta Box Builder"
+msgstr "Meta Box 创建工具"
+
+#: inc/about/about.php:56
+msgid "Go Pro"
+msgstr "专业版"
+
+#: inc/core.php:38
+msgid "Docs"
+msgstr "文档"
+
+#. Translators: %2$s - URL to the My Account page.
+#: inc/update/settings.php:118
+msgid "Your license key is <b>active</b>."
+msgstr "您的许可证密钥<b>有效</b>。"
+
+#: inc/update/notification.php:171
+msgid "Update License"
+msgstr "更新许可证"
+
+#: inc/update/notification.php:171
+msgid "Activate License"
+msgstr "激活许可证"
+
+#. Translators: %3$s - URL to the My Account page.
+#: inc/update/notification.php:148
+msgid "Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a>."
+msgstr "您的许可证密钥<b>已过期</b>。请<a href=\"%3$s\" target=\"_blank\">更新您的许可证</a>。"
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: inc/update/notification.php:144 inc/update/notification.php:146
+msgid "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "您的许可证密钥<b>无效</b>。请<a href=\"%1$s\">更新您的许可证密钥</a>或<a href=\"%2$s\" target=\"_blank\">在此处获取新许可证</a>。"
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: inc/update/notification.php:142
+msgid "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "请<a href=\"%1$s\">输入您的许可证密钥</a>或<a href=\"%2$s\" target=\"_blank\">在此处获取新许可证</a>。"
+
+#. Translators: %3$s - URL to the My Account page.
+#: inc/update/notification.php:118
+msgid "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a> to get automatic updates and premium support."
+msgstr "您的 Meta Box 许可证密钥<b>已过期</b>。请<a href=\"%3$s\" target=\"_blank\">续订您的许可证</a>以获得自动更新和高级支持。"
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: inc/update/notification.php:114 inc/update/notification.php:116
+msgid "Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one</a> to enable automatic updates."
+msgstr "您的 Meta Box 许可证密钥<b>无效</b>。请<a href=\"%1$s\">更新您的许可证密钥</a>或<a href=\"%2$s\" target=\"_blank\">获取一个新的</a>以启用自动更新。"
+
+#: inc/update/checker.php:143
+msgid "UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic updates."
+msgstr "更新不可用！请输入有效的许可证密钥以启用自动更新。"
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: inc/update/settings.php:168
+msgid "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "许可证无效。请<a href=\"%1$s\" target=\"_blank\">再次检查</a>或<a href=\"%2$s\" target=\"_blank\">在此处获取新许可</a>。"
+
+#. Translators: %s - URL to the My Account page.
+#: inc/update/settings.php:162
+msgid "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My Account</a> page on metabox.io website."
+msgstr "证件过期。请在 metabox.io 网站上的<a href=\"%s\" target=\"_blank\">我的帐户</a>页面上续订。"
+
+#: inc/update/settings.php:159
+msgid "Your license is activated."
+msgstr "您的许可证已激活。"
+
+#: inc/update/settings.php:157
+msgid "Something wrong with the connection to metabox.io. Please try again later."
+msgstr "与 metabox.io 的连接有问题。请稍后再试。"
+
+#. Translators: %2$s - URL to the My Account page.
+#: inc/update/settings.php:117
+msgid "Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank\">renew your license</a>."
+msgstr "您的许可证密钥<b>已过期</b>。请<a href=\"%2$s\" target=\"_blank\">更新您的许可证</a>。"
+
+#. Translators: %1$s - URL to the pricing page.
+#. Translators: %1$s - URL to the pricing page.
+#: inc/update/settings.php:113 inc/update/settings.php:115
+msgid "Your license key is <b>invalid</b>. Please update your license key or <a href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+msgstr "您的许可证密钥<b>无效</b>。请更新您的许可证密钥或<a href=\"%1$s\" target=\"_blank\">在此处获取新密钥</a>。"
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: inc/update/settings.php:96
+msgid "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My Account</a> page on metabox.io website. If you have not purchased any extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "要获取许可证密钥，请访问 metabox.io 网站上的<a href=\"%1$s\" target=\"_blank\">我的帐户</a>页面。如果您尚未购买任何扩展程序，请<a href=\"%2$s\" target=\"_blank\">在此处获取新许可</a>。"
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: inc/update/notification.php:112
+msgid "You have not set your Meta Box license key yet, which means you are missing out on automatic updates and support! Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "您尚未设置 Meta Box 许可证密钥，这意味着您错过了自动更新和支持！请<a href=\"%1$s\">输入您的许可证密钥</a>或<a href=\"%2$s\" target=\"_blank\">在此处获取新许可证</a>。"
+
+#: inc/update/settings.php:131
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: inc/update/settings.php:108
+msgid "License Key"
+msgstr "注册码"
+
+#: inc/update/settings.php:91
+msgid "Please enter your license key to enable automatic updates for Meta Box extensions."
+msgstr "请输入您的许可证密钥以启用 Meta Box 扩展的自动更新。"
+
+#: inc/update/settings.php:72 inc/update/settings.php:90
+msgid "Meta Box License"
+msgstr "Meta Box 许可证"
+
+#: inc/update/settings.php:72
+msgid "License"
+msgstr "许可证"
+
+#: inc/fields/input-list.php:92
+msgid "Toggle All"
+msgstr "全部切换"
+
+#: inc/about/sections/extensions.php:124
+msgid "View all extensions"
+msgstr "查看所有扩展"
+
+#: inc/about/sections/extensions.php:116
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr "在文章、术语和用户之间创建多对多关系。"
+
+#: inc/about/sections/extensions.php:104
+msgid "Save custom fields data to custom table. Reduce database size and increase performance."
+msgstr "将自定义字段数据保存到自定义表。减少数据库大小并提高性能。"
+
+#: inc/fields/file.php:69
+msgid "Error: Invalid file"
+msgstr "错误：无效文件"
+
+#. Translators: %s - link to documentation.
+#: inc/about/sections/support.php:18
+msgid "Still need help with Meta Box? We offer excellent support for you. But don't forget to check our <a href=\"%s\">documentation</a> first."
+msgstr "仍需要 Meta Box 方面的帮助？我们为您提供出色的支持。但不要忘记先查看我们的<a href=\"%s\">文档</a>。"
+
+#: inc/fields/map.php:55 inc/fields/osm.php:28
+msgid "No results found"
+msgstr "未找到结果"
+
+#. Translators: %s - Plugin name.
+#: inc/about/sections/welcome.php:14
+msgid "Welcome to %s"
+msgstr "欢迎使用 %s"
+
+#: inc/about/sections/extensions.php:80
+msgid "Create register, login and edit user profile forms in the frontend. Embed everywhere with shortcodes."
+msgstr "在前端创建注册、登录和编辑用户个人资料表单。随处嵌入简码。"
+
+#: inc/about/about.php:86
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr "立即获取 Meta Box PRO"
+
+#: inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr "以及更多！"
+
+#: inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr "在自定义表中保存自定义字段。"
+
+#: inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr "创建前端提交表单。"
+
+#: inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr "创建自定义设置页面。"
+
+#: inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "将自定义字段添加到分类法或用户个人资料。"
+
+#: inc/about/sections/upgrade.php:13
+msgid "Create custom fields with drag-n-drop interface - no coding knowledge required!"
+msgstr "使用拖放界面创建自定义字段 - 无需编码知识！"
+
+#: inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr "请升级到 PRO 计划以解锁更多精彩功能。"
+
+#: inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr "升级到 Meta Box PRO"
+
+#: inc/about/sections/extensions.php:24 inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr "免费下载"
+
+#. Translators: %1$s - link to review form.
+#: inc/about/about.php:160
+msgid "Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the Meta Box team!"
+msgstr "请评价<strong>Meta Box</strong><a href=\"%1$s\" target=\"_blank\">★★★★★</a> 在 <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> 上帮助我们宣传。感谢 Meta Box 团队！"
+
+#: inc/about/sections/welcome.php:17
+msgid "Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that makes quick work of customizing a website with—you guessed it—meta boxes and custom fields in WordPress. Follow the instruction below to get started!"
+msgstr "Meta Box 是一个免费的 Gutenberg 和 GDPR 兼容的 WordPress 自定义字段插件和框架，可以使用 WordPress 中的元框和自定义字段快速自定义网站（您猜对了）。请按照以下说明开始！"
+
+#: inc/about/sections/tabs.php:13 inc/about/sections/welcome.php:21
+msgid "Support"
+msgstr "支持"
+
+#: inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr "前往支持论坛"
+
+#: inc/about/sections/support.php:31
+msgid "For users that have bought premium extensions, the support is provided in the Meta Box Support forum. Any question will be answered with technical details within 24 hours."
+msgstr "对于购买了高级扩展的用户，Meta Box 支持论坛中提供了支持。任何问题都将在 24 小时内得到技术细节的答复。"
+
+#: inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr "高级支持"
+
+#: inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr "转到 WordPress.org"
+
+#: inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr "前往 Github"
+
+#: inc/about/sections/support.php:24
+msgid "If you have any question about how to use the plugin, please open a new topic on WordPress.org support forum or open a new issue on Github (preferable). We will try to answer as soon as we can."
+msgstr "如果您对如何使用插件有任何疑问，请在 WordPress.org 支持论坛上打开一个新主题或在 Github 上打开一个新问题（最好）。我们会尽快回复。"
+
+#: inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr "免费支持"
+
+#: inc/about/sections/extensions.php:92
+msgid "Create frontend forms for users to submit custom content. Embed everywhere with shortcode."
+msgstr "为用户创建前端表单以提交自定义内容。随处嵌入简码。"
+
+#: inc/about/sections/extensions.php:68
+msgid "Control the visibility of meta boxes and fields or even HTML elements with ease."
+msgstr "轻松控制元框和字段甚至 HTML 元素的可见性。"
+
+#: inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr "为您的主题、插件或网站创建一个强大的设置页面。"
+
+#: inc/about/sections/extensions.php:44
+msgid "Create repeatable groups of custom fields for better appearance and structure."
+msgstr "创建可重复的自定义字段组以获得更好的外观和结构。"
+
+#: inc/about/sections/extensions.php:20
+msgid "Create and manage custom post types easily in WordPress with an easy-to-use interface."
+msgstr "通过易于使用的界面在 WordPress 中轻松创建和管理自定义文章类型。"
+
+#: inc/about/sections/extensions.php:32
+msgid "Drag and drop your custom fields into place without a single line of code."
+msgstr "无需一行代码即可将自定义字段拖放到位。"
+
+#: inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr "查看扩展包"
+
+#: inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr "使用我们的扩展包节省 80% 以上的费用。"
+
+#: inc/about/sections/extensions.php:11
+msgid "Extend custom fields in WordPress well beyond what others would ever consider ordinary!"
+msgstr "将 WordPress 中的自定义字段扩展到超出其他人认为普通的范围！"
+
+#: inc/fields/switch.php:94
+msgid "Off"
+msgstr "停用"
+
+#: inc/fields/switch.php:93
+msgid "On"
+msgstr "启用"
+
+#: inc/fields/background.php:149
+msgid "Contain"
+msgstr "包含"
+
+#: inc/fields/background.php:148
+msgid "Cover"
+msgstr "覆盖"
+
+#: inc/fields/background.php:132
+msgid "Scroll"
+msgstr "滚动"
+
+#: inc/fields/background.php:131
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/fields/background.php:117
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: inc/fields/background.php:116
+msgid "Bottom Center"
+msgstr "底部中心"
+
+#: inc/fields/background.php:115
+msgid "Bottom Left"
+msgstr "左下方"
+
+#: inc/fields/background.php:114
+msgid "Center Right"
+msgstr "中右"
+
+#: inc/fields/background.php:113
+msgid "Center Center"
+msgstr "中部居中"
+
+#: inc/fields/background.php:112
+msgid "Center Left"
+msgstr "中左"
+
+#: inc/fields/background.php:111
+msgid "Top Right"
+msgstr "右上"
+
+#: inc/fields/background.php:110
+msgid "Top Center"
+msgstr "顶部中心"
+
+#: inc/fields/background.php:109
+msgid "Top Left"
+msgstr "左上方"
+
+#: inc/fields/background.php:95 inc/fields/background.php:133
+#: inc/fields/background.php:147
+msgid "Inherit"
+msgstr "继承"
+
+#: inc/fields/background.php:94
+msgid "Repeat Vertically"
+msgstr "垂直重复"
+
+#: inc/fields/background.php:93
+msgid "Repeat Horizontally"
+msgstr "水平重复"
+
+#: inc/fields/background.php:92
+msgid "Repeat All"
+msgstr "全部重复"
+
+#: inc/fields/background.php:91
+msgid "No Repeat"
+msgstr "不重复"
+
+#: inc/fields/background.php:75
+msgid "Background Image"
+msgstr "背景图片"
+
+#: inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr "选择一个侧边栏"
+
+#: inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "入门"
+
+#: inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr "更多扩展"
+
+#: inc/about/sections/getting-started.php:27
+msgid "MB Settings Page"
+msgstr "MB 设置页面"
+
+#: inc/about/sections/getting-started.php:26
+msgid "Meta Box Conditional Logic"
+msgstr "Meta Box条件逻辑"
+
+#: inc/about/sections/getting-started.php:25
+msgid "Meta Box Group"
+msgstr "Meta Box组"
+
+#: inc/about/sections/getting-started.php:22
+msgid "Wanna see more features that transform your WordPress website into a powerful CMS? Check out some extensions below:"
+msgstr "想查看更多功能，将您的 WordPress 网站转变为强大的 CMS？查看下面的一些扩展："
+
+#: inc/about/sections/extensions.php:36 inc/about/sections/extensions.php:48
+#: inc/about/sections/extensions.php:60 inc/about/sections/extensions.php:72
+#: inc/about/sections/extensions.php:84 inc/about/sections/extensions.php:96
+#: inc/about/sections/extensions.php:108
+msgid "Learn More"
+msgstr "了解更多"
+
+#: inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr "转到在线生成器"
+
+#: inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr "在线生成器"
+
+#: inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr "开始使用在线生成器"
+
+#: inc/about/about.php:85
+msgid "Welcome to Meta Box"
+msgstr "欢迎使用Meta Box"
+
+#: inc/about/about.php:54
+msgid "About"
+msgstr "关于"
+
+#. Author of the plugin
+msgid "MetaBox.io"
+msgstr "MetaBox.io"
+
+#. Description of the plugin
+msgid "Create custom meta boxes and custom fields in WordPress."
+msgstr "在 WordPress 中创建自定义元框和自定义字段。"
+
+#: inc/fields/media.php:39
+msgctxt "media"
+msgid "or"
+msgstr "或者"
+
+#: inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr "选择项目"
+
+#: inc/fields/media.php:40
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "请把文件拖动到该区域上传"
+
+#: inc/fields/media.php:38
+msgctxt "media"
+msgid "Select Files"
+msgstr "选择文件"
+
+#: inc/fields/taxonomy.php:94
+msgid "Select a term"
+msgstr "选择分类"
+
+#: inc/fields/media.php:35
+msgctxt "media"
+msgid "No Title"
+msgstr "无标题"
+
+#: inc/fields/media.php:31
+msgctxt "media"
+msgid " files"
+msgstr "文件"
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid " file"
+msgstr "文件"
+
+#: inc/fields/media.php:34
+msgctxt "media"
+msgid "View"
+msgstr "查看"
+
+#: inc/fields/media.php:33
+msgctxt "media"
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/fields/media.php:32
+msgctxt "media"
+msgid "Remove"
+msgstr "移除"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ 添加媒体"
+
+#: inc/field.php:347
+msgid "+ Add more"
+msgstr "+添加"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://metabox.io"
+msgstr "https://metabox.io"
+
+#. Plugin Name of the plugin
+#: inc/about/about.php:69 inc/about/about.php:70
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr "请检查并修正高亮错误处，然后重试 。"
+
+#: inc/fields/user.php:84
+msgid "Select an user"
+msgstr "选择用户"
+
+#: inc/fields/select.php:92
+msgid "None"
+msgstr "无"
+
+#: inc/fields/select.php:92
+msgid "All"
+msgstr "全部"
+
+#. Translators: %s is the taxonomy singular label.
+#. Translators: %s is the taxonomy singular label.
+#: inc/fields/post.php:86 inc/fields/taxonomy.php:98
+msgid "Select a %s"
+msgstr "选择%s"
+
+#: inc/fields/post.php:80
+msgid "Select a post"
+msgstr "选择文章"
+
+#: inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr "Embed HTML 不可用"
+
+#: inc/fields/key-value.php:115
+msgid "Value"
+msgstr "值"
+
+#: inc/fields/key-value.php:114
+msgid "Key"
+msgstr "关键词"
+
+#: inc/fields/file.php:118
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ 添加新文件"
+
+#: inc/fields/file.php:82
+msgid "Error: Cannot delete file"
+msgstr "错误：不能删除文件"
+
+#. Translators: %d is the number of files in plural form.
+#: inc/fields/file.php:26
+msgid "You may only upload maximum %d files"
+msgstr "最多能上传%d 个文件"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/fields/file.php:24
+msgid "You may only upload maximum %d file"
+msgstr "最多能上传%d 个文件"
+
+#: inc/fields/file-input.php:47
+msgid "Remove"
+msgstr "移除"
+
+#: inc/fields/file-input.php:45 inc/fields/select.php:92
+msgid "Select"
+msgstr "选择"
+
+#: inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "选择文件"
+
+#: inc/fields/file.php:199
+msgctxt "file upload"
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/fields/file.php:198
+msgctxt "file upload"
+msgid "Delete"
+msgstr "删除"
+
+#: inc/fields/checkbox.php:53
+msgid "No"
+msgstr "没有"
+
+#: inc/fields/checkbox.php:53
+msgid "Yes"
+msgstr "是的"
+
+#: inc/fields/button.php:34
+msgid "Click me"
+msgstr "点击我"
+
+#: inc/fields/autocomplete.php:23 inc/fields/autocomplete.php:84
+#: inc/fields/autocomplete.php:96
+msgid "Delete"
+msgstr "删除"
+
+#: inc/about/sections/getting-started.php:21 inc/about/sections/tabs.php:12
+msgid "Extensions"
+msgstr "扩展"
+
+#: inc/about/sections/welcome.php:20
+msgid "Documentation"
+msgstr "文档"

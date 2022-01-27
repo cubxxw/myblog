@@ -1,0 +1,39 @@
+span.pro{
+	color: red;
+}
+[aria-describedby="ihafs_dialog"] {
+	text-align: center;
+	z-index: 9999;
+}
+[aria-describedby="ihafs_dialog"] .dashicons-before::before {
+	font-size: 100px;
+	width: 100px;
+	height: 100px;
+}
+[aria-describedby="ihafs_dialog"] a:focus{
+	outline: none;
+	box-shadow: none;
+}
+[aria-describedby="ihafs_dialog"] .dashicons-warning {
+	text-align: center;
+}
+a.buy_now {
+    font-size: 20px;
+    text-decoration: none;
+    background: #0073aa;
+    color: #fff;
+    padding: 11px 13px;
+    border-radius: 5px;
+    display: inline-block;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+a.buy_now:hover{
+	color: #fff;
+}
+.cmb2-id--ihafs-condition .cmb2-radio-list label span{
+	color: red;
+    margin-top: 5px;
+    display: inline-block;
+    margin-left: 25px;
+}

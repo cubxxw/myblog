@@ -1,0 +1,66 @@
+{
+	"textAlignment": {
+		"type": "string"
+	},
+	"hasbarButton":{
+		"type":"object",
+		"default":{
+			"text":"Button",
+			"link":"#"
+		}
+	},
+	"hasbarBtnFontSize":{
+		"type":"number",
+		"default":18
+	},
+	"hashbarBtnRemove":{
+		"type":"string",
+		"default":"yes"
+	},
+	"hashbarContent":{
+		"type":"string"
+	},
+	"BtnBorderRadius":{
+		"type":"number",
+		"default":3
+	},
+	"BtnMarginTop":{
+		"type": "number",
+		"default": 0
+	},
+	"BtnMarginRight":{
+		"type":"number",
+		"default":20
+	},
+	"BtnMarginBottom":{
+		"type":"number",
+		"default":0
+	},
+	"BtnMarginLeft":{
+		"type":"number",
+		"default":20
+	},
+	"BtnPaddingTop":{
+		"type": "number",
+		"default": 10
+	},
+	"BtnPaddingRight":{
+		"type":"number",
+		"default":30
+	},
+	"BtnPaddingBottom":{
+		"type":"number",
+		"default":10
+	},
+	"BtnPaddingLeft":{
+		"type":"number",
+		"default":30
+	},
+	"hasbarBtnBgColor":{
+		"type":"string",
+		"default":"#fdd835"
+	},
+	"hasbarBtnTxtColor":{
+		"type":"string"
+	}
+}

@@ -1,0 +1,102 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+ .hashbar-pro-block-wraper.inline-alignment{
+ 	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+ }
+
+.hashbar-free-wraper{
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.has-text-align-center{
+	justify-content: center;
+}
+.has-text-align-left{
+	justify-content: flex-start;
+}
+.has-text-align-right{
+	justify-content: flex-end;
+}
+
+ .has-text-align-center.wp-block-hashbar-pro-hashbar-blokcs .hashbar-pro-block-wraper.inline-alignment{
+ 	-webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+ }
+
+ .has-text-align-left.wp-block-hashbar-pro-hashbar-blokcs .hashbar-pro-block-wraper.inline-alignment{
+ 	-webkit-box-pack: flex-start;
+    -ms-flex-pack: flex-start;
+    justify-content: flex-start;
+ }
+
+ .has-text-align-right.wp-block-hashbar-pro-hashbar-blokcs .hashbar-pro-block-wraper.inline-alignment{
+ 	-webkit-box-pack: flex-end;
+    -ms-flex-pack: flex-end;
+    justify-content: flex-end;
+ }
+
+.ht-promo-banner{
+	padding: 50px 35px !important;
+	background: #0a0d35;
+	width: 250px;
+	border-radius: 5px;
+	position:relative;
+}
+.ht-promo-button a{
+	text-decoration: none;
+	padding: 10px 16px;
+	background-color: #ffdf43;
+	color: #000;
+	border-radius: 5px;
+	display: inline-block;
+}
+
+.ht-content .promo-title{
+	margin: 0px;
+	font-weight: 600;
+}
+
+.ht-content .promo-summery{
+	font-size: 17px;
+	margin-top:15px !important;
+}
+
+.ht-content .promo-title,.ht-content .promo-summery{
+	color: #fff;
+}
+
+.ht-promo-button{
+	margin-top: 40px!important;
+	display: flex;
+    font-weight: 500;
+}
+.ht-content{
+	z-index: 9;
+    position: relative;
+}
+.ht-promo-button{
+	z-index: 9;
+    position: relative;
+}
+.ht-promo-overlay{
+	position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0;
+    z-index: 8;
+}
+.wp-block-columns{
+	margin-bottom: 0px;
+}

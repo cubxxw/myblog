@@ -1,0 +1,263 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+ .btn-appear-wrap .components-form-toggle {
+    float: right;
+}
+
+.btn-margin-set .components-base-control__field{
+	margin-right: 5px;
+}
+.inline-alignment .block-editor-block-list__layout{
+    display: flex;
+}
+
+.has-text-align-center.inline-alignment .block-editor-block-list__layout{
+    justify-content: center;
+}
+
+.has-text-align-left.inline-alignment .block-editor-block-list__layout{
+    justify-content: flex-start;
+}
+
+.has-text-align-right.inline-alignment .block-editor-block-list__layout{
+    justify-content: flex-end;
+}
+
+a.ht_btn{
+    height: 45px;
+    background: #fdd835;
+	color: #000;
+	padding: 4px 10px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.hashbar-pro-wraper{
+    padding: 10px;
+    margin: 15px;
+    border: 1px solid #e3e3e3;
+}
+
+div[data-title="Hashbar Blocks"]{
+    overflow:hidden;
+}
+
+.hashbar-pro-wraper {
+	border: 1px solid #e3e3e3;
+	padding: 40px;
+}
+
+.hashbar-pro-wraper .block-editor-block-list__layout div{
+	margin: 0px;
+	padding: 0px;
+}
+.hashbar-social-icon a {
+    margin-right: 5px;
+}
+
+.hashbar-social-icon a i {
+    display: inline-block;
+    background: #ff5733;
+    color: #fff;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    transition: all 0.3s ease-in-out 0s;
+    -webkit-transition: all 0.3s ease-in 0s;
+    text-align: center;
+    font-style: unset;
+}
+.hash-icon-wraper{
+	margin-bottom: 20px;	
+}
+.hash-icon-wraper > div {
+	margin-bottom: 0px !important;
+}
+
+.image-ctr {
+    display: inline-block;
+    position: relative;
+    padding-top : 15px;
+}
+.btn-remove {
+    position: absolute;
+    top: -19px;
+    right: -6px;
+}
+.option-title{
+    margin-top : 15px !important;
+}
+
+.promo-banner-border-radius .components-base-control__label {
+    margin-right: 20px;
+}
+
+.image-button-wraper{
+    margin-top : 15px;
+}
+
+.ht-promo-banner-image .banner-image-remove{
+    margin-left: 15px !important;
+    color: #f16666 !important;
+}
+.ht-promo-banner-image .banner-image-remove:hover{
+    color: #a70808;
+}
+.panel-item p{
+    background: #e3e3e3;
+    padding: 10px;
+    text-align: center;
+}
+.htf-input input {
+    margin-left: 15px;
+}
+
+.image-button-wraper .components-button.button-primary.button-large{
+    padding: 0px 12px;
+}
+.promo-banner-border-radius,.promo-banner-witdth{
+    display: inline-block;
+}
+.promo-banner-witdth .components-base-control__label {
+    margin-right: 20px;
+}
+.promo-pixel-unit{
+    width: 30px;
+    height: 30px;
+    background: #e3e3e3;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    line-height: 28px;
+    color: #1d2327;
+    border-radius: 2px
+}
+
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    margin-bottom: 24px;
+}
+
+h2.hashbar-blocks-section-title {
+    margin: 0;
+    padding: 10px 0 10px 10px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    background-color: #eee;
+}
+
+.wp-block-selector-hashbar-dimensions-control{
+  margin: 15px 0;
+}
+
+.wp-block-selector-hashbar-dimensions-control .components-panel__row{
+  align-items: flex-start;
+}
+
+.wp-block-selector-hashbar-dimensions-control .hashbar-dimensions-btn-group button{
+  padding: 1px 7px;
+  height: auto;
+}
+
+.wp-block-selector-hashbar-dimensions-control button.components-button.has-icon {
+  height: 100%;
+  width: auto;
+  padding: 4px 3px;
+  border-radius: 0;
+  border: 1px solid #222;
+}
+
+.wp-block-selector-hashbar-dimensions-control h3{
+  margin: 0 0 5px 0;
+}
+
+.wp-block-selector-hashbar-dimensions-control .components-input-control{
+  align-items: center;
+}
+
+.wp-block-selector-hashbar-dimensions-control .components-input-control__backdrop{
+    border-right: 0 !important;
+    border-radius: 0 !important;
+}
+
+.hashbar-panel-row-height-auto {
+    min-height: inherit;
+}
+
+.components-panel__row.hashbar-device-row {
+  justify-content: start;
+}
+
+.hashbar-device-button button.components-button {
+  padding: 0 !important;
+  min-width: inherit;
+  height: inherit;
+  box-shadow: none !important;
+  border: none !important;
+  color: #222 !important;
+  background-color: transparent !important;
+}
+
+.hashbar-device-button button.components-button span.dashicon {
+  font-size: 13px;
+  width: inherit;
+  height: inherit;
+}
+
+.hashbar-device-button button.components-button.is-primary {
+  color: #007cba !important;
+}
+
+.wp-block-block-hashbar p.hashbar-initial{
+  padding: 16px 10px;
+  background: #eee;
+}
+
+p.hashbar-countdown-date-tip {
+  margin-top: -20px;
+  margin-bottom: 21px;
+}
+
+.hashbar-block-pro-notice{
+  position: relative;
+}
+
+.hashbar-block-pro-notice:after{
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color:#fff;
+  z-index: 2;
+  opacity: 0.5;
+}
+
+.hashbar-block-pro-button{
+  position: absolute;
+  top: 20px;
+  right: -13px;
+  left: auto;
+  transform: translateX(-50%)translateY(-50%);
+  background-color: #ad39ce;
+  color: #fff;
+  padding: 3px 15px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  z-index: 3;
+}
+
+.hashbar-block-pro-button:hover,.hashbar-block-pro-button:focus{
+  color: #fff;
+}

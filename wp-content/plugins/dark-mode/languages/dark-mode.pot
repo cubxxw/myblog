@@ -1,0 +1,90 @@
+# Copyright (C) 2021 dark-mode
+# This file is distributed under the same license as the dark-mode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: dark-mode\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-dark-mode.php:113
+msgid "Settings"
+msgstr ""
+
+#: includes/class-dark-mode.php:117, includes/promo.php:60
+msgid "GET PRO"
+msgstr ""
+
+#: includes/class-hooks.php:237
+msgid "Light"
+msgstr ""
+
+#: includes/class-hooks.php:238
+msgid "Dark"
+msgstr ""
+
+#: includes/class-settings-api.php:447
+msgid "Choose File"
+msgstr ""
+
+#: includes/class-settings.php:25
+msgid "%s <span>General Settings</span>"
+msgstr ""
+
+#: includes/class-settings.php:31
+msgid "%s <span>License Activation</span>"
+msgstr ""
+
+#: includes/class-settings.php:44
+msgid "Only Dark Mode"
+msgstr ""
+
+#: includes/class-settings.php:45
+msgid "Turn ON to disable all the features of this plugin except Dark Mode."
+msgstr ""
+
+#: includes/class-settings.php:52
+msgid "Enable Markdown Editor"
+msgstr ""
+
+#: includes/class-settings.php:53
+msgid "Enable/disable The Markdown Editor."
+msgstr ""
+
+#: includes/class-settings.php:60
+msgid "Enable Admin Darkmode"
+msgstr ""
+
+#: includes/class-settings.php:61
+msgid "Enable/disable Darkmode in the admin dashboard."
+msgstr ""
+
+#: includes/class-settings.php:72
+msgid "Enable Productivity Sounds"
+msgstr ""
+
+#: includes/class-settings.php:73
+msgid "Enable/disable productivity sounds in the admin dashboard."
+msgstr ""
+
+#: includes/class-settings.php:160
+msgid "WP Markdown Editor Settings"
+msgstr ""
+
+#: includes/promo.php:53
+msgid "Unlock PRO features"
+msgstr ""
+
+#: includes/promo.php:54
+msgid "GET"
+msgstr ""
+
+#: includes/promo.php:56
+msgid "LIMITED TIME ONLY"
+msgstr ""

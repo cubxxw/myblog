@@ -1,0 +1,390 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HashBar - WordPress Notification Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-30 05:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: inc/custom-posts.php:16 inc/custom-posts.php:17
+msgid "Add New Notification"
+msgstr ""
+
+#: inc/custom-posts.php:15
+msgid "All Notifications"
+msgstr ""
+
+#: inc/metabox.php:262
+msgid "Arrow Bg Color"
+msgstr ""
+
+#: inc/metabox.php:268
+msgid "Arrow Color"
+msgstr ""
+
+#: inc/metabox.php:280
+msgid "Arrow Hover Bg Color"
+msgstr ""
+
+#: inc/metabox.php:274
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: inc/metabox.php:75
+msgid "Bottom"
+msgstr ""
+
+#: inc/metabox.php:20
+msgid "Choose option where to show"
+msgstr ""
+
+#: init.php:148 inc/metabox.php:111
+msgid "Close"
+msgstr ""
+
+#: inc/metabox.php:238
+msgid "Close Button BG Color"
+msgstr ""
+
+#: inc/metabox.php:244
+msgid "Close Button Color"
+msgstr ""
+
+#: inc/metabox.php:256
+msgid "Close Button Hover BG Color"
+msgstr ""
+
+#: inc/metabox.php:250
+msgid "Close Button Hover Color"
+msgstr ""
+
+#: inc/metabox.php:223
+msgid "Close Button Text"
+msgstr ""
+
+#: inc/metabox.php:188
+msgid "Content Background color"
+msgstr ""
+
+#: inc/metabox.php:194
+msgid "Content Background Image"
+msgstr ""
+
+#: inc/metabox.php:200
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/metabox.php:166
+msgid "Content Width"
+msgstr ""
+
+#: inc/metabox.php:24
+msgid "Custom"
+msgstr ""
+
+#: inc/metabox.php:46
+msgid "Custom options where to show"
+msgstr ""
+
+#: inc/metabox.php:86 inc/metabox.php:169
+msgid "Default"
+msgstr ""
+
+#: inc/metabox.php:122 inc/metabox.php:133 inc/metabox.php:145
+#: inc/metabox.php:216
+msgid "Disable"
+msgstr ""
+
+#: inc/metabox.php:107
+msgid "Display"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "Don't show"
+msgstr ""
+
+#: admin/plugin-options.php:26
+msgid "Don't Show Notification After Close <span class=\"pro\">(Pro)</span>"
+msgstr ""
+
+#: inc/custom-posts.php:19
+msgid "Edit Notification"
+msgstr ""
+
+#: inc/metabox.php:121 inc/metabox.php:132 inc/metabox.php:144
+#: inc/metabox.php:215
+msgid "Enable"
+msgstr ""
+
+#: inc/metabox.php:212
+msgid "Enable / Disable Close Button"
+msgstr ""
+
+#: inc/metabox.php:118
+msgid "Enable / Disable On Desktop Device"
+msgstr ""
+
+#: inc/metabox.php:129
+msgid "Enable / Disable On Mobile Device"
+msgstr ""
+
+#: inc/metabox.php:141
+msgid "Enable / Disable Schedule Pause Time <span class=\"\">(Pro)</span>"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Everywhere"
+msgstr ""
+
+#: inc/custom-posts.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: inc/custom-posts.php:33
+msgid "Filter items list"
+msgstr ""
+
+#: inc/metabox.php:170
+msgid "Full Width"
+msgstr ""
+
+#: init.php:70
+msgid "Go Premium!"
+msgstr ""
+
+#: inc/custom-posts.php:12
+msgid "hashbar"
+msgstr ""
+
+#. Name of the plugin
+msgid "HashBar - WordPress Notification Bar"
+msgstr ""
+
+#: admin/plugin-options.php:71
+msgid "HashBar Pro Global Options"
+msgstr ""
+
+#: inc/custom-posts.php:11
+msgid "HashBars"
+msgstr ""
+
+#: inc/metabox.php:97
+msgid "Header Class/ID <span>(Pro)</span>"
+msgstr ""
+
+#: inc/metabox.php:51
+msgid "Home"
+msgstr ""
+
+#: inc/metabox.php:181
+msgid "How many time to show notification"
+msgstr ""
+
+#. Author of the plugin
+msgid "HT Plugins"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://demo.wphash.com/hashbar/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://htplugins.com/"
+msgstr ""
+
+#: inc/metabox.php:26
+msgid "Individual Pages <span class=\"pro\">(Pro)</span>"
+msgstr ""
+
+#: inc/metabox.php:25
+msgid "Individual Posts <span class=\"pro\">(Pro)</span>"
+msgstr ""
+
+#: inc/metabox.php:183
+msgid ""
+"Input the number, how many time will apprear this notification. Number "
+"consider by each page load where the notification appear"
+msgstr ""
+
+#: inc/custom-posts.php:29
+msgid "Insert into item"
+msgstr ""
+
+#: inc/metabox.php:233
+msgid "Leave it empty if you don't want text instead of arrow icon"
+msgstr ""
+
+#: inc/metabox.php:72
+msgid "Left"
+msgstr ""
+
+#: inc/metabox.php:78
+msgid ""
+"Left means the notification bar is always fixed at the left <br> Top means "
+"the notificatin bar is always fixed at the top of the page. <br> Right means "
+"the notification bar is always fixed at the right<br> Bottom means the "
+"notificatin bar is always visible at the bottom of the page"
+msgstr ""
+
+#: admin/plugin-options.php:34
+msgid "Mobile device breakpoint (px) <span class=\"pro\">(Pro)</span>"
+msgstr ""
+
+#: inc/custom-posts.php:18
+msgid "New Notification"
+msgstr ""
+
+#: inc/custom-posts.php:23
+msgid "Not found"
+msgstr ""
+
+#: inc/custom-posts.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/custom-posts.php:13
+msgid "Notification Archives"
+msgstr ""
+
+#: inc/custom-posts.php:36
+msgid "Notification bar"
+msgstr ""
+
+#: inc/metabox.php:11
+msgid "Notification Bar Options"
+msgstr ""
+
+#. Description of the plugin
+msgid "Notification Bar plugin for WordPress"
+msgstr ""
+
+#: inc/metabox.php:156
+msgid "Notification Paused Date/Time <span class=\"\">(Pro)</span>"
+msgstr ""
+
+#: inc/custom-posts.php:31
+msgid "Notifications list"
+msgstr ""
+
+#: inc/custom-posts.php:32
+msgid "Notifications list navigation"
+msgstr ""
+
+#: inc/metabox.php:226
+msgid "Only works with left and right position"
+msgstr ""
+
+#: inc/metabox.php:206
+msgid "Opacity"
+msgstr ""
+
+#: inc/metabox.php:110
+msgid "Open"
+msgstr ""
+
+#: inc/metabox.php:231
+msgid "Open Button Text"
+msgstr ""
+
+#: inc/metabox.php:50
+msgid "Pages"
+msgstr ""
+
+#: inc/custom-posts.php:14
+msgid "Parent Notification:"
+msgstr ""
+
+#: inc/metabox.php:69
+msgid "Positioning"
+msgstr ""
+
+#: inc/custom-posts.php:9
+msgctxt "Post Type General Name"
+msgid "Notification bars"
+msgstr ""
+
+#: inc/custom-posts.php:10
+msgctxt "Post Type Singular Name"
+msgid "Notification bar"
+msgstr ""
+
+#: inc/metabox.php:49
+msgid "Posts"
+msgstr ""
+
+#: init.php:72
+msgid "Premium"
+msgstr ""
+
+#: init.php:72
+msgid "Purchase our"
+msgstr ""
+
+#: inc/custom-posts.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/metabox.php:74
+msgid "Right"
+msgstr ""
+
+#: inc/custom-posts.php:22
+msgid "Search Notification"
+msgstr ""
+
+#: inc/custom-posts.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: inc/metabox.php:83
+msgid "Theme's Header Type <span>(Pro)</span>"
+msgstr ""
+
+#: inc/metabox.php:73
+msgid "Top"
+msgstr ""
+
+#: inc/metabox.php:87
+msgid "Transparent or sticky"
+msgstr ""
+
+#: inc/custom-posts.php:20
+msgid "Update Notification"
+msgstr ""
+
+#: inc/custom-posts.php:30
+msgid "Uploaded to this item"
+msgstr ""
+
+#: inc/metabox.php:35
+msgid "URL Paramenter Value"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "URL Parameter"
+msgstr ""
+
+#: inc/custom-posts.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: init.php:72
+msgid "version to unlock this feature!"
+msgstr ""
+
+#: inc/custom-posts.php:21
+msgid "View Notification"
+msgstr ""
+
+#: inc/metabox.php:62
+msgid "Width"
+msgstr ""

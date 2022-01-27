@@ -1,0 +1,3863 @@
+# Translation of Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-25 10:50:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - User Registration &#8211; Custom Registration Form, Login Form And User Profile For WordPress - Stable (latest release)\n"
+
+#: includes/form/settings/class-ur-setting-date.php:107
+msgid "Set Current Date as Default Date"
+msgstr "将当前日期设置为默认日期"
+
+#: includes/form/settings/class-ur-setting-country.php:45
+msgid "Selected Countries"
+msgstr "所选国家/地区"
+
+#: includes/admin/class-ur-admin-assets.php:403
+msgctxt "user registration admin"
+msgid "Please select at least one country."
+msgstr "请选择至少一个国家/地区。"
+
+#: includes/admin/views/html-admin-page-forms.php:136
+msgid "Documentation"
+msgstr "文档"
+
+#: includes/form/settings/class-ur-setting-date.php:53
+msgid "Date Format"
+msgstr "日期格式"
+
+#: includes/admin/views/html-admin-page-forms.php:135
+msgid "Create Login Form"
+msgstr "创建登录表单"
+
+#: includes/admin/views/html-admin-page-forms.php:134
+msgid "Get Support"
+msgstr "获取支持"
+
+#: includes/form/settings/class-ur-setting-date.php:70
+msgid "Enable Min-Max Date"
+msgstr "启用最小-最大日期"
+
+#: includes/form/settings/class-ur-setting-date.php:83
+msgid "Min Date"
+msgstr "最小日期"
+
+#: includes/form/settings/class-ur-setting-date.php:94
+msgid "Max Date"
+msgstr "最大日期"
+
+#: includes/form/settings/class-ur-setting-date.php:122
+msgid "Enable Date Range"
+msgstr "启用日期范围"
+
+#: includes/class-ur-frontend-scripts.php:372
+msgid "Please enter a valid phone number."
+msgstr "请输入一个有效的电话号码。"
+
+#: includes/admin/settings/class-ur-settings-general.php:97
+msgid "Check to enable hide/show password icon."
+msgstr "选中以启用隐藏/显示密码图标。"
+
+#: includes/admin/settings/class-ur-settings-general.php:122
+msgid "Select the page which contains your login form: [%s]"
+msgstr "选择包含您的登录表单的页面：[%s]"
+
+#: includes/class-ur-frontend-scripts.php:385
+msgid "Password strength is not strong enough"
+msgstr "密码强度不够强"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:505
+msgid "Password should not match with Username or Email address."
+msgstr "密码不能与用户名或电子邮件地址匹配。"
+
+#: includes/admin/class-ur-admin-menus.php:641
+#: includes/admin/views/html-admin-page-forms.php:122
+msgid "Untitled"
+msgstr "无标题"
+
+#: includes/admin/class-ur-admin-import-export-forms.php:210
+msgid "Please select json file to import form data."
+msgstr "请选择json文件以导入表单数据。"
+
+#: includes/admin/class-ur-admin-import-export-forms.php:203
+msgid "Invalid file format. Only Json File Allowed."
+msgstr "无效的文件格式。仅允许Json文件。"
+
+#: includes/admin/class-ur-admin-import-export-forms.php:189
+#: includes/admin/class-ur-admin-import-export-forms.php:196
+msgid "Invalid file content. Please export file from user registration plugin."
+msgstr "无效的文件内容。请从用户注册插件导出文件。"
+
+#: includes/admin/class-ur-admin-import-export-forms.php:181
+msgid "Imported Successfully."
+msgstr "已成功导入。"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:43
+#: includes/admin/views/html-admin-page-import-export-forms.php:13
+msgid "Import/Export Forms"
+msgstr "导入/导出表格"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:27
+msgid "Import/Export"
+msgstr "导入/导出"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:57
+msgid "Import Forms"
+msgstr "导入表格"
+
+#: includes/admin/views/html-admin-page-import-export-forms.php:35
+msgid "Export Forms"
+msgstr "导出表格"
+
+#: includes/admin/class-ur-admin.php:281
+msgid "%1$d new %2$s registered."
+msgstr "%1$d 新 %2$s 已注册."
+
+#: includes/admin/views/html-admin-page-forms.php:44
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:102
+msgid ""
+"User has changed profile information for the following account:<br/>\n"
+"\n"
+"SiteName: {{blog_info}} <br/>\n"
+"Username: {{username}} <br/>\n"
+"\n"
+"{{all_fields}}\n"
+"<br/>\n"
+"Thank You!"
+msgstr ""
+"用户已更改以下帐户的配置文件信息：<br/>\n"
+"\n"
+"网站名称：{{blog_info}} <br/>\n"
+"用户名：{{username}} <br/>\n"
+"\n"
+" {{all_fields}}\n"
+" <br/>\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:42
+msgid "Profile Details Changed Email"
+msgstr "个人资料详细信息已更改"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:49
+msgid "Enable this email sent to the admin when a user changed profile information."
+msgstr "当用户更改个人资料信息时，启用发送给管理员的电子邮件。"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:26
+msgid "Email sent to the admin when a user changed profile information"
+msgstr "用户更改个人资料信息时发送给管理员的电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:70
+#: includes/class-ur-emailer.php:476
+msgid "Profile Details Changed Email: {{blog_info}}"
+msgstr "个人资料详细信息已更改电子邮件：{{blog_info}}"
+
+#: includes/class-ur-ajax.php:419 includes/class-ur-form-handler.php:114
+msgid "Something went wrong while uploading, please contact your site administrator."
+msgstr "上传时发生问题，请与您的网站管理员联系。"
+
+#: includes/class-ur-ajax.php:412 includes/class-ur-form-handler.php:111
+msgid "File size exceed, please check your file size."
+msgstr "文件大小超出，请检查您的文件大小。"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:222
+msgid "No profile details found."
+msgstr "找不到个人资料详细信息。"
+
+#: includes/class-ur-ajax.php:74
+msgid "You are already logged in."
+msgstr "您已经登录。"
+
+#: templates/myaccount/dashboard.php:29
+msgid "Welcome, %1$s"
+msgstr "欢迎， %1$s"
+
+#: includes/functions-ur-core.php:545
+msgid "Username can not be changed."
+msgstr "用户名不能更改。"
+
+#: templates/myaccount/form-edit-profile.php:64
+msgid "Upload your new profile image."
+msgstr "上传新的个人资料图片。"
+
+#: includes/form/settings/class-ur-setting-number.php:53
+msgid "Step"
+msgstr "步"
+
+#: includes/class-ur-frontend-scripts.php:384
+#: templates/myaccount/form-edit-password.php:44
+#: templates/myaccount/form-edit-password.php:56
+#: templates/myaccount/form-edit-password.php:67
+#: templates/myaccount/form-reset-password.php:37
+#: templates/myaccount/form-reset-password.php:48
+msgid "Show Password"
+msgstr "显示密码"
+
+#: templates/myaccount/form-login.php:103
+msgid "Show password"
+msgstr "显示密码"
+
+#: templates/myaccount/form-edit-profile.php:30
+msgid "Profile Detail"
+msgstr "个人资料详细信息"
+
+#: includes/admin/views/html-admin-page-forms.php:46
+msgid "Preview Form"
+msgstr "预览表格"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:126
+#: includes/admin/views/html-admin-page-forms.php:46
+msgid "Preview"
+msgstr "预览"
+
+#: includes/functions-ur-core.php:549
+msgid "Passowrd can not be changed."
+msgstr "密码不能更改。"
+
+#: templates/myaccount/dashboard.php:92
+msgid "Not %1$s? <a href=\"%2$s\">Sign out</a>"
+msgstr "不是%1$s ？ <a href=\"%2$s\">退出</a>"
+
+#: includes/form/settings/class-ur-setting-number.php:31
+msgid "Minimum Value"
+msgstr "最低值"
+
+#: includes/form/settings/class-ur-setting-number.php:38
+#: includes/form/settings/class-ur-setting-user_login.php:52
+msgid "Min Value"
+msgstr "最小值"
+
+#: includes/form/settings/class-ur-setting-number.php:42
+msgid "Maximum Value"
+msgstr "最大值"
+
+#: includes/form/settings/class-ur-setting-number.php:49
+msgid "Max Value"
+msgstr "最大值"
+
+#: templates/myaccount/form-edit-profile.php:61
+msgid "Max size: "
+msgstr "最大尺寸："
+
+#: includes/class-ur-frontend-scripts.php:383
+msgid "Hide Password"
+msgstr "隐藏密码"
+
+#: includes/admin/settings/class-ur-settings-general.php:322
+msgid "Enter the error message in form submission on Confim Email."
+msgstr "在“确认电子邮件”中的表单提交中输入错误消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:96
+msgid "Enable hide/show password"
+msgstr "启用隐藏/显示密码"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:444
+msgid "Empty confirm email"
+msgstr "空确认电子邮件"
+
+#: includes/admin/settings/class-ur-settings-general.php:327
+#: includes/class-ur-frontend-scripts.php:374
+msgid "Email and confirm email not matched."
+msgstr "电子邮件并确认电子邮件不匹配。"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:446
+msgid "Email and confirm email not matched"
+msgstr "电子邮件并确认电子邮件不匹配"
+
+#: includes/class-ur-preview.php:60
+msgid "Edit Form"
+msgstr "编辑表单"
+
+#: includes/functions-ur-core.php:553
+msgid "Confirm password can not be changed."
+msgstr "确认密码无法更改。"
+
+#: includes/functions-ur-core.php:556
+msgid "Confirm email can not be changed."
+msgstr "确认电子邮件无法更改。"
+
+#: includes/admin/settings/class-ur-settings-general.php:321
+#: includes/form/class-ur-form-field-user-confirm-email.php:54
+msgid "Confirm Email"
+msgstr "确认邮件"
+
+#: includes/form/class-ur-form-field-user-confirm-email.php:49
+msgid "Confirm Email "
+msgstr "确认邮件"
+
+#: templates/myaccount/dashboard.php:69
+msgid "@%1$s"
+msgstr "@ %1$s"
+
+#. translators: %s - Form name.
+#. translators: %s - Form name.
+#: includes/class-ur-preview.php:115 includes/class-ur-preview.php:162
+msgid "%s &ndash; Preview"
+msgstr "%s &ndash; 预览"
+
+#: includes/class-ur-plugin-updater.php:446
+#: includes/class-ur-plugin-updater.php:452
+#: includes/class-ur-plugin-updater.php:581
+#: templates/myaccount/dashboard.php:61
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/admin/settings/class-ur-settings-general.php:479
+msgid "Prevent Core Login"
+msgstr "防止核心登录"
+
+#: includes/admin/settings/class-ur-settings-general.php:483
+msgid "Check to disable WordPress default login or registration page."
+msgstr "选中以禁用WordPress默认登录或注册页面。"
+
+#: includes/class-ur-form-handler.php:305
+msgid "Please enter your new password."
+msgstr "请输入新密码。"
+
+#: includes/admin/class-ur-admin.php:180 includes/admin/class-ur-admin.php:228
+msgid "Sure, I'd love to!"
+msgstr "当然，我很乐意！"
+
+#: includes/admin/class-ur-admin.php:182 includes/admin/class-ur-admin.php:230
+msgid "Never show again"
+msgstr "不再显示"
+
+#: includes/admin/class-ur-admin.php:181 includes/admin/class-ur-admin.php:229
+msgid "I already did!"
+msgstr "我已经做了！"
+
+#: templates/myaccount/form-edit-profile.php:105
+msgid "You can change your profile picture on"
+msgstr "您可以在上传更改个人资料照片"
+
+#: includes/admin/functions-ur-admin.php:28
+msgid "User Registration Activity"
+msgstr "用户注册活动"
+
+#: templates/dashboard-widget.php:28
+msgid "User registration"
+msgstr "用户注册"
+
+#: includes/admin/class-ur-admin-assets.php:191
+msgid "Upload Profile Picture"
+msgstr "上传个人资料图片"
+
+#: includes/admin/settings/class-ur-settings-general.php:105
+msgid "Uninstall Option"
+msgstr "卸载选项"
+
+#: templates/dashboard-widget.php:58
+msgid "Total"
+msgstr "总"
+
+#: templates/dashboard-widget.php:40
+msgid "Today"
+msgstr "今天"
+
+#: includes/admin/class-ur-admin-assets.php:192
+msgid "Select Image"
+msgstr "选择图片"
+
+#: templates/myaccount/form-edit-profile.php:86
+msgid "Remove"
+msgstr "去掉"
+
+#: includes/admin/functions-ur-admin.php:44
+msgid "loading..."
+msgstr "载入中..."
+
+#: templates/dashboard-widget.php:46
+msgid "Last Week"
+msgstr "上星期"
+
+#: templates/dashboard-widget.php:52
+msgid "Last Month"
+msgstr "上个月"
+
+#: templates/dashboard-widget.php:29
+msgid "Current Version:"
+msgstr "当前版本："
+
+#: includes/form/class-ur-form-field-checkbox.php:45
+#: includes/form/class-ur-form-field-radio.php:48
+#: includes/form/class-ur-form-field-select.php:45
+#: includes/functions-ur-core.php:819
+msgid "Third Choice"
+msgstr "第三选择"
+
+#: includes/class-ur-form-handler.php:594
+msgid "Thanks for confirming your export request."
+msgstr "感谢您确认导出要求。"
+
+#: includes/class-ur-form-handler.php:596
+msgid "Thanks for confirming your erasure request."
+msgstr "感谢您确认删除请求。"
+
+#: includes/form/class-ur-form-field-checkbox.php:44
+#: includes/form/class-ur-form-field-radio.php:47
+#: includes/form/class-ur-form-field-select.php:44
+#: includes/functions-ur-core.php:818
+msgid "Second Choice"
+msgstr "第二选择"
+
+#: includes/class-ur-form-handler.php:579
+msgid "Invalid Key"
+msgstr "无效的密钥"
+
+#: includes/class-ur-cache-helper.php:86
+msgid "In order for <strong>database caching</strong> to work with User Registration you must add %1$s to the \"Ignored Query Strings\" option in <a href=\"%2$s\">W3 Total Cache settings</a>."
+msgstr "为了使<strong>数据库缓存</strong>与用户注册一起使用，必须在<a href=\"%2$s\"> W3 Total的\" Ignored Query Strings \"选项中添加%1$s缓存设置</a>。"
+
+#: includes/form/class-ur-form-field-checkbox.php:43
+#: includes/form/class-ur-form-field-radio.php:46
+#: includes/form/class-ur-form-field-select.php:43
+#: includes/functions-ur-core.php:817
+msgid "First Choice"
+msgstr "第一选择"
+
+#: includes/admin/settings/class-ur-settings-integration.php:52
+msgid "Version"
+msgstr "版"
+
+#: includes/admin/settings/class-ur-settings-integration.php:86
+msgid "Site Key (v3)"
+msgstr "网站密钥（v3）"
+
+#: includes/admin/settings/class-ur-settings-integration.php:65
+msgid "Site Key (v2)"
+msgstr "网站密钥（v2）"
+
+#: includes/admin/settings/class-ur-settings-integration.php:53
+msgid "Select the google reCaptcha version"
+msgstr "选择Google reCaptcha版本"
+
+#: includes/admin/settings/class-ur-settings-integration.php:97
+msgid "Secret Key (v3)"
+msgstr "密钥（v3）"
+
+#: includes/admin/settings/class-ur-settings-integration.php:76
+msgid "Secret Key (v2)"
+msgstr "密钥（v2）"
+
+#: includes/class-ur-user-approval.php:327
+msgid "Your account is still awaiting admin approval. Reset Password is not allowed."
+msgstr "您的帐户仍在等待管理员的批准。重置密码是不允许的。"
+
+#: includes/admin/class-ur-admin-assets.php:381
+msgctxt "user-registration admin"
+msgid "User Password"
+msgstr "用户密码"
+
+#: includes/admin/class-ur-admin-assets.php:380
+msgctxt "user-registration admin"
+msgid "User Email"
+msgstr "用户电子邮件"
+
+#: includes/class-ur-form-block.php:55
+msgid "Select a Form"
+msgstr "选择表单"
+
+#: includes/class-ur-form-block.php:54
+msgid "Select &#38; display one of your form."
+msgstr "选择显示您的表单之一。"
+
+#: includes/class-ur-form-block.php:56
+msgid "Form Settings"
+msgstr "表单设置"
+
+#: templates/form-registration.php:152
+msgid "Form not found, form id :"
+msgstr "找不到表单，表单ID："
+
+#: includes/class-ur-form-block.php:57
+msgid "Form"
+msgstr "表单"
+
+#: includes/admin/class-ur-admin-assets.php:401
+msgctxt "user registration admin"
+msgid "field is required."
+msgstr "必填字段。"
+
+#: includes/class-ur-ajax.php:104 includes/class-ur-ajax.php:489
+#: includes/class-ur-form-handler.php:388
+msgid "Error on google reCaptcha. Contact your site administrator."
+msgstr "Google reCaptcha错误。请与您的站点管理员联系。"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:49
+msgid "Enable this email sent to the user notifying the registration is pending."
+msgstr "启用发送给用户的电子邮件，通知注册未决。"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:49
+msgid "Enable this email sent to the user notifying the registration is denied by the admin."
+msgstr "启用发送给用户的电子邮件，通知管理员已拒绝注册。"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:49
+msgid "Enable this email sent to the user notifying the registration is approved by site admin."
+msgstr "启用发送给用户的电子邮件，通知注册已由站点管理员批准。"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:25
+msgid "Email sent to the user with a verification link when email confirmation to register option is choosen"
+msgstr "选择电子邮件确认注册选项时，带有验证链接发送给用户的电子邮件"
+
+#: includes/class-ur-ajax.php:677
+msgid "Could not save form, "
+msgstr "无法保存表单，"
+
+#: includes/class-ur-privacy.php:91
+msgid "We send beautiful email through MailChimp. When processing emails, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as the name, email address and any other information that you intend to pass or collect including all collected information through subscription."
+msgstr "我们通过MailChimp发送漂亮的电子邮件。处理电子邮件时，您的某些数据将传递给MailChimp，包括处理或支持电子邮件营销服务所需的信息，例如名称，电子邮件地址以及您打算传递或收集的任何其他信息，包括所有通过订阅收集的信息。"
+
+#: includes/class-ur-privacy.php:92
+msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
+msgstr "有关更多详细信息，请参阅<a href=\"https://mailchimp.com/legal/privacy/\"> MailChimp隐私政策</a>。"
+
+#: includes/functions-ur-core.php:978
+msgid "Minimum Password Strength"
+msgstr "最低密码强度"
+
+#: includes/class-ur-privacy.php:89
+msgid "In this subsection you should list which third party modules you’re using to increase functionality on your site since these may handle customer data. We’ve included MailChimp as an example, but you should remove this if you’re not using MailChimp."
+msgstr "在本小节中，您应该列出用于增强网站功能的第三方模块，因为它们可以处理客户数据。我们以MailChimp为例，但是如果您不使用MailChimp，则应删除它。"
+
+#: includes/functions-ur-core.php:1047
+msgid "Enable %1$s %2$s reCaptcha %3$s Support"
+msgstr "启用%1$s %2$s reCaptcha %3$s支持"
+
+#: includes/class-ur-privacy.php:85
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "我们接受通过贝宝付款。在处理付款时，您的某些数据将传递到PayPal，包括处理或支持付款所需的信息，例如购买总额和账单信息。"
+
+#: includes/class-ur-privacy.php:86
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "有关更多详细信息，请参见<a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\"> PayPal隐私政策</a>。"
+
+#: includes/class-ur-privacy.php:83
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your site since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "在本小节中，您应该列出正在使用哪些第三方付款处理者在您的网站上付款，因为这些第三方处理者可能会处理客户数据。我们以PayPal为例，但如果您不使用PayPal，则应将其删除。"
+
+#: includes/class-ur-privacy.php:87
+msgid "Available Modules"
+msgstr "可用模块"
+
+#: includes/class-ur-privacy.php:69
+msgid "Who on our team has access"
+msgstr "我们团队中的谁有权访问"
+
+#: includes/class-ur-privacy.php:76
+msgid "What we share with others"
+msgstr "我们与他人分享的东西"
+
+#: includes/class-ur-privacy.php:80
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "我们与帮助我们向您提供订单和商店服务的第三方共享信息；例如  -"
+
+#: includes/class-ur-privacy.php:68
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store form submission information for XXX years for geolocating and marketting purposes. This includes your name, address, email, phone number."
+msgstr "我们通常会存储您的有关信息，只要我们出于收集和使用该信息的目的而需要这些信息，并且根据法律，我们不会继续保留这些信息。例如，我们将存储XXX年的表单提交信息，以进行地理定位和营销。这包括您的姓名，地址，电子邮件，电话号码。"
+
+#: includes/class-ur-privacy.php:81
+msgid "Payments"
+msgstr "付款方式"
+
+#: includes/class-ur-privacy.php:75
+msgid "Our team members have access to this information to help fulfill entries and support you."
+msgstr "我们的团队成员可以访问此信息，以帮助完成输入并为您提供支持。"
+
+#: includes/class-ur-privacy.php:70
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Editors can access:"
+msgstr "我们团队的成员可以访问您提供给我们的信息。例如，管理员和编辑者都可以访问："
+
+#: includes/class-ur-privacy.php:78
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "在本部分中，您应该列出与谁共享数据以及出于什么目的共享数据。这可能包括但不限于分析，营销，付款网关，运输提供商和第三方嵌入。"
+
+#: includes/class-ur-privacy.php:72
+msgid "Form submission information and other details related to it"
+msgstr "表单提交信息以及与此相关的其他详细信息"
+
+#: includes/class-ur-privacy.php:73
+msgid "Customer information like your name, email and address information."
+msgstr "客户信息，例如您的姓名，电子邮件和地址信息。"
+
+#: includes/class-ur-privacy.php:56
+msgid "When you fill up a form, we’ll ask you to provide information including your name, address, email, phone number, payment details and optional account information like username and password and any other form fields available in the registration form. We’ll use this information for purposes, such as, to:"
+msgstr "当您填写表格时，我们会要求您提供信息，包括您的姓名，地址，电子邮件，电话号码，付款明细以及可选的帐户信息（例如用户名和密码）以及注册表格中可用的任何其他表格字段。我们会将这些信息用于以下目的："
+
+#: includes/class-ur-privacy.php:61
+msgid "Set up your account for our site"
+msgstr "为我们的网站设置您的帐户"
+
+#: includes/class-ur-privacy.php:64
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "向您发送营销信息（如果您选择接收）"
+
+#: includes/class-ur-privacy.php:58
+msgid "Send you information about your account and order"
+msgstr "向您发送有关您的帐户和订单的信息"
+
+#: includes/class-ur-privacy.php:59
+msgid "Respond to your requests, including transaction details and complaints"
+msgstr "回应您的要求，包括交易细节和投诉"
+
+#: includes/class-ur-privacy.php:60
+msgid "Process payments and prevent fraud"
+msgstr "处理付款并防止欺诈"
+
+#: includes/class-ur-privacy.php:65
+msgid "Or any other service the built form was created to comply with and it’s necessary information"
+msgstr "或创建的其他任何服务都符合生成的表单，并且它是必要的信息"
+
+#: includes/class-ur-privacy.php:63
+msgid "Improve our form offerings"
+msgstr "改善我们的表格"
+
+#: includes/class-ur-privacy.php:67
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "如果您创建一个帐户，我们将存储您的姓名，地址，电子邮件和电话号码，这些信息将用于填充表单字段以供将来提交。"
+
+#: includes/class-ur-privacy.php:62
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "遵守我们承担的任何法律义务，例如计算税金"
+
+#: includes/class-ur-privacy.php:50
+msgid "While you visit our site, we’ll track:"
+msgstr "当您访问我们的网站时，我们将跟踪："
+
+#: includes/class-ur-privacy.php:49
+msgid "What we collect and store"
+msgstr "我们收集和储存的东西"
+
+#: includes/class-ur-privacy.php:48
+msgid "We collect information about the user during the user registration form submission process on our site."
+msgstr "我们会在我们网站上的用户注册表单提交过程中收集有关用户的信息。"
+
+#: includes/class-ur-privacy.php:54
+msgid "Transaction Details: we’ll ask you to enter this so we can, for instance, provide subscription packs, and keep track of your payment details for subscription packs!"
+msgstr "交易明细：我们将要求您输入交易明细，例如，我们可以提供订阅包，并跟踪您的订阅包付款细节！"
+
+#: includes/class-ur-privacy.php:45
+msgid "This sample policy includes the basics around what personal data you may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your form will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "此样本策略包括有关您可能收集，存储和共享哪些个人数据以及谁可以访问这些数据的基础知识。根据启用的设置和使用的其他插件，您的表单共享的特定信息会有所不同。我们建议您决定在隐私政策中披露哪些信息时，请咨询律师。"
+
+#: includes/class-ur-privacy.php:53
+msgid "Location, IP address and browser type: we’ll use this for purposes like geolocating users and reducing fraudulent activities."
+msgstr "位置，IP地址和浏览器类型：我们将其用于定位用户和减少欺诈活动。"
+
+#: includes/class-ur-privacy.php:52
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "表单字段数据：表单字段数据包含创建表单时可用的字段类型。例如，我们将使用它来收集诸如姓名，电子邮件和其他可用字段之类的信息。"
+
+#: includes/class-ur-frontend-scripts.php:396
+#: includes/functions-ur-core.php:986
+msgid "Weak"
+msgstr "弱"
+
+#: includes/class-ur-frontend-scripts.php:395
+#: includes/functions-ur-core.php:985
+msgid "Very Weak"
+msgstr "非常弱"
+
+#: includes/admin/class-ur-admin-export-users.php:123
+msgid "User Role"
+msgstr "用户角色"
+
+#: includes/admin/class-ur-admin-export-users.php:126
+msgid "User Registered GMT"
+msgstr "用户注册的格林尼治标准时间"
+
+#: includes/admin/class-ur-admin-export-users.php:125
+msgid "User Registered"
+msgstr "用户注册"
+
+#: includes/admin/class-ur-admin-export-users.php:132
+msgid "User ID"
+msgstr "用户ID"
+
+#: includes/class-ur-frontend-scripts.php:398
+#: includes/functions-ur-core.php:988
+msgid "Strong"
+msgstr "强大"
+
+#: includes/class-ur-frontend-scripts.php:393
+msgid "Please enter a stronger password."
+msgstr "请输入一个更强的密码。"
+
+#: includes/admin/class-ur-admin-export-users.php:68
+msgid "No users found with this form id."
+msgstr "找不到使用此表单ID的用户。"
+
+#: includes/class-ur-frontend-scripts.php:397
+#: includes/functions-ur-core.php:987
+msgid "Medium"
+msgstr "中等"
+
+#: includes/class-ur-frontend-scripts.php:402
+msgid "Hint: To make password stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+msgstr "提示：为了使密码更安全，请使用大小写字母，数字和符号，例如！。 \"？$％^＆）。"
+
+#: includes/admin/settings/class-ur-settings-import-export.php:42
+#: includes/admin/views/html-admin-page-export-users.php:13
+#: includes/admin/views/html-admin-page-export-users.php:35
+msgid "Export Users"
+msgstr "导出用户"
+
+#: includes/admin/settings/class-ur-settings-general.php:43
+#: includes/admin/settings/class-ur-settings-general.php:367
+msgid "Login Options"
+msgstr "登录选项"
+
+#: includes/admin/settings/class-ur-settings-general.php:375
+#: includes/functions-ur-core.php:1059
+msgid "Form Template"
+msgstr "表单模板"
+
+#: includes/admin/settings/class-ur-settings-general.php:420
+msgid "Enable remember me"
+msgstr "启用记住我"
+
+#: includes/admin/settings/class-ur-settings-general.php:430
+msgid "Enable lost password"
+msgstr "启用密码遗失"
+
+#: includes/admin/settings/class-ur-settings-general.php:450
+msgid "Enable google reCaptcha"
+msgstr "启用Google reCaptcha"
+
+#: includes/admin/settings/class-ur-settings-general.php:376
+msgid "Choose the login form template."
+msgstr "选择登录表单模板。"
+
+#: includes/admin/settings/class-ur-settings-general.php:424
+msgid "Check to enable/disable remember me."
+msgstr "选中以启用/禁用记住我。"
+
+#: includes/admin/settings/class-ur-settings-general.php:434
+msgid "Check to enable/disable lost password."
+msgstr "选中以启用/禁用丢失的密码。"
+
+#: includes/admin/views/html-admin-page-forms.php:35
+msgid "Copy Shortcode!"
+msgstr "复制简码！"
+
+#: includes/admin/views/html-admin-page-forms.php:35
+msgid "Copied!"
+msgstr "复制！"
+
+#: includes/admin/views/html-notice-deactivation.php:23
+msgid "Before we deactivate User Registration, would you care to <a href=\"%1$s\" target=\"_blank\">let us know why</a> so we can improve it for you? <a href=\"%2$s\">No, deactivate now</a>."
+msgstr "在停用用户注册之前，您是否愿意<a href=\"%1$s\" target=\"_blank\">让我们知道原因</a>，以便我们为您进行改进？ <a href=\"%2$s\">不，立即停用</a>。"
+
+#: includes/class-ur-ajax.php:150 includes/class-ur-shortcodes.php:192
+msgid "You are currently logged in as %1$1s. %2$2s"
+msgstr "您当前以%1$1s的身份登录。 %2$2s"
+
+#: includes/admin/settings/class-ur-settings-general.php:168
+msgid "Vertical"
+msgstr "垂直"
+
+#: includes/class-ur-email-confirmation.php:73
+msgctxt "The action on users list page"
+msgid "Verify"
+msgstr "校验"
+
+#: includes/class-ur-email-confirmation.php:74
+msgctxt "The action on users list page"
+msgid "Unverify"
+msgstr "取消验证"
+
+#: includes/admin/settings/class-ur-settings-general.php:159
+msgid "This option lets you choose layout for user registration my account tab."
+msgstr "此选项使您可以选择“用户注册”选项卡上的用户注册布局。"
+
+#: includes/admin/class-ur-admin-assets.php:388
+msgctxt "user registration admin"
+msgid "This field is one time draggable."
+msgstr "此字段是一次可拖动的字段。"
+
+#: includes/class-ur-form-handler.php:338
+msgid "Password changed successfully."
+msgstr "密码更换成功。"
+
+#: includes/admin/settings/class-ur-settings-general.php:116
+msgid "My account Section"
+msgstr "我的帐户部分"
+
+#: includes/admin/settings/class-ur-settings-general.php:158
+msgid "Layout"
+msgstr "布局"
+
+#: includes/functions-ur-account.php:56
+msgid "Invalid username. %1s"
+msgstr "无效的用户名。 ％1s"
+
+#: templates/myaccount/form-edit-profile.php:105
+msgid "Gravatar"
+msgstr "头像"
+
+#: templates/myaccount/dashboard.php:81
+msgid "From your account dashboard you can edit your <a href=\"%1$s\"> profile details</a> and <a href=\"%2$s\">edit your password</a>."
+msgstr "在帐户信息中心中，您可以编辑<a href=\"%1$s\">个人资料详细信息</a>和<a href=\"%2$s\">编辑密码</a>。"
+
+#: includes/admin/settings/class-ur-settings-general.php:176
+msgid "Endpoints: "
+msgstr "断点："
+
+#: includes/admin/settings/class-ur-settings-general.php:188
+msgid "Endpoint for the \"My account &rarr; Change Password\" page."
+msgstr "“我的帐户&rarr;更改密码”页面的端点。"
+
+#: templates/myaccount/form-edit-password.php:39
+msgid "Current password"
+msgstr "当前密码"
+
+#: includes/admin/class-ur-admin-assets.php:389
+msgctxt "user registration admin"
+msgid "Could not clone this field."
+msgstr "无法克隆此字段。"
+
+#: includes/admin/settings/class-ur-settings-general.php:187
+#: includes/class-ur-query.php:72 includes/functions-ur-account.php:110
+#: templates/myaccount/form-edit-password.php:35
+msgid "Change Password"
+msgstr "更改密码"
+
+#: includes/admin/settings/class-ur-settings-general.php:167
+msgid "Horizontal"
+msgstr "水平"
+
+#: includes/functions-ur-account.php:53
+msgid "The password you entered for username %1$1s is incorrect. %2$2s"
+msgstr "您为用户名%1$1s输入的密码不正确。%2$2s"
+
+#: includes/class-ur-email-confirmation.php:414
+#: includes/class-ur-user-approval.php:221
+msgid "Resend Verification Link"
+msgstr "重新发送验证链接"
+
+#: includes/functions-ur-account.php:53 includes/functions-ur-account.php:56
+msgid "Lost Your Password?"
+msgstr "忘记密码？"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have successfully completed user registration on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please visit '<b>My Account</b>' page to edit your account details and create your user profile on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}，您好，<br/>\n"
+"\n"
+"您已经在<a href=\"{{home_url}}\"> {{blog_info}} </a>上成功完成了用户注册。 <br/>\n"
+"\n"
+"请访问“ <b>我的帐户</b>”页面，以编辑您的帐户详细信息，并在<a href=\"{{home_url}}\"> {{blog_info}} </a>上创建用户个人资料。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:92
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"Your registration on <a href=\"{{home_url}}\">{{blog_info}}</a> has been changed to pending. <br/>\n"
+"\n"
+"Sorry for the inconvenience. <br/>\n"
+"\n"
+"You will be notified after it is approved. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}，您好：<br/>\n"
+"\n"
+"您在<a href=\"{{home_url}}\"> {{blog_info}}</a>上的注册已更改为待处理。 <br/>\n"
+"\n"
+"不便之处，敬请见谅。 <br/>\n"
+"\n"
+"批准后会通知您。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"Your registration on <a href=\"{{home_url}}\">{{blog_info}}</a>  has been approved. <br/>\n"
+"\n"
+"Please visit '<b>My Account</b>' page to edit your account details and create your user profile on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}，您好：<br/>\n"
+"\n"
+"您在<a href=\"{{home_url}}\"> {{blog_info}}</a>上的注册已获批准。 <br/>\n"
+"\n"
+"请访问“ <b>我的帐户</b>”页面来编辑您的帐户详细信息，并在<a href=\"{{home_url}}\"> {{blog_info} }</a>。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Unfortunately your registration is denied. Sorry for the inconvenience. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}，您好，<br/>\n"
+"\n"
+"您已在<a href=\"{{home_url}}\"> {{blog_info}}</a>上注册。 <br/>\n"
+"\n"
+"很遗憾，您的注册被拒绝了。抱歉给你带来不便。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:82
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please click on this verification link {{home_url}}/{{ur_login}}?ur_token={{email_token}} to confirm registration. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}，您好，<br/>\n"
+"\n"
+"您已在<a href=\"{{home_url}}\"> {{blog_info}}</a>上注册。 <br/>\n"
+"\n"
+"请点击此验证链接{{home_url}} / {{ur_login}}？ur_token = {{email_token}}确认注册。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:90
+msgid ""
+"Hi {{username}}, <br/>\n"
+"\n"
+"You have registered on <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please wait until the site admin approves your registration. You will be notified after it is approved. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"{{username}}，您好，<br/>\n"
+"\n"
+"您已在<a href=\"{{home_url}}\"> {{blog_info}}</a>上注册。 <br/>\n"
+"\n"
+"请等待网站管理员批准您的注册。批准后会通知您。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:99
+msgid ""
+"Hi Admin, <br/>\n"
+"\n"
+"A new user {{username}} - {{email}} has successfully registered to your site <a href=\"{{home_url}}\">{{blog_info}}</a>. <br/>\n"
+"\n"
+"Please review the user role and details at '<b>Users</b>' menu in your WP dashboard. <br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"管理员，您好，<br/>\n"
+"\n"
+"新用户{{username}} - {{email}}已成功注册到您的站点<a href=\"{{home_url}}\">{{blog_info}}</a>。 <br/>\n"
+"\n"
+"请在WP仪表盘的“<b>用户</b>”菜单上查看用户角色和详细信息。 <br/>\n"
+"\n"
+"谢谢！"
+
+#: includes/admin/settings/class-ur-settings-general.php:301
+msgid "Website URL"
+msgstr "网址"
+
+#: includes/class-ur-email-confirmation.php:186
+msgid "Verified"
+msgstr "已验证"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:57
+msgid "Use comma to send emails to multiple receipents."
+msgstr "使用逗号将电子邮件发送到多个收货人。"
+
+#: includes/admin/settings/class-ur-settings-general.php:279
+#: includes/class-ur-frontend-scripts.php:367
+msgid "This field is required."
+msgstr "这是必填栏。"
+
+#: includes/admin/settings/class-ur-settings-general.php:232
+msgid "Success Messages"
+msgstr "成功讯息"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:138
+msgid "Something went wrong! please try again"
+msgstr "出问题了！请再试一次"
+
+#: includes/admin/settings/class-ur-settings-general.php:307
+#: includes/class-ur-frontend-scripts.php:369
+msgid "Please enter a valid URL."
+msgstr "请输入有效网址。"
+
+#: includes/admin/settings/class-ur-settings-general.php:317
+#: includes/class-ur-frontend-scripts.php:370
+msgid "Please enter a valid number."
+msgstr "请输入一个有效的数字。"
+
+#: includes/admin/settings/class-ur-settings-general.php:297
+#: includes/class-ur-frontend-scripts.php:368
+msgid "Please enter a valid email address."
+msgstr "请输入有效的电子邮件地址。"
+
+#: includes/class-ur-email-confirmation.php:188
+msgid "Pending"
+msgstr "待定"
+
+#: includes/admin/settings/class-ur-settings-general.php:337
+#: includes/class-ur-frontend-scripts.php:371
+msgid "Password and confirm password not matched."
+msgstr "密码和确认密码不匹配。"
+
+#: includes/admin/settings/class-ur-settings-general.php:341
+#: includes/admin/settings/class-ur-settings-integration.php:47
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+#: includes/admin/settings/class-ur-settings-general.php:268
+msgid "Error Messages"
+msgstr "错误讯息"
+
+#: includes/admin/settings/class-ur-settings-general.php:302
+msgid "Enter the error message in form submission on website/URL."
+msgstr "在网站/ URL上的表单提交中输入错误消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:274
+msgid "Enter the error message in form submission on required fields."
+msgstr "在表单字段的必填字段中输入错误消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:312
+msgid "Enter the error message in form submission on Number."
+msgstr "在编号提交的表单中输入错误消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:342
+msgid "Enter the error message in form submission on google recaptcha."
+msgstr "在Google Recaptcha的表单提交中输入错误消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:292
+msgid "Enter the error message in form submission on Email."
+msgstr "在通过电子邮件提交的表单中输入错误消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:332
+msgid "Enter the error message in form submission on Confim Password."
+msgstr "在确认密码的表单提交中输入错误消息。"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:55
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:56
+msgid "Email Receipents"
+msgstr "电子邮件收据"
+
+#: includes/functions-ur-core.php:1078
+msgid "Custom CSS class"
+msgstr "自定义CSS类"
+
+#: includes/admin/functions-ur-admin.php:233
+msgid "WordPress User Extra Information"
+msgstr "WordPress用户额外信息"
+
+#: includes/admin/functions-ur-admin.php:150
+#: includes/admin/functions-ur-admin.php:213
+msgid "User Extra Information"
+msgstr "用户额外信息"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:89
+msgid ""
+"Someone has requested a password reset for the following account: <br/>\n"
+"\n"
+"SiteName: {{blog_info}} <br/>\n"
+"Username: {{username}} <br/>\n"
+"\n"
+"If this was a mistake, just ignore this email and nothing will happen. <br/>\n"
+"\n"
+"To reset your password, visit the following address: <br/>\n"
+"<a href=\"{{home_url}}/{{ur_login}}?action=rp&key={{key}}&login={{username}} \" rel=\"noreferrer noopener\" target=\"_blank\">Click Here</a><br/>\n"
+"\n"
+"Thank You!"
+msgstr ""
+"有人要求重置以下帐户的密码：<br/>\n"
+"\n"
+"网站名称：{{blog_info}} <br/>\n"
+"用户名：{{username}} <br/>\n"
+"\n"
+"如果这是错误的，只需忽略此电子邮件，什么都不会发生。 <br/>\n"
+"\n"
+"要重置密码，请访问以下地址：<br/>\n"
+"<a href=\"{{home_url}}/{{ur_login}}?action=rp&key={{key}}&login={{username}} \" rel=\"noreferrer noopener\" target=\"_blank\">点击此处</a><br/> \n"
+"\n"
+"谢谢！"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:372
+msgid "The email could not be sent. Contact your site administrator. "
+msgstr "电子邮件无法发送。请与您的站点管理员联系。"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:24
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:41
+msgid "Reset Password Email"
+msgstr "重设密码电邮"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:59
+#: includes/class-ur-emailer.php:426
+msgid "Password Reset Email: {{blog_info}}"
+msgstr "密码重置电子邮件：{{blog_info}}"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:48
+msgid "Enable this email sent to the user when a user requests for reset password."
+msgstr "当用户请求重设密码时，启用发送给用户的电子邮件。"
+
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:25
+msgid "Email sent to the user when a user requests for reset password"
+msgstr "用户请求重设密码时发送给用户的电子邮件"
+
+#: includes/class-ur-email-confirmation.php:438
+msgid "Email not verified! Verify your email by clicking on the link sent to your email."
+msgstr "电子邮件未验证！通过单击发送到您的电子邮件的链接来验证您的电子邮件。"
+
+#: includes/class-ur-email-confirmation.php:223
+msgid "Verification Email Sent!"
+msgstr "验证电子邮件已发送！"
+
+#: includes/functions-ur-core.php:777
+msgid "Hide Label"
+msgstr "隐藏标签"
+
+#: includes/admin/settings/class-ur-settings-general.php:44
+#: includes/admin/settings/class-ur-settings-general.php:229
+msgid "Frontend Messages"
+msgstr "前端消息"
+
+#: includes/admin/settings/class-ur-settings-general.php:238
+msgid "Enter the text message after successful form submission on manual login after registration."
+msgstr "注册成功后通过手动登录成功提交表单后输入文本消息。"
+
+#: includes/admin/settings/class-ur-settings-general.php:248
+msgid "Enter the text message after successful form submission on email confirmation to login."
+msgstr "在成功提交表单后，通过电子邮件确认输入文本消息以登录。"
+
+#: includes/admin/settings/class-ur-settings-general.php:258
+msgid "Enter the text message after successful form submission on admin approval after registration."
+msgstr "注册成功后，在获得管理员批准后，成功提交表单后，请输入短信。"
+
+#: includes/functions-ur-core.php:699 includes/functions-ur-core.php:736
+#: includes/functions-ur-core.php:738
+msgid "Description"
+msgstr "描述"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:182
+msgid "Users"
+msgstr "用户数"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:182
+msgid "User Registration:"
+msgstr "用户注册："
+
+#: includes/admin/class-ur-admin-user-list-manager.php:182
+#: includes/admin/class-ur-admin.php:281
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "用户"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:182
+msgid "pending approval."
+msgstr "等待批准。"
+
+#: includes/class-ur-emailer.php:589 includes/functions-ur-core.php:2026
+msgid "Chosen Password"
+msgstr "选择密码"
+
+#: includes/class-ur-install.php:655
+msgid "Visit free customer support"
+msgstr "访问免费的客户支持"
+
+#. translators: %s - Link to logout.
+#: includes/shortcodes/class-ur-shortcode-login.php:66
+msgid "You are already logged in. <a href=\"%s\">Log out?</a>"
+msgstr "您已经登录。<a href=\"%s\">要退出吗？</a>"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:48
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:67
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:58
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:57
+msgid "The email subject you want to customize."
+msgstr "您要自定义的电子邮件主题。"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:75
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:58
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:76
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:68
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:66
+msgid "The email content you want to customize."
+msgstr "您要自定义的电子邮件内容。"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:60
+#: includes/class-ur-emailer.php:261
+msgid "Thank you for registration on {{blog_info}}"
+msgstr "感谢您在{{blog_info}}上注册"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:42
+msgid "Successfully Registered Email"
+msgstr "成功注册电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:60
+#: includes/class-ur-emailer.php:274 includes/class-ur-emailer.php:381
+msgid "Sorry! Registration denied on {{blog_info}}"
+msgstr "抱歉! {{blog_info}}上的注册被拒绝"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:61
+#: includes/class-ur-emailer.php:368
+msgid "Sorry! Registration changed to pending on {{blog_info}}"
+msgstr "抱歉!注册已更改为{{blog_info}}上的待处理"
+
+#: includes/admin/settings/class-ur-settings-email.php:253
+msgid "Smart Tags Used"
+msgstr "使用的智能标签"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:44
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:44
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:45
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:44
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:45
+msgid "Return to emails"
+msgstr "返回电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:42
+msgid "Registration Pending Email"
+msgstr "注册待处理电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:42
+msgid "Registration Denied Email"
+msgstr "注册被拒绝的电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:25
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:42
+msgid "Registration Approved Email"
+msgstr "注册批准电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:51
+#: includes/class-ur-emailer.php:248
+msgid "Please confirm your registration on {{blog_info}}"
+msgstr "请在{{blog_info}}上确认您的注册"
+
+#: includes/admin/settings/class-ur-settings-email.php:91
+msgid "How the sender name appears in outgoing user registration emails."
+msgstr "发件人名称在外发用户注册电子邮件中的显示方式。"
+
+#: includes/admin/settings/class-ur-settings-email.php:102
+msgid "How the sender email appears in outgoing user registration emails."
+msgstr "发件人电子邮件在外发用户注册电子邮件中的显示方式。"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:49
+msgid "Enable this email sent to user notifying the registration is awaiting admin approval."
+msgstr "启用发送给用户的电子邮件，通知注册正在等待管理员批准。"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:49
+msgid "Enable this email sent to the user after successful user registration."
+msgstr "成功注册用户后，启用发送给用户的电子邮件。"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:48
+msgid "Enable this email sent to admin after successful user registration."
+msgstr "成功注册用户后，启用发送给管理员的电子邮件。"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:47
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:48
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:47
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:48
+msgid "Enable this email"
+msgstr "启用此电子邮件"
+
+#: includes/admin/settings/class-ur-settings-email.php:34
+#: includes/admin/settings/class-ur-settings-email.php:70
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:38
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:38
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:39
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:38
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:39
+msgid "Emails"
+msgstr "电邮"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:47
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:66
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:56
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:57
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:55
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:56
+msgid "Email Subject"
+msgstr "电子邮件主题"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:26
+msgid "Email sent to the user notifying the registration is pending"
+msgstr "发送给用户的电子邮件，通知注册未决"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:26
+msgid "Email sent to the user notifying the registration is denied by the admin"
+msgstr "发送给用户的电子邮件通知注册已被管理员拒绝"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:26
+msgid "Email sent to the user notifying the registration is awaiting admin approval"
+msgstr "发送给用户的电子邮件，通知注册正在等待管理员批准"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:26
+msgid "Email sent to the user notifying the registration is approved by site admin"
+msgstr "发送给用户的电子邮件，通知注册已由站点管理员批准"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:26
+msgid "Email sent to the user after successful registration"
+msgstr "成功注册后发送给用户的电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:25
+msgid "Email sent to the admin when a new user registers"
+msgstr "新用户注册后发送给管理员的电子邮件"
+
+#: includes/admin/settings/class-ur-settings-email.php:85
+msgid "Email Sender Options"
+msgstr "电子邮件发件人选项"
+
+#: includes/admin/settings/class-ur-settings-email.php:75
+msgid "Email notifications sent from user registration are listed below. Click on an email to configure it."
+msgstr "从用户注册发送的电子邮件通知在下面列出。单击电子邮件进行配置。"
+
+#: includes/admin/settings/class-ur-settings-email.php:73
+msgid "Email notifications"
+msgstr "电子邮件通知"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:74
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:57
+#: includes/admin/settings/emails/class-ur-settings-profile-details-changed-email.php:75
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-registration-denied-email.php:65
+#: includes/admin/settings/emails/class-ur-settings-registration-pending-email.php:67
+#: includes/admin/settings/emails/class-ur-settings-reset-password-email.php:64
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:65
+msgid "Email Content"
+msgstr "邮件内容"
+
+#: includes/admin/settings/emails/class-ur-settings-email-confirmation.php:24
+msgid "Email Confirmation"
+msgstr "邮件确认"
+
+#: includes/admin/settings/class-ur-settings-email.php:180
+#: includes/admin/settings/class-ur-settings-general.php:291
+#: includes/functions-ur-core.php:1125
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-successfully-registered-email.php:60
+#: includes/class-ur-emailer.php:287
+msgid "Congratulations! Registration Complete on {{blog_info}}"
+msgstr "恭喜你！在{{blog_info}}上完成注册"
+
+#: includes/admin/settings/emails/class-ur-settings-registration-approved-email.php:60
+#: includes/class-ur-emailer.php:394
+msgid "Congratulations! Registration approved on {{blog_info}}"
+msgstr "恭喜你！已在{{blog_info}}上批准注册"
+
+#: includes/admin/settings/class-ur-settings-email.php:181
+#: includes/admin/settings/class-ur-settings-email.php:200
+msgid "Configure"
+msgstr "配置"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:42
+msgid "Awaiting Admin Approval Email"
+msgstr "等待管理员批准电子邮件"
+
+#: includes/admin/settings/emails/class-ur-settings-awaiting-admin-approval-email.php:25
+msgid "Awaiting Admin Approval"
+msgstr "等待管理员批准"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:24
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:41
+msgid "Admin Email"
+msgstr "管理员电子邮件"
+
+#: includes/admin/settings/class-ur-settings-email.php:90
+msgid "\"From\" name"
+msgstr "\"发件人\"名字"
+
+#: includes/admin/settings/class-ur-settings-email.php:101
+msgid "\"From\" address"
+msgstr "\"发件人\"地址"
+
+#: includes/form/class-ur-form-field-radio.php:38
+#: includes/form/class-ur-form-field-radio.php:43
+#: includes/functions-ur-core.php:710
+msgid "Radio"
+msgstr "无线电"
+
+#: includes/form/class-ur-form-field-privacy-policy.php:35
+#: includes/form/class-ur-form-field-privacy-policy.php:40
+#: includes/functions-ur-core.php:709
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: includes/class-ur-email-confirmation.php:414
+#: includes/class-ur-user-approval.php:221
+msgid "Your account is still pending approval. Verify your email by clicking on the link sent to your email. %s"
+msgstr "您的帐户仍在等待批准。通过单击发送到您的电子邮件的链接来验证您的电子邮件。 %s"
+
+#: includes/class-ur-email-confirmation.php:208
+msgid "User successfully registered. Login to continue."
+msgstr "用户成功注册。登录以继续。"
+
+#: includes/admin/settings/class-ur-settings-general.php:263
+#: includes/class-ur-frontend-scripts.php:380
+msgid "User registered. Wait until admin approves your registration."
+msgstr "用户注册。等待管理员批准您的注册。"
+
+#: includes/admin/settings/class-ur-settings-general.php:253
+#: includes/class-ur-frontend-scripts.php:381
+msgid "User registered. Verify your email by clicking on the link sent to your email."
+msgstr "用户注册。通过单击发送到您的电子邮件的链接来验证您的电子邮件。"
+
+#: includes/class-ur-email-confirmation.php:213
+msgid "Token Mismatch!"
+msgstr "令牌不匹配！"
+
+#: includes/admin/class-ur-admin.php:124
+msgid "Thank You!"
+msgstr "谢谢！"
+
+#: includes/admin/settings/class-ur-settings-general.php:247
+#: includes/functions-ur-core.php:1107
+msgid "Email confirmation to login"
+msgstr "通过电子邮件确认登录"
+
+#: includes/functions-ur-core.php:1421
+msgid "Disable emails"
+msgstr "禁用电子邮件"
+
+#: includes/functions-ur-core.php:1422
+msgid "Disable all emails sent after registration."
+msgstr "禁用注册后发送的所有电子邮件。"
+
+#: includes/form/class-ur-form-field-checkbox.php:35
+#: includes/form/class-ur-form-field-checkbox.php:40
+#: includes/functions-ur-core.php:708
+msgid "Checkbox"
+msgstr "复选框"
+
+#: includes/admin/settings/class-ur-settings-general.php:461
+msgid "This option lets you enter the registration page url in login form."
+msgstr "此选项使您可以以登录形式输入注册页面网址。"
+
+#: includes/admin/settings/class-ur-settings-general.php:470
+msgid "This option lets you enter the label to registration url in login form."
+msgstr "通过此选项，您可以在登录表单中输入注册网址的标签。"
+
+#: includes/admin/class-ur-admin.php:135
+msgid "Thank you for using User Registration."
+msgstr "感谢您使用用户注册。"
+
+#: includes/admin/class-ur-admin-form-modal.php:76
+msgid "Select a form below to insert"
+msgstr "选择下面的表单以插入"
+
+#: includes/admin/settings/class-ur-settings-general.php:387
+#: includes/functions-ur-core.php:1070
+msgid "Rounded Edge"
+msgstr "圆边"
+
+#: includes/admin/settings/class-ur-settings-general.php:386
+#: includes/functions-ur-core.php:1069
+msgid "Rounded"
+msgstr "四舍五入"
+
+#: includes/admin/settings/class-ur-settings-general.php:469
+msgid "Registration URL label"
+msgstr "注册网址标签"
+
+#: includes/admin/settings/class-ur-settings-general.php:460
+msgid "Registration URL"
+msgstr "注册网址"
+
+#: includes/admin/settings/class-ur-settings-general.php:475
+#: templates/myaccount/form-login.php:174
+msgid "Not a member yet? Register now."
+msgstr "还不是会员？现在注册。"
+
+#: includes/admin/class-ur-admin-form-modal.php:67
+msgid "Insert Form"
+msgstr "插入表单"
+
+#. translators: 1: WooCommerce 2:: five stars
+#: includes/admin/class-ur-admin.php:122
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "如果您喜欢%1$s请给我们%2$s评分。预先非常感谢！"
+
+#: includes/admin/class-ur-admin-form-modal.php:68
+msgid "Close"
+msgstr "关闭"
+
+#: includes/admin/class-ur-admin-assets.php:379
+#: includes/admin/class-ur-admin-form-modal.php:93
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/admin/class-ur-admin-form-modal.php:49
+msgid "Add User Registration Form"
+msgstr "增加用户注册表单"
+
+#: includes/admin/class-ur-admin-form-modal.php:51
+msgid "Add Registration Form"
+msgstr "增加注册表单"
+
+#: includes/admin/class-ur-admin-form-modal.php:97
+msgid "Add Form"
+msgstr "添加表单"
+
+#: includes/admin/views/html-notice-key-deactivated.php:14
+msgid "Your licence for <strong>%s</strong> has been deactivated."
+msgstr "您的<strong>%s</strong>许可证已被停用。"
+
+#: includes/admin/views/html-notice-key-activated.php:14
+msgid "Your licence for <strong>%s</strong> has been activated. Thanks!"
+msgstr "您的<strong>%s</strong>许可证已激活。谢谢！"
+
+#: includes/admin/updater/class-ur-addon-updater.php:468
+msgid "You do not have permission to install plugin updates"
+msgstr "您无权安装插件更新"
+
+#: includes/admin/class-ur-admin-menus.php:401
+msgid "User Registration Status"
+msgstr "用户注册状态"
+
+#: includes/admin/views/html-admin-page-addons.php:16
+msgid "User Registration Extensions"
+msgstr "用户注册扩展"
+
+#: includes/admin/class-ur-admin-menus.php:435
+msgid "User Registration extensions"
+msgstr "用户注册扩展"
+
+#: includes/class-ur-logger.php:137
+msgid "UR_Logger::log was called with an invalid level \"%s\"."
+msgstr "使用无效级别\"%s\"调用了UR_Logger :: log。"
+
+#: includes/functions-ur-core.php:998
+msgid "This option lets you enter redirect path after successful user registration."
+msgstr "此选项使您可以在成功注册用户后输入重定向路径。"
+
+#: includes/log-handlers/class-ur-log-handler-file.php:353
+msgid "This method should not be called before plugins_loaded."
+msgstr "在plugins_loaded之前不应调用此方法。"
+
+#: includes/class-ur-plugin-updater.php:350
+msgid "This appears to be an invalid license key for <strong>%1$s</strong>."
+msgstr "这似乎是<strong>%1$s</strong>的无效许可证密钥。"
+
+#: includes/admin/updater/class-ur-addon-updater.php:261
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "已有%1$s的新版本。 %2$s查看版本%3$s详细信息%4$s 。"
+
+#: includes/admin/updater/class-ur-addon-updater.php:269
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "已有%1$s的新版本。 %2$s查看版本%3$s详细信息%4$s或%5$s现在更新%6$s 。"
+
+#: includes/admin/views/html-admin-page-status-logs.php:51
+msgid "There are currently no logs to view."
+msgstr "当前没有日志可查看。"
+
+#: includes/class-ur-plugin-updater.php:354
+msgid "The provided license key has reached its activation limit. Please <a href=\"%1$s\" target=\"_blank\">View possible upgrades</a> now."
+msgstr "提供的许可证密钥已达到其激活限制。请立即<a href=\"%1$s\" target=\"_blank\">查看可能的升级</a>。"
+
+#: includes/class-ur-plugin-updater.php:336
+msgid "The provided license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "提供的许可证密钥已被禁用。请<a href=\"%s\" target=\"_blank\">联系支持</a>以获取更多信息。"
+
+#: includes/class-ur-plugin-updater.php:332
+msgid "The provided license key expired on %1$s. Please <a href=\"%2$s\" target=\"_blank\">renew your license key</a>."
+msgstr "提供的许可证密钥已于%1$s过期。请<a href=\"%2$s\" target=\"_blank\">更新您的许可证密钥</a>。"
+
+#: includes/class-ur-plugin-updater.php:362
+msgid "The provided license key could not be found. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr "找不到提供的许可证密钥。请<a href=\"%s\" target=\"_blank\">联系支持</a>以获取更多信息。"
+
+#: includes/class-ur-plugin-updater.php:345
+msgid "The provided license is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr "提供的许可证对该URL无效。请<a href=\"%s\" target=\"_blank\">访问您的帐户页面</a>以管理您的许可证密钥URL。"
+
+#: includes/class-ur-plugin-updater.php:340
+msgid "The provided license is invalid. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> and verify it."
+msgstr "提供的许可证无效。请<a href=\"%s\" target=\"_blank\">访问您的帐户页面</a>并进行验证。"
+
+#: includes/class-ur-logger.php:58
+msgid "The provided handler <code>%s</code> does not implement UR_Log_Handler_Interface."
+msgstr "提供的处理程序<code>%s</code>不实现UR_Log_Handler_Interface。"
+
+#: includes/class-ur-plugin-updater.php:358
+msgid "The key you entered belongs to a bundle, please use the product specific license key."
+msgstr "您输入的密钥属于捆绑销售商品，请使用产品专用的许可证密钥。"
+
+#: includes/functions-ur-core.php:1320
+msgid "The class <code>%s</code> provided by user_registration_logging_class filter must implement <code>UR_Logger_Interface</code>."
+msgstr "user_registration_logging_class过滤器提供的类<code>%s</code>必须实现<code> UR_Logger_Interface</code>。"
+
+#: includes/functions-ur-core.php:996
+msgid "Redirect URL"
+msgstr "重定向网址"
+
+#. translators: %s - User Registration Extensions Catalog
+#: includes/admin/views/html-admin-page-addons.php:74
+msgid "Our catalog of User Registration Extensions can be found on WPEverest.com here: <a href=\"%s\">User Registration Extensions Catalog</a>"
+msgstr "我们的用户注册扩展目录可在WPEverest.com上找到：<a href=\"%s\">用户注册扩展目录</a>"
+
+#: includes/admin/settings/class-ur-settings-general.php:311
+#: includes/form/class-ur-form-field-number.php:37
+#: includes/form/class-ur-form-field-number.php:42
+#: includes/functions-ur-core.php:706
+msgid "Number"
+msgstr "数"
+
+#: includes/admin/views/html-admin-page-status.php:14
+msgid "Logs"
+msgstr "日志"
+
+#: includes/admin/views/html-license-form.php:20
+msgid "License:"
+msgstr "许可证："
+
+#: includes/admin/views/html-notice-key-unvalidated.php:14
+msgid "Hide notice"
+msgstr "隐藏通知"
+
+#: includes/admin/settings/class-ur-settings-general.php:385
+#: includes/functions-ur-core.php:1068
+msgid "Flat"
+msgstr "平面"
+
+#: includes/admin/updater/class-ur-addon-updater.php:468
+msgid "Error"
+msgstr "错误"
+
+#: includes/admin/views/html-license-form.php:22
+msgid "Enter your license key and hit return. A valid key is required for updates."
+msgstr "输入您的许可证密钥，然后按回车键。需要有效的密钥才能进行更新。"
+
+#: includes/admin/views/html-admin-page-status-logs.php:23
+msgid "Delete log"
+msgstr "删除日志"
+
+#: includes/admin/settings/class-ur-settings-general.php:383
+#: includes/functions-ur-core.php:1066
+#: assets/js/wp-color-picker/wp-color-picker-alpha.js:149
+msgid "Default"
+msgstr "默认"
+
+#: includes/class-ur-plugin-updater.php:296
+msgid "Deactivate License Key"
+msgstr "停用许可证密钥"
+
+#: includes/admin/settings/class-ur-settings-license.php:84
+#: includes/admin/settings/class-ur-settings-license.php:92
+#: includes/class-ur-plugin-updater.php:296
+msgid "Deactivate License"
+msgstr "停用许可证"
+
+#: includes/admin/settings/class-ur-settings-general.php:384
+#: includes/functions-ur-core.php:1067
+msgid "Bordered"
+msgstr "带边框"
+
+#. translators: %1$s: Activation error message
+#. translators: %1$s: Activation error message
+#. translators: %1$s: Activation error message
+#. translators: %1$s: Activation error message
+#. translators: %1$s: Activation error message
+#. translators: %1$s: Activation error message
+#. translators: %1$s: Activation error message
+#: includes/class-ur-plugin-updater.php:366 includes/functions-ur-core.php:2311
+#: includes/functions-ur-core.php:2330 includes/functions-ur-core.php:2353
+#: includes/functions-ur-core.php:2371 includes/functions-ur-core.php:2377
+#: includes/functions-ur-core.php:2382 includes/functions-ur-core.php:2395
+msgid "<strong>Activation error:</strong> %1$s"
+msgstr "<strong>激活错误：</strong>： %1$s"
+
+#: includes/admin/views/html-admin-page-status-logs.php:38
+msgid "View"
+msgstr "查看"
+
+#: includes/admin/views/html-notice-registration.php:16
+msgid "To allow users to register for your website via User registration, you must first enable user registration. Go to %1$sSettings > General%2$s tab, and under Membership make sure to check <strong>Anyone can register</strong>."
+msgstr "要允许用户通过用户注册来注册您的网站，必须首先启用用户注册。转到 %1$s设置>常规%2$s标签，然后在“成员资格”下确保选中<strong>任何人都可以注册</strong>。"
+
+#: includes/admin/class-ur-admin-menus.php:436
+msgid "Extensions"
+msgstr "扩展程序"
+
+#: includes/class-ur-user-approval.php:194
+msgid "Your account is still pending approval."
+msgstr "您的帐户仍在等待批准。"
+
+#: includes/class-ur-user-approval.php:199
+msgid "Your account has been denied."
+msgstr "您的帐户已被拒绝。"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:214
+msgid "User denied."
+msgid_plural "%s users denied."
+msgstr[0] "用户%s被拒绝。"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:212
+msgid "User approved."
+msgid_plural "%s users approved."
+msgstr[0] "用户%s已批准。"
+
+#: includes/admin/class-ur-admin-menus.php:402
+#: includes/class-ur-email-confirmation.php:164
+msgid "Status"
+msgstr "状态"
+
+#: includes/admin/class-ur-admin-user-manager.php:361
+msgid "pending"
+msgstr "待定"
+
+#: includes/class-ur-ajax.php:132 includes/class-ur-shortcodes.php:178
+msgid "Only administrators can add new users."
+msgstr "只有管理员可以添加新用户。"
+
+#: includes/class-ur-ajax.php:150 includes/class-ur-shortcodes.php:192
+msgid "Log out of this account."
+msgstr "注销该帐户。"
+
+#: includes/admin/class-ur-admin-user-manager.php:62
+msgid "Impossible to create an UR_Admin_User_Manager object. Unkwon data type."
+msgstr "无法创建UR_Admin_User_Manager对象。 未知数据类型。"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:612
+msgid "If user has access to sign in or not."
+msgstr "用户是否有权登录。"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:371
+msgid "Filter"
+msgstr "过滤"
+
+#: includes/class-ur-email-confirmation.php:414
+#: includes/class-ur-form-handler.php:388
+#: includes/class-ur-form-handler.php:391
+#: includes/class-ur-form-handler.php:396
+#: includes/class-ur-form-handler.php:400
+#: includes/class-ur-form-handler.php:409
+#: includes/class-ur-user-approval.php:194
+#: includes/class-ur-user-approval.php:199
+#: includes/class-ur-user-approval.php:221
+#: includes/class-ur-user-approval.php:235 includes/functions-ur-account.php:53
+#: includes/functions-ur-account.php:56
+msgid "ERROR:"
+msgstr "错误："
+
+#: includes/admin/class-ur-admin-user-list-manager.php:500
+#: includes/admin/class-ur-admin-user-list-manager.php:501
+msgid "Deny"
+msgstr "拒绝"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:86
+msgctxt "The action on users list page"
+msgid "Deny"
+msgstr "拒绝"
+
+#: includes/admin/class-ur-admin-user-manager.php:365
+msgid "denied"
+msgstr "被拒绝"
+
+#: includes/admin/class-ur-admin-user-manager.php:357
+msgid "approved"
+msgstr "已批准"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:497
+#: includes/admin/class-ur-admin-user-list-manager.php:498
+msgid "Approve"
+msgstr "批准"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:85
+msgctxt "The action on users list page"
+msgid "Approve"
+msgstr "批准"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:575
+msgid "Approval Status"
+msgstr "审批状态"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:345
+msgid "All statuses"
+msgstr "所有状态"
+
+#: includes/admin/class-ur-admin-user-list-manager.php:347
+msgid "All approval statuses"
+msgstr "所有批准状态"
+
+#: includes/admin/settings/class-ur-settings-general.php:257
+#: includes/functions-ur-core.php:1109
+msgid "Admin approval after registration"
+msgstr "注册后管理员批准"
+
+#: includes/admin/settings/class-ur-settings-general.php:74
+#: includes/functions-ur-core.php:939
+msgid "User login option"
+msgstr "用户登录选项"
+
+#: includes/admin/settings/class-ur-settings-general.php:75
+#: includes/admin/settings/class-ur-settings-general.php:392
+#: includes/functions-ur-core.php:940
+msgid "This option lets you choose login option after user registration."
+msgstr "此选项使您可以在用户注册后选择登录选项。"
+
+#: includes/admin/settings/class-ur-settings-general.php:237
+#: includes/functions-ur-core.php:1106
+msgid "Manual login after registration"
+msgstr "注册后手动登录"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:130
+msgid "Duplicate"
+msgstr "重复"
+
+#: includes/abstracts/abstract-ur-list-table.php:313
+msgid "Copy of "
+msgstr "备份"
+
+#: includes/functions-ur-core.php:1108
+msgid "Auto login after registration"
+msgstr "注册后自动登录"
+
+#: includes/admin/settings/class-ur-settings-general.php:243
+#: includes/class-ur-frontend-scripts.php:379
+msgid "User successfully registered."
+msgstr "用户成功注册。"
+
+#. Description of the plugin
+msgid "Drag and Drop user registration form and login form builder."
+msgstr "拖放用户注册表单和登录表单构建器。"
+
+#: includes/admin/class-ur-admin-assets.php:236
+msgid "Could not install."
+msgstr "无法安装。"
+
+#: includes/admin/settings/emails/class-ur-settings-admin-email.php:69
+#: includes/class-ur-emailer.php:323
+msgid "A New User Registered"
+msgstr "新用户注册"
+
+#: includes/admin/settings/class-ur-settings-integration.php:66
+#: includes/admin/settings/class-ur-settings-integration.php:87
+msgid "Get site key from google %1$s reCaptcha %2$s."
+msgstr "从Google %1$s reCaptcha %2$s获取站点密钥。"
+
+#: includes/admin/settings/class-ur-settings-integration.php:77
+#: includes/admin/settings/class-ur-settings-integration.php:98
+msgid "Get secret key from google %1$s reCaptcha %2$s."
+msgstr "从Google %1$s reCaptcha %2$s获取密钥。"
+
+#: includes/admin/views/html-admin-page-forms.php:68
+msgid "Form Setting"
+msgstr "表单设置"
+
+#: includes/admin/settings/class-ur-settings-general.php:454
+msgid "Enable %1$s %2$s reCaptcha %3$s support"
+msgstr "启用%1$s %2$s reCaptcha %3$s支持"
+
+#: includes/admin/settings/class-ur-settings-general.php:347
+#: includes/class-ur-ajax.php:111 includes/class-ur-ajax.php:496
+#: includes/class-ur-form-handler.php:391
+#: includes/class-ur-frontend-scripts.php:382
+msgid "Captcha code error, please try again."
+msgstr "验证码错误，请重试。"
+
+#: includes/admin/settings/class-ur-settings-integration.php:27
+#: includes/admin/settings/class-ur-settings-integration.php:44
+msgid "Integration"
+msgstr "集成"
+
+#: includes/form/class-ur-form-field-country.php:283
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#: includes/form/class-ur-form-field-country.php:282
+msgid "Zambia"
+msgstr "赞比亚"
+
+#: includes/admin/class-ur-admin-settings.php:80
+msgid "Your settings have been saved."
+msgstr "您的设置已保存。"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:78
+msgid "Your password has been reset successfully."
+msgstr "您的密码已成功重置。"
+
+#: includes/admin/views/html-notice-updating.php:14
+msgid "Your database is being updated in the background."
+msgstr "您的数据库正在后台更新。"
+
+#: includes/class-ur-form-handler.php:314
+msgid "Your current password is incorrect."
+msgstr "您当前的密码错误。"
+
+#: includes/admin/class-ur-admin-assets.php:221
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "您只能选择1个项目"
+
+#: includes/admin/class-ur-admin-assets.php:222
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "您只能选择％qty％个项目"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:64
+#: includes/form/settings/class-ur-setting-user_login.php:64
+#: includes/functions-ur-core.php:770 includes/functions-ur-core.php:783
+msgid "Yes"
+msgstr "是"
+
+#: includes/form/class-ur-form-field-country.php:281
+msgid "Yemen"
+msgstr "也门"
+
+#: includes/abstracts/abstract-ur-list-table.php:520
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: includes/abstracts/abstract-ur-list-table.php:536
+msgid "Y/m/d"
+msgstr "年/月/日"
+
+#. Author of the plugin
+msgid "WPEverest"
+msgstr "WPEverest"
+
+#: includes/form/class-ur-form-field-country.php:279
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: includes/form/class-ur-form-field-user-url.php:35
+#: includes/form/class-ur-form-field-user-url.php:40
+msgid "Website"
+msgstr "网站"
+
+#: includes/admin/views/html-notice-update.php:14
+msgid "We need to update your site's database to the latest version."
+msgstr "我们需要将您网站的数据库更新为最新版本。"
+
+#: includes/form/class-ur-form-field-country.php:278
+msgid "Wallis and Futuna"
+msgstr "瓦利斯和富图纳群岛"
+
+#: includes/class-ur-install.php:638
+msgid "View User Registration settings"
+msgstr "查看用户注册设置"
+
+#: includes/class-ur-install.php:654
+msgid "View User Registration documentation"
+msgstr "查看用户注册文档"
+
+#: includes/class-ur-post-types.php:56
+msgid "View registrations"
+msgstr "查看注册"
+
+#: includes/class-ur-post-types.php:57
+msgid "View registration"
+msgstr "查看注册"
+
+#: includes/form/class-ur-form-field-country.php:277
+msgid "Vietnam"
+msgstr "越南"
+
+#: includes/form/class-ur-form-field-country.php:276
+msgid "Venezuela"
+msgstr "委内瑞拉"
+
+#: includes/form/class-ur-form-field-country.php:274
+msgid "Vanuatu"
+msgstr "瓦努阿图"
+
+#: includes/form/class-ur-form-field-country.php:273
+msgid "Uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#: includes/admin/settings/class-ur-settings-general.php:513
+#: templates/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr "用户名或邮箱地址"
+
+#: templates/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr "用户名或电子邮件"
+
+#: includes/class-ur-ajax.php:448 includes/class-ur-form-handler.php:354
+msgid "Username is required."
+msgstr "用户名为必填项。"
+
+#: includes/form/class-ur-form-field-user-login.php:57
+msgid "Username already exists."
+msgstr "此用户名已存在。"
+
+#: includes/form/class-ur-form-field-user-login.php:35
+#: includes/form/class-ur-form-field-user-login.php:40
+#: includes/functions-ur-core.php:1124
+msgid "Username"
+msgstr "用户名"
+
+#: includes/admin/class-ur-admin-menus.php:384
+msgid "User Registration settings"
+msgstr "用户注册设置"
+
+#: includes/admin/class-ur-admin-menus.php:522
+msgid "User Registration endpoints"
+msgstr "用户注册端点"
+
+#: includes/admin/views/html-notice-updated.php:16
+msgid "User Registration data update complete. Thank you for updating to the latest version!"
+msgstr "用户注册数据更新完成。感谢您更新到最新版本！"
+
+#: includes/admin/views/html-notice-update.php:14
+#: includes/admin/views/html-notice-updating.php:14
+msgid "User Registration Data Update"
+msgstr "用户注册数据更新"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-ur-admin-registrations-table-list.php:161
+#: includes/admin/class-ur-admin.php:123
+#: includes/admin/functions-ur-admin.php:119
+#: includes/class-ur-form-block.php:53 includes/class-ur-privacy.php:31
+msgid "User Registration"
+msgstr "用户注册"
+
+#: includes/class-ur-ajax.php:311 includes/class-ur-form-handler.php:252
+msgid "User profile updated successfully."
+msgstr "用户个人资料已成功更新。"
+
+#: includes/form/class-ur-form-field-user-pass.php:40
+msgid "User Password"
+msgstr "用户密码"
+
+#: includes/admin/settings/class-ur-settings-general.php:203
+msgid "User logout"
+msgstr "用户注销"
+
+#: includes/admin/class-ur-admin-profile.php:54
+msgid "User Extra Information %s"
+msgstr "用户额外信息%s"
+
+#: includes/form/class-ur-form-field-user-email.php:40
+#: includes/functions-ur-core.php:689
+msgid "User Email"
+msgstr "用户电子邮件"
+
+#: includes/form/class-ur-form-field-description.php:36
+#: includes/form/class-ur-form-field-description.php:41
+msgid "User Bio"
+msgstr "用户简介"
+
+#: includes/form/class-ur-form-field-country.php:272
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+#: includes/admin/class-ur-admin-menus.php:478
+msgid "Update form"
+msgstr "更新表格"
+
+#: includes/form/class-ur-form-field-country.php:271
+msgid "United States (US) Virgin Islands"
+msgstr "美国（美属）维尔京群岛"
+
+#: includes/form/class-ur-form-field-country.php:270
+msgid "United States (US) Minor Outlying Islands"
+msgstr "美国（小外岛）"
+
+#: includes/form/class-ur-form-field-country.php:269
+msgid "United States (US)"
+msgstr "美国（美国）"
+
+#: includes/form/class-ur-form-field-country.php:268
+msgid "United Kingdom (UK)"
+msgstr "英国（UK）"
+
+#: includes/form/class-ur-form-field-country.php:267
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+#: includes/form/class-ur-form-field-country.php:266
+msgid "Ukraine"
+msgstr "乌克兰"
+
+#: includes/form/class-ur-form-field-country.php:265
+msgid "Uganda"
+msgstr "乌干达"
+
+#: includes/form/class-ur-form-field-country.php:264
+msgid "Tuvalu"
+msgstr "图瓦卢"
+
+#: includes/form/class-ur-form-field-country.php:263
+msgid "Turks and Caicos Islands"
+msgstr "特克斯和凯科斯群岛"
+
+#: includes/form/class-ur-form-field-country.php:262
+msgid "Turkmenistan"
+msgstr "土库曼斯坦"
+
+#: includes/form/class-ur-form-field-country.php:260
+msgid "Tunisia"
+msgstr "突尼斯"
+
+#: includes/form/class-ur-form-field-country.php:259
+msgid "Trinidad and Tobago"
+msgstr "特立尼达和多巴哥"
+
+#: includes/form/class-ur-form-field-country.php:258
+msgid "Tonga"
+msgstr "汤加"
+
+#: includes/form/class-ur-form-field-country.php:257
+msgid "Tokelau"
+msgstr "托克劳"
+
+#: includes/form/class-ur-form-field-country.php:256
+msgid "Togo"
+msgstr "多哥"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:51
+msgid "Title"
+msgstr "标题"
+
+#: includes/form/class-ur-form-field-country.php:255
+msgid "Timor-Leste"
+msgstr "东帝汶"
+
+#: includes/admin/settings/class-ur-settings-general.php:86
+msgid "This option lets you limit which roles you are willing to prevent dashboard access."
+msgstr "通过此选项，您可以限制愿意阻止仪表板访问的角色。"
+
+#: includes/functions-ur-notice.php:29 includes/functions-ur-notice.php:61
+#: includes/functions-ur-notice.php:81 includes/functions-ur-notice.php:107
+#: includes/functions-ur-notice.php:121 includes/functions-ur-notice.php:135
+#: includes/functions-ur-notice.php:190
+msgid "This function should not be called before user_registration_init."
+msgstr "请勿在user_registration_init之前调用此函数。"
+
+#: includes/admin/class-ur-admin-settings.php:142
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果您离开此页面，所做的更改将丢失。"
+
+#: includes/form/class-ur-form-field-country.php:254
+msgid "Thailand"
+msgstr "泰国"
+
+#: includes/form/class-ur-form-field-textarea.php:35
+#: includes/form/class-ur-form-field-textarea.php:40
+#: includes/functions-ur-core.php:705
+msgid "Textarea"
+msgstr "文本区域"
+
+#: includes/form/class-ur-form-field-country.php:253
+msgid "Tanzania"
+msgstr "坦桑尼亚"
+
+#: includes/admin/views/html-notice-updating.php:14
+msgid "Taking a while? Click here to run it now."
+msgstr "花一点时间？单击此处立即运行。"
+
+#: includes/form/class-ur-form-field-country.php:252
+msgid "Tajikistan"
+msgstr "塔吉克斯坦"
+
+#: includes/form/class-ur-form-field-country.php:251
+msgid "Taiwan"
+msgstr "台湾"
+
+#: includes/form/class-ur-form-field-country.php:250
+msgid "Syria"
+msgstr "叙利亚"
+
+#: includes/form/class-ur-form-field-country.php:249
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: includes/form/class-ur-form-field-country.php:248
+msgid "Sweden"
+msgstr "瑞典"
+
+#: includes/form/class-ur-form-field-country.php:247
+msgid "Swaziland"
+msgstr "斯威士兰"
+
+#: includes/form/class-ur-form-field-country.php:246
+msgid "Svalbard and Jan Mayen"
+msgstr "斯瓦尔巴和扬·马延"
+
+#: includes/form/class-ur-form-field-country.php:245
+msgid "Suriname"
+msgstr "苏里南"
+
+#: includes/form/class-ur-form-field-country.php:244
+msgid "Sudan"
+msgstr "苏丹"
+
+#: includes/admin/class-ur-admin-assets.php:391
+msgctxt "user registration admin"
+msgid "Success"
+msgstr "成功"
+
+#: includes/form/class-ur-form-field-country.php:243
+msgid "Sri Lanka"
+msgstr "斯里兰卡"
+
+#: includes/form/class-ur-form-field-country.php:242
+msgid "Spain"
+msgstr "西班牙"
+
+#: includes/form/class-ur-form-field-country.php:241
+msgid "South Sudan"
+msgstr "南苏丹"
+
+#: includes/form/class-ur-form-field-country.php:240
+msgid "South Korea"
+msgstr "韩国"
+
+#: includes/form/class-ur-form-field-country.php:239
+msgid "South Georgia/Sandwich Islands"
+msgstr "南乔治亚/三明治群岛"
+
+#: includes/form/class-ur-form-field-country.php:238
+msgid "South Africa"
+msgstr "南非"
+
+#: includes/form/class-ur-form-field-country.php:237
+msgid "Somalia"
+msgstr "索马里"
+
+#: includes/form/class-ur-form-field-country.php:236
+msgid "Solomon Islands"
+msgstr "所罗门群岛"
+
+#: includes/form/class-ur-form-field-country.php:235
+msgid "Slovenia"
+msgstr "斯洛文尼亚"
+
+#: includes/form/class-ur-form-field-country.php:234
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: includes/admin/views/html-notice-install.php:15
+msgid "Skip setup"
+msgstr "跳过设置"
+
+#: includes/form/settings/class-ur-setting-text.php:31
+#: includes/form/settings/class-ur-setting-text.php:38
+msgid "Size"
+msgstr "尺寸"
+
+#: includes/form/class-ur-form-field-country.php:233
+msgid "Singapore"
+msgstr "新加坡"
+
+#: includes/form/class-ur-form-field-country.php:232
+msgid "Sierra Leone"
+msgstr "塞拉利昂"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:52
+msgid "Shortcode"
+msgstr "短代码"
+
+#: includes/form/class-ur-form-field-country.php:231
+msgid "Seychelles"
+msgstr "塞舌尔"
+
+#: includes/form/class-ur-form-field-country.php:230
+msgid "Serbia"
+msgstr "塞尔维亚"
+
+#: includes/form/class-ur-form-field-country.php:229
+msgid "Senegal"
+msgstr "塞内加尔"
+
+#: includes/admin/class-ur-admin-menus.php:584
+msgid "Select all"
+msgstr "全选"
+
+#: includes/admin/class-ur-admin-profile.php:139
+#: includes/admin/class-ur-admin-profile.php:151
+#: includes/form/class-ur-form-field-select.php:35
+#: includes/form/class-ur-form-field-select.php:40
+#: includes/functions-ur-core.php:703
+msgid "Select"
+msgstr "选择"
+
+#: includes/form/class-ur-form-field-email.php:40
+#: includes/functions-ur-core.php:702
+msgid "Secondary Email"
+msgstr "次要电子邮件"
+
+#: includes/form/class-ur-form-field-email.php:35
+msgid "Secondary Email "
+msgstr "次要电子邮件"
+
+#: includes/admin/class-ur-admin-assets.php:224
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "搜索＆hellip;"
+
+#: includes/class-ur-post-types.php:58
+msgid "Search registrations"
+msgstr "搜索注册"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:168
+msgid "Search Registration"
+msgstr "搜索注册"
+
+#: includes/form/class-ur-form-field-country.php:214
+msgid "Reunion"
+msgstr "留尼汪"
+
+#: templates/myaccount/form-edit-password.php:82
+#: templates/myaccount/form-edit-profile.php:374
+#: templates/myaccount/form-edit-profile.php:379
+msgid "Save changes"
+msgstr "保存更改"
+
+#: includes/admin/views/html-admin-settings.php:46
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: templates/myaccount/form-reset-password.php:63
+msgid "Save"
+msgstr "保存"
+
+#: includes/form/class-ur-form-field-country.php:228
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+#: includes/form/class-ur-form-field-country.php:226
+msgid "San Marino"
+msgstr "圣马力诺"
+
+#: includes/form/class-ur-form-field-country.php:280
+msgid "Samoa"
+msgstr "萨摩亚"
+
+#: includes/form/class-ur-form-field-country.php:225
+msgid "Saint Vincent and the Grenadines"
+msgstr "圣文森特和格林纳丁斯"
+
+#: includes/form/class-ur-form-field-country.php:224
+msgid "Saint Pierre and Miquelon"
+msgstr "圣皮埃尔和密克隆群岛"
+
+#: includes/form/class-ur-form-field-country.php:222
+msgid "Saint Martin (French part)"
+msgstr "圣马丁（法语部分）"
+
+#: includes/form/class-ur-form-field-country.php:223
+msgid "Saint Martin (Dutch part)"
+msgstr "圣马丁（荷兰语部分）"
+
+#: includes/form/class-ur-form-field-country.php:221
+msgid "Saint Lucia"
+msgstr "圣卢西亚"
+
+#: includes/form/class-ur-form-field-country.php:220
+msgid "Saint Kitts and Nevis"
+msgstr "圣基茨和尼维斯"
+
+#: includes/form/class-ur-form-field-country.php:219
+msgid "Saint Helena"
+msgstr "圣海伦娜"
+
+#: includes/form/class-ur-form-field-country.php:218
+msgid "Saint Barth&eacute;lemy"
+msgstr "圣巴特莱米"
+
+#: includes/form/class-ur-form-field-country.php:227
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "圣多美和普林西比"
+
+#: includes/form/class-ur-form-field-country.php:217
+msgid "Rwanda"
+msgstr "卢旺达"
+
+#: includes/form/class-ur-form-field-country.php:216
+msgid "Russia"
+msgstr "俄国"
+
+#: includes/admin/views/html-notice-update.php:15
+msgid "Run the updater"
+msgstr "运行更新程序"
+
+#: includes/form/class-ur-form-field-country.php:215
+msgid "Romania"
+msgstr "罗马尼亚"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:105
+msgid "Restore this item from the Trash"
+msgstr "从垃圾桶中恢复此项目"
+
+#: includes/abstracts/abstract-ur-list-table.php:104
+#: includes/admin/class-ur-admin-registrations-table-list.php:105
+msgid "Restore"
+msgstr "恢复"
+
+#: templates/myaccount/form-lost-password.php:42
+msgid "Reset password"
+msgstr "重设密码"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:189
+msgid "Required form field not found."
+msgstr "找不到必填表单字段。"
+
+#: includes/functions-ur-template.php:198
+msgid "required"
+msgstr "必填"
+
+#: includes/admin/settings/class-ur-settings-general.php:273
+#: includes/functions-ur-core.php:764
+msgid "Required"
+msgstr "必填"
+
+#: includes/admin/settings/class-ur-settings-general.php:527
+#: includes/admin/settings/class-ur-settings-general.php:533
+#: templates/myaccount/form-login.php:42
+msgid "Remember me"
+msgstr "记住账号"
+
+#: includes/class-ur-post-types.php:50
+msgctxt "Admin menu name"
+msgid "Registrations"
+msgstr "报名"
+
+#: includes/class-ur-post-types.php:48
+msgid "Registrations"
+msgstr "报名"
+
+#: includes/class-ur-post-types.php:49
+msgid "Registration"
+msgstr "注册"
+
+#: includes/class-ur-install.php:317
+msgctxt "Page title"
+msgid "Registration"
+msgstr "注册"
+
+#: includes/class-ur-install.php:316
+msgctxt "Page slug"
+msgid "registration"
+msgstr "注册"
+
+#: templates/myaccount/form-reset-password.php:43
+msgid "Re-enter new password"
+msgstr "重新输入新的密码"
+
+#: includes/form/class-ur-form-field-country.php:213
+msgid "Qatar"
+msgstr "卡塔尔"
+
+#: includes/form/class-ur-form-field-country.php:212
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: includes/class-ur-query.php:75 includes/functions-ur-account.php:109
+msgid "Profile Details"
+msgstr "个人资料详细信息"
+
+#: includes/admin/class-ur-admin-assets.php:396
+msgctxt "user registration admin"
+msgid "Previous save action on going."
+msgstr "上一步保存动作。"
+
+#: includes/form/class-ur-form-field-country.php:211
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: includes/form/class-ur-form-field-country.php:210
+msgid "Poland"
+msgstr "波兰"
+
+#: includes/class-ur-form-handler.php:308
+msgid "Please re-enter your password."
+msgstr "请重新输入您的密码。"
+
+#: includes/class-ur-form-handler.php:299
+msgid "Please fill out all password fields."
+msgstr "请填写所有密码字段。"
+
+#: includes/class-ur-form-handler.php:537
+msgid "Please enter your password."
+msgstr "请输入您的密码。"
+
+#: includes/class-ur-form-handler.php:302
+msgid "Please enter your current password."
+msgstr "请输入您的当前密码。"
+
+#: includes/admin/class-ur-admin-assets.php:217
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "请输入1个或更多字符"
+
+#: includes/admin/class-ur-admin-assets.php:218
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "请输入％qty％或更多字符"
+
+#: includes/admin/class-ur-admin-assets.php:219
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "请删除1个字符"
+
+#: includes/admin/class-ur-admin-assets.php:220
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "请删除％qty％个字符"
+
+#: includes/functions-ur-core.php:755 includes/functions-ur-core.php:757
+msgid "Placeholder"
+msgstr "占位符"
+
+#: includes/form/class-ur-form-field-country.php:209
+msgid "Pitcairn"
+msgstr "皮特凯恩"
+
+#: includes/form/class-ur-form-field-country.php:208
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: includes/form/class-ur-form-field-country.php:207
+msgid "Peru"
+msgstr "秘鲁"
+
+#: includes/class-ur-form-handler.php:541
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+#: includes/class-ur-frontend-scripts.php:399
+msgid "Password with confirm password not matched."
+msgstr "密码与确认密码不匹配。"
+
+#: includes/form/settings/class-ur-setting-password.php:31
+#: includes/form/settings/class-ur-setting-password.php:38
+msgid "Password Size"
+msgstr "密码大小"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:359
+msgid "Password reset is not allowed for this user"
+msgstr "该用户不允许密码重置"
+
+#: templates/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr "密码重置电子邮件已发送。"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:400
+msgid "Password and confirm password not matched"
+msgstr "密码和确认密码不匹配"
+
+#: includes/admin/settings/class-ur-settings-general.php:517
+#: includes/admin/settings/class-ur-settings-general.php:523
+#: includes/functions-ur-core.php:701 templates/myaccount/form-login.php:41
+msgid "Password"
+msgstr "密码"
+
+#: includes/form/class-ur-form-field-user-pass.php:35
+msgid "Password "
+msgstr "密码"
+
+#: includes/class-ur-post-types.php:61
+msgid "Parent registration"
+msgstr "家长注册"
+
+#: includes/form/class-ur-form-field-country.php:206
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: includes/form/class-ur-form-field-country.php:205
+msgid "Papua New Guinea"
+msgstr "巴布亚新几内亚"
+
+#: includes/form/class-ur-form-field-country.php:204
+msgid "Panama"
+msgstr "巴拿马"
+
+#: includes/form/class-ur-form-field-country.php:203
+msgid "Palestinian Territory"
+msgstr "巴勒斯坦领土"
+
+#: includes/form/class-ur-form-field-country.php:202
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: includes/functions-ur-core.php:812
+msgid "Options"
+msgstr "选项"
+
+#: includes/form/class-ur-form-field-country.php:201
+msgid "Oman"
+msgstr "阿曼"
+
+#: includes/class-ur-post-types.php:60
+msgid "No registrations found in trash"
+msgstr "在回收站中找不到注册"
+
+#: includes/form/class-ur-form-field-country.php:200
+msgid "Norway"
+msgstr "挪威"
+
+#: includes/form/class-ur-form-field-country.php:198
+msgid "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
+
+#: includes/form/class-ur-form-field-country.php:199
+msgid "North Korea"
+msgstr "北朝鲜"
+
+#: includes/form/class-ur-form-field-country.php:197
+msgid "Norfolk Island"
+msgstr "诺福克岛"
+
+#: includes/class-ur-ajax.php:82 includes/class-ur-ajax.php:120
+#: includes/class-ur-ajax.php:176 includes/class-ur-ajax.php:340
+#: includes/class-ur-ajax.php:466
+msgid "Nonce error, please reload."
+msgstr "立即错误，请重新加载。"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:40
+msgid "No user registration found."
+msgstr "找不到用户注册。"
+
+#: includes/class-ur-post-types.php:59
+msgid "No registrations found"
+msgstr "找不到注册"
+
+#: includes/admin/class-ur-admin-assets.php:215
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "找不到匹配项"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:63
+#: includes/form/settings/class-ur-setting-user_login.php:63
+#: includes/functions-ur-core.php:769 includes/functions-ur-core.php:782
+msgid "No"
+msgstr "没有"
+
+#: includes/form/class-ur-form-field-country.php:196
+msgid "Niue"
+msgstr "纽埃"
+
+#: includes/form/class-ur-form-field-country.php:195
+msgid "Nigeria"
+msgstr "奈及利亚"
+
+#: includes/form/class-ur-form-field-country.php:194
+msgid "Niger"
+msgstr "尼日尔"
+
+#: includes/form/class-ur-form-field-nickname.php:35
+#: includes/form/class-ur-form-field-nickname.php:40
+#: includes/functions-ur-core.php:694
+msgid "Nickname"
+msgstr "昵称"
+
+#: includes/form/class-ur-form-field-country.php:193
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: includes/form/class-ur-form-field-country.php:192
+msgid "New Zealand"
+msgstr "新西兰"
+
+#: includes/class-ur-post-types.php:55
+msgid "New registration"
+msgstr "新注册"
+
+#: includes/class-ur-form-handler.php:311
+msgid "New passwords do not match."
+msgstr "新密码不匹配。"
+
+#: templates/myaccount/form-edit-password.php:51
+#: templates/myaccount/form-reset-password.php:32
+msgid "New password"
+msgstr "新密码"
+
+#: includes/form/class-ur-form-field-country.php:191
+msgid "New Caledonia"
+msgstr "新喀里多尼亚"
+
+#: includes/form/class-ur-form-field-country.php:190
+msgid "Netherlands"
+msgstr "荷兰"
+
+#: includes/form/class-ur-form-field-country.php:189
+msgid "Nepal"
+msgstr "尼泊尔"
+
+#: includes/form/class-ur-form-field-country.php:188
+msgid "Nauru"
+msgstr "瑙鲁"
+
+#: includes/form/class-ur-form-field-country.php:187
+msgid "Namibia"
+msgstr "纳米比亚"
+
+#: includes/form/class-ur-form-field-country.php:186
+msgid "Myanmar"
+msgstr "缅甸"
+
+#: includes/class-ur-install.php:307
+msgctxt "Page slug"
+msgid "my-account"
+msgstr "我的帐户"
+
+#: includes/admin/settings/class-ur-settings-general.php:121
+msgid "My account page"
+msgstr "我的帐户页面"
+
+#: includes/class-ur-install.php:308
+msgctxt "Page title"
+msgid "My Account"
+msgstr "我的帐户"
+
+#: includes/admin/class-ur-admin-assets.php:400
+msgctxt "user registration admin"
+msgid "Multiple field key "
+msgstr "多字段键"
+
+#: includes/form/class-ur-form-field-country.php:185
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+#: includes/form/class-ur-form-field-country.php:184
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: includes/form/class-ur-form-field-country.php:183
+msgid "Montserrat"
+msgstr "蒙特塞拉特"
+
+#: includes/form/class-ur-form-field-country.php:182
+msgid "Montenegro"
+msgstr "黑山共和国"
+
+#: includes/form/class-ur-form-field-country.php:181
+msgid "Mongolia"
+msgstr "蒙古"
+
+#: includes/form/class-ur-form-field-country.php:180
+msgid "Monaco"
+msgstr "摩纳哥"
+
+#: includes/form/class-ur-form-field-country.php:179
+msgid "Moldova"
+msgstr "摩尔多瓦"
+
+#: includes/form/class-ur-form-field-country.php:178
+msgid "Micronesia"
+msgstr "密克罗尼西亚"
+
+#: includes/form/class-ur-form-field-country.php:177
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: includes/form/class-ur-form-field-country.php:176
+msgid "Mayotte"
+msgstr "马约特岛"
+
+#: includes/form/class-ur-form-field-country.php:175
+msgid "Mauritius"
+msgstr "毛里求斯"
+
+#: includes/form/class-ur-form-field-country.php:174
+msgid "Mauritania"
+msgstr "毛里塔尼亚"
+
+#: includes/form/class-ur-form-field-country.php:173
+msgid "Martinique"
+msgstr "马提尼克岛"
+
+#: includes/form/class-ur-form-field-country.php:172
+msgid "Marshall Islands"
+msgstr "马绍尔群岛"
+
+#: includes/form/class-ur-form-field-country.php:171
+msgid "Malta"
+msgstr "马耳他"
+
+#: includes/form/class-ur-form-field-country.php:170
+msgid "Mali"
+msgstr "马里"
+
+#: includes/form/class-ur-form-field-country.php:169
+msgid "Maldives"
+msgstr "马尔代夫"
+
+#: includes/form/class-ur-form-field-country.php:168
+msgid "Malaysia"
+msgstr "马来西亚"
+
+#: includes/form/class-ur-form-field-country.php:167
+msgid "Malawi"
+msgstr "马拉维"
+
+#: includes/form/class-ur-form-field-country.php:166
+msgid "Madagascar"
+msgstr "马达加斯加"
+
+#: includes/form/class-ur-form-field-country.php:165
+msgid "Macedonia"
+msgstr "马其顿"
+
+#: includes/form/class-ur-form-field-country.php:164
+msgid "Macao S.A.R., China"
+msgstr "中国澳门特别行政区"
+
+#: includes/form/class-ur-form-field-country.php:163
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+#: templates/myaccount/form-lost-password.php:29
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "忘记密码？请输入您的用户名或电子邮件地址。您将收到一个通过电子邮件创建新密码的链接。"
+
+#: includes/admin/settings/class-ur-settings-general.php:547
+#: includes/admin/settings/class-ur-settings-general.php:553
+#: templates/myaccount/form-login.php:44
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: includes/admin/class-ur-admin-menus.php:546
+#: includes/admin/settings/class-ur-settings-general.php:195
+#: includes/class-ur-query.php:78
+msgid "Lost password"
+msgstr "忘记密码"
+
+#: includes/class-ur-ajax.php:150 includes/class-ur-shortcodes.php:192
+#: includes/functions-ur-account.php:111
+msgid "Logout"
+msgstr "注销"
+
+#: includes/admin/settings/class-ur-settings-general.php:537
+#: includes/admin/settings/class-ur-settings-general.php:543
+#: templates/form-login-registration.php:31
+#: templates/myaccount/form-login.php:43
+msgid "Login"
+msgstr "登录"
+
+#: includes/admin/class-ur-admin-assets.php:223
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "正在加载更多结果＆hellip;"
+
+#: includes/admin/class-ur-admin-assets.php:216
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "加载失败"
+
+#: includes/form/class-ur-form-field-country.php:162
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: includes/form/class-ur-form-field-country.php:161
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+#: includes/form/class-ur-form-field-country.php:160
+msgid "Libya"
+msgstr "利比亚"
+
+#: includes/form/class-ur-form-field-country.php:159
+msgid "Liberia"
+msgstr "利比里亚"
+
+#: includes/form/class-ur-form-field-country.php:158
+msgid "Lesotho"
+msgstr "莱索托"
+
+#: includes/form/class-ur-form-field-country.php:157
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: includes/form/class-ur-form-field-country.php:156
+msgid "Latvia"
+msgstr "拉脱维亚"
+
+#: includes/form/class-ur-form-field-last-name.php:40
+#: includes/functions-ur-core.php:696
+msgid "Last Name"
+msgstr "姓"
+
+#: includes/form/class-ur-form-field-last-name.php:35
+msgid "Last Name "
+msgstr "姓"
+
+#: includes/form/class-ur-form-field-country.php:155
+msgid "Laos"
+msgstr "老挝"
+
+#: includes/functions-ur-core.php:727 includes/functions-ur-core.php:729
+msgid "Label"
+msgstr "标签"
+
+#: includes/form/class-ur-form-field-country.php:154
+msgid "Kyrgyzstan"
+msgstr "吉尔吉斯斯坦"
+
+#: includes/form/class-ur-form-field-country.php:153
+msgid "Kuwait"
+msgstr "科威特"
+
+#: includes/form/class-ur-form-field-country.php:152
+msgid "Kiribati"
+msgstr "基里巴斯"
+
+#: includes/form/class-ur-form-field-country.php:151
+msgid "Kenya"
+msgstr "肯尼亚"
+
+#: includes/form/class-ur-form-field-country.php:150
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+#: includes/form/class-ur-form-field-country.php:149
+msgid "Jordan"
+msgstr "约旦"
+
+#: includes/form/class-ur-form-field-country.php:148
+msgid "Jersey"
+msgstr "泽西岛"
+
+#: includes/form/class-ur-form-field-country.php:147
+msgid "Japan"
+msgstr "日本"
+
+#: includes/form/class-ur-form-field-country.php:146
+msgid "Jamaica"
+msgstr "牙买加"
+
+#: includes/form/class-ur-form-field-country.php:145
+msgid "Ivory Coast"
+msgstr "象牙海岸"
+
+#: includes/form/class-ur-form-field-country.php:144
+msgid "Italy"
+msgstr "意大利"
+
+#: includes/admin/views/html-notice-update.php:19
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "强烈建议您在继续操作之前备份数据库。您确定要立即运行更新程序吗？"
+
+#: includes/form/class-ur-form-field-country.php:143
+msgid "Israel"
+msgstr "以色列"
+
+#: includes/form/class-ur-form-field-country.php:142
+msgid "Isle of Man"
+msgstr "马恩岛"
+
+#: includes/form/class-ur-form-field-country.php:141
+msgid "Ireland"
+msgstr "爱尔兰"
+
+#: includes/form/class-ur-form-field-country.php:140
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: includes/form/class-ur-form-field-country.php:139
+msgid "Iran"
+msgstr "伊朗"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:344
+#: includes/shortcodes/class-ur-shortcode-my-account.php:349
+msgid "Invalid username or email."
+msgstr "无效的用户名或电子邮件。"
+
+#: includes/form/class-ur-form-field-user-login.php:68
+msgid "Invalid username ! "
+msgstr "无效的用户名 ！"
+
+#: includes/admin/class-ur-admin-assets.php:399
+msgctxt "user registration admin"
+msgid "Invalid field name. Please do not use space, empty or special character, you can use underscore."
+msgstr "无效的字段名称。请不要使用空格，空格或特殊字符，可以使用下划线。"
+
+#: includes/form/class-ur-form-field-user-email.php:59
+msgid "Invalid email address."
+msgstr "无效的邮件地址。"
+
+#: includes/admin/views/html-notice-install.php:15
+msgid "Install User Registration Pages"
+msgstr "安装用户注册页面"
+
+#: includes/form/class-ur-form-field-text.php:35
+#: includes/form/class-ur-form-field-text.php:40
+msgid "Input Field"
+msgstr "输入栏"
+
+#: includes/form/class-ur-form-field-country.php:138
+msgid "Indonesia"
+msgstr "印度尼西亚"
+
+#: includes/form/class-ur-form-field-country.php:137
+msgid "India"
+msgstr "印度"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:96
+msgid "ID: %d"
+msgstr "ID: %d"
+
+#: includes/form/class-ur-form-field-country.php:136
+msgid "Iceland"
+msgstr "冰岛"
+
+#: includes/form/class-ur-form-field-country.php:135
+msgid "Hungary"
+msgstr "匈牙利"
+
+#. Plugin URI of the plugin
+msgid "https://wpeverest.com/plugins/user-registration"
+msgstr "https://wpeverest.com/plugins/user-registration"
+
+#. Author URI of the plugin
+msgid "https://wpeverest.com"
+msgstr "https://wpeverest.com"
+
+#: includes/form/class-ur-form-field-country.php:134
+msgid "Hong Kong"
+msgstr "香港"
+
+#: includes/form/class-ur-form-field-country.php:133
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+#: includes/form/class-ur-form-field-country.php:132
+msgid "Heard Island and McDonald Islands"
+msgstr "希尔德岛和麦当劳群岛"
+
+#: includes/form/class-ur-form-field-country.php:131
+msgid "Haiti"
+msgstr "海地"
+
+#: includes/form/class-ur-form-field-country.php:130
+msgid "Guyana"
+msgstr "圭亚那"
+
+#: includes/form/class-ur-form-field-country.php:129
+msgid "Guinea-Bissau"
+msgstr "几内亚比绍"
+
+#: includes/form/class-ur-form-field-country.php:128
+msgid "Guinea"
+msgstr "几内亚"
+
+#: includes/form/class-ur-form-field-country.php:127
+msgid "Guernsey"
+msgstr "根西岛"
+
+#: includes/form/class-ur-form-field-country.php:126
+msgid "Guatemala"
+msgstr "危地马拉"
+
+#: includes/form/class-ur-form-field-country.php:125
+msgid "Guam"
+msgstr "关岛"
+
+#: includes/form/class-ur-form-field-country.php:124
+msgid "Guadeloupe"
+msgstr "瓜德罗普岛"
+
+#: includes/form/class-ur-form-field-country.php:123
+msgid "Grenada"
+msgstr "格林纳达"
+
+#: includes/form/class-ur-form-field-country.php:122
+msgid "Greenland"
+msgstr "格陵兰"
+
+#: includes/form/class-ur-form-field-country.php:121
+msgid "Greece"
+msgstr "希腊"
+
+#: includes/form/class-ur-form-field-country.php:120
+msgid "Gibraltar"
+msgstr "直布罗陀"
+
+#: includes/form/class-ur-form-field-country.php:119
+msgid "Ghana"
+msgstr "加纳"
+
+#: includes/form/class-ur-form-field-country.php:118
+msgid "Germany"
+msgstr "德国"
+
+#: includes/form/class-ur-form-field-country.php:117
+msgid "Georgia"
+msgstr "佐治亚州"
+
+#: includes/abstracts/abstract-ur-form-field.php:640
+msgid "General Settings"
+msgstr "常规设置"
+
+#: includes/admin/settings/class-ur-settings-general.php:42
+#: includes/admin/settings/class-ur-settings-general.php:66
+msgid "General Options"
+msgstr "常规选项"
+
+#: includes/form/class-ur-form-field-country.php:116
+msgid "Gambia"
+msgstr "冈比亚"
+
+#: includes/form/class-ur-form-field-country.php:115
+msgid "Gabon"
+msgstr "加蓬"
+
+#: includes/form/class-ur-form-field-country.php:114
+msgid "French Southern Territories"
+msgstr "法属南部领地"
+
+#: includes/form/class-ur-form-field-country.php:113
+msgid "French Polynesia"
+msgstr "法属波利尼西亚"
+
+#: includes/form/class-ur-form-field-country.php:112
+msgid "French Guiana"
+msgstr "法属圭亚那"
+
+#: includes/class-ur-install.php:655
+msgid "Free support"
+msgstr "免费支持"
+
+#: includes/form/class-ur-form-field-country.php:111
+msgid "France"
+msgstr "法国"
+
+#: includes/admin/class-ur-admin-assets.php:390
+msgctxt "user registration admin"
+msgid "Form successfully saved."
+msgstr "表格已成功保存。"
+
+#: includes/functions-ur-core.php:1019
+msgid "Form Submit Button Label"
+msgstr "表单提交按钮标签"
+
+#: includes/form/class-ur-form-field-first-name.php:35
+#: includes/form/class-ur-form-field-first-name.php:40
+#: includes/functions-ur-core.php:695
+msgid "First Name"
+msgstr "名字"
+
+#: includes/form/class-ur-form-field-country.php:110
+msgid "Finland"
+msgstr "芬兰"
+
+#: includes/form/class-ur-form-field-country.php:109
+msgid "Fiji"
+msgstr "斐济"
+
+#: includes/admin/views/html-admin-page-forms.php:58
+msgid "Fields"
+msgstr "字段"
+
+#: includes/admin/views/html-admin-page-forms.php:60
+msgid "Field Options"
+msgstr "栏位选项"
+
+#: includes/functions-ur-core.php:745 includes/functions-ur-core.php:747
+msgid "Field Name"
+msgstr "栏位名称"
+
+#: includes/form/class-ur-form-field-country.php:108
+msgid "Faroe Islands"
+msgstr "法罗群岛"
+
+#: includes/form/class-ur-form-field-country.php:107
+msgid "Falkland Islands"
+msgstr "福克兰群岛"
+
+#: includes/admin/views/html-admin-page-forms.php:87
+msgid "Extra Fields"
+msgstr "额外字段"
+
+#: includes/libraries/wp-background-process.php:430
+msgid "Every %d minutes"
+msgstr "每%d分钟"
+
+#: includes/form/class-ur-form-field-country.php:106
+msgid "Ethiopia"
+msgstr "埃塞俄比亚"
+
+#: includes/form/class-ur-form-field-country.php:105
+msgid "Estonia"
+msgstr "爱沙尼亚"
+
+#: includes/admin/class-ur-admin-assets.php:392
+msgctxt "user registration admin"
+msgid "Error"
+msgstr "错误"
+
+#: includes/form/class-ur-form-field-country.php:104
+msgid "Eritrea"
+msgstr "厄立特里亚"
+
+#: includes/form/class-ur-form-field-country.php:103
+msgid "Equatorial Guinea"
+msgstr "赤道几内亚"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:323
+msgid "Enter a username or email address."
+msgstr "输入用户名或电子邮件地址。"
+
+#: templates/myaccount/form-reset-password.php:29
+msgid "Enter a new password below."
+msgstr "在下面输入新密码。"
+
+#: includes/admin/settings/class-ur-settings-general.php:176
+msgid "Endpoints are appended to your page URLs to handle specific actions on the accounts pages. They should be unique and can be left blank to disable the endpoint."
+msgstr "端点被附加到您的页面URL上，以处理帐户页面上的特定操作。它们应该是唯一的，可以留空以禁用端点。"
+
+#: includes/admin/settings/class-ur-settings-general.php:204
+msgid "Endpoint for the triggering logout. You can add this to your menus via a custom link: yoursite.com/?user-logout=true"
+msgstr "触发注销的端点。您可以通过自定义链接将其添加到菜单中：yoursite.com/?user-logout=true"
+
+#: includes/admin/settings/class-ur-settings-general.php:196
+msgid "Endpoint for the \"My account &rarr; Lost password\" page."
+msgstr "\"我的帐户&rarr;忘记密码\"页面的端点。"
+
+#: includes/admin/settings/class-ur-settings-general.php:180
+msgid "Endpoint for the \"My account &rarr; Edit profile\" page."
+msgstr "\"我的帐户&rarr; 编辑个人资料\"页面的端点。"
+
+#: includes/functions-ur-core.php:966
+msgid "Enable Strong Password"
+msgstr "启用强密码"
+
+#: includes/form/class-ur-form-field-user-pass.php:57
+msgid "Empty password."
+msgstr "空密码。"
+
+#: includes/admin/class-ur-admin-assets.php:395
+msgctxt "user registration admin"
+msgid "Empty form name."
+msgstr "空的表单名称。"
+
+#: includes/admin/class-ur-admin-menus.php:771
+msgid "Empty form data"
+msgstr "空表格数据"
+
+#: includes/admin/class-ur-admin-assets.php:398
+msgctxt "user registration admin"
+msgid "Empty field label."
+msgstr "空字段标签。"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:398
+msgid "Empty confirm password"
+msgstr "清空确认密码"
+
+#: includes/class-ur-ajax.php:258
+#: includes/form/class-ur-form-field-user-email.php:68
+msgid "Email already exists."
+msgstr "电子邮件已经存在。"
+
+#: includes/form/class-ur-form-field-user-email.php:35
+msgid "Email "
+msgstr "电子邮件"
+
+#: includes/form/class-ur-form-field-country.php:102
+msgid "El Salvador"
+msgstr "萨尔瓦多"
+
+#: includes/form/class-ur-form-field-country.php:101
+msgid "Egypt"
+msgstr "埃及"
+
+#: includes/class-ur-post-types.php:54
+msgid "Edit registration"
+msgstr "编辑注册"
+
+#: includes/admin/settings/class-ur-settings-general.php:179
+msgid "Edit profile"
+msgstr "编辑个人资料"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:100
+#: includes/class-ur-post-types.php:53
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/form/class-ur-form-field-country.php:100
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+#: includes/admin/class-ur-admin-assets.php:397
+msgctxt "user registration admin"
+msgid "Duplicate field name."
+msgstr "字段名称重复。"
+
+#: includes/frontend/class-ur-frontend-form-handler.php:183
+msgid "Duplicate field key in form, please contact site administrator."
+msgstr "表单中的字段密钥重复，请联系站点管理员。"
+
+#: includes/admin/class-ur-admin-assets.php:402
+msgctxt "user registration admin"
+msgid "Drag your first form item here."
+msgstr "将您的第一个表单项拖到此处。"
+
+#: includes/form/class-ur-form-field-country.php:99
+msgid "Dominican Republic"
+msgstr "多明尼加共和国"
+
+#: includes/form/class-ur-form-field-country.php:98
+msgid "Dominica"
+msgstr "多米尼加"
+
+#: includes/class-ur-install.php:654
+msgid "Docs"
+msgstr "文件"
+
+#: includes/form/class-ur-form-field-country.php:97
+msgid "Djibouti"
+msgstr "吉布地"
+
+#: includes/form/class-ur-form-field-display-name.php:35
+#: includes/form/class-ur-form-field-display-name.php:40
+#: includes/functions-ur-core.php:698
+msgid "Display Name"
+msgstr "显示名称"
+
+#: includes/admin/views/html-notice-custom.php:14
+#: includes/admin/views/html-notice-registration.php:14
+#: includes/admin/views/html-notice-updated.php:14
+msgid "Dismiss"
+msgstr "忽略"
+
+#: includes/form/class-ur-form-field-country.php:96
+msgid "Denmark"
+msgstr "丹麦"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:110
+msgid "Delete this item permanently"
+msgstr "永久删除此项目"
+
+#: includes/abstracts/abstract-ur-list-table.php:105
+#: includes/admin/class-ur-admin-registrations-table-list.php:110
+msgid "Delete permanently"
+msgstr "永久删除"
+
+#: includes/form/settings/class-ur-setting-country.php:57
+#: includes/form/settings/class-ur-setting-text.php:42
+#: includes/form/settings/class-ur-setting-text.php:49
+#: includes/form/settings/class-ur-setting-textarea.php:33
+#: includes/form/settings/class-ur-setting-textarea.php:40
+msgid "Default Value"
+msgstr "默认值"
+
+#: includes/functions-ur-core.php:953
+msgid "Default User Role"
+msgstr "默认用户角色"
+
+#: includes/admin/views/html-admin-page-forms.php:84
+msgid "Default User Fields"
+msgstr "默认用户字段"
+
+#: includes/class-ur-install.php:368
+msgid "Default form"
+msgstr "默认形式"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:54
+#: includes/form/class-ur-form-field-date.php:37
+#: includes/form/class-ur-form-field-date.php:42
+#: includes/functions-ur-core.php:707
+msgid "Date"
+msgstr "日期"
+
+#: includes/functions-ur-account.php:108
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: includes/form/class-ur-form-field-country.php:95
+msgid "Czech Republic"
+msgstr "捷克共和国"
+
+#: includes/form/class-ur-form-field-country.php:94
+msgid "Cyprus"
+msgstr "塞浦路斯"
+
+#: includes/form/settings/class-ur-setting-checkbox.php:34
+#: includes/form/settings/class-ur-setting-checkbox.php:41
+#: includes/form/settings/class-ur-setting-country.php:34
+#: includes/form/settings/class-ur-setting-country.php:41
+#: includes/form/settings/class-ur-setting-date.php:39
+#: includes/form/settings/class-ur-setting-date.php:46
+#: includes/form/settings/class-ur-setting-description.php:34
+#: includes/form/settings/class-ur-setting-description.php:41
+#: includes/form/settings/class-ur-setting-display_name.php:34
+#: includes/form/settings/class-ur-setting-display_name.php:41
+#: includes/form/settings/class-ur-setting-email.php:31
+#: includes/form/settings/class-ur-setting-email.php:38
+#: includes/form/settings/class-ur-setting-first_name.php:34
+#: includes/form/settings/class-ur-setting-first_name.php:41
+#: includes/form/settings/class-ur-setting-last_name.php:34
+#: includes/form/settings/class-ur-setting-last_name.php:41
+#: includes/form/settings/class-ur-setting-nickname.php:34
+#: includes/form/settings/class-ur-setting-nickname.php:41
+#: includes/form/settings/class-ur-setting-number.php:64
+#: includes/form/settings/class-ur-setting-number.php:71
+#: includes/form/settings/class-ur-setting-radio.php:29
+#: includes/form/settings/class-ur-setting-radio.php:36
+#: includes/form/settings/class-ur-setting-select.php:32
+#: includes/form/settings/class-ur-setting-select.php:39
+#: includes/form/settings/class-ur-setting-text.php:53
+#: includes/form/settings/class-ur-setting-text.php:60
+#: includes/form/settings/class-ur-setting-textarea.php:45
+#: includes/form/settings/class-ur-setting-textarea.php:52
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:35
+#: includes/form/settings/class-ur-setting-user_confirm_email.php:42
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:34
+#: includes/form/settings/class-ur-setting-user_confirm_password.php:41
+#: includes/form/settings/class-ur-setting-user_email.php:34
+#: includes/form/settings/class-ur-setting-user_email.php:41
+#: includes/form/settings/class-ur-setting-user_login.php:34
+#: includes/form/settings/class-ur-setting-user_login.php:41
+#: includes/form/settings/class-ur-setting-user_pass.php:34
+#: includes/form/settings/class-ur-setting-user_pass.php:41
+#: includes/form/settings/class-ur-setting-user_url.php:34
+#: includes/form/settings/class-ur-setting-user_url.php:41
+msgid "Custom Class"
+msgstr "自定义类"
+
+#: includes/form/class-ur-form-field-country.php:93
+msgid "Cura&ccedil;ao"
+msgstr "库拉索"
+
+#: includes/form/class-ur-form-field-country.php:92
+msgid "Cuba"
+msgstr "古巴"
+
+#: includes/form/class-ur-form-field-country.php:91
+msgid "Croatia"
+msgstr "克罗地亚"
+
+#: includes/admin/class-ur-admin-menus.php:476
+msgid "Create Form"
+msgstr "创建表单"
+
+#: includes/form/class-ur-form-field-country.php:347
+#: includes/form/class-ur-form-field-country.php:352
+#: includes/functions-ur-core.php:704
+msgid "Country"
+msgstr "国家"
+
+#: includes/class-ur-ajax.php:666
+msgid "Could not save form. Invalid field name. Please check all field name"
+msgstr "无法保存表格。无效的字段名称。请检查所有字段名称"
+
+#: includes/form/class-ur-form-field-country.php:90
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+#: includes/form/class-ur-form-field-country.php:89
+msgid "Cook Islands"
+msgstr "库克群岛"
+
+#: includes/form/class-ur-form-field-country.php:88
+msgid "Congo (Kinshasa)"
+msgstr "刚果（金沙萨）"
+
+#: includes/form/class-ur-form-field-country.php:87
+msgid "Congo (Brazzaville)"
+msgstr "刚果（布拉柴维尔）"
+
+#: includes/admin/settings/class-ur-settings-general.php:331
+#: includes/form/class-ur-form-field-user-confirm-password.php:40
+msgid "Confirm Password"
+msgstr "确认密码"
+
+#: includes/form/class-ur-form-field-user-confirm-password.php:35
+msgid "Confirm Password "
+msgstr "确认密码"
+
+#: templates/myaccount/form-edit-password.php:62
+msgid "Confirm new password"
+msgstr "确认新密码"
+
+#: includes/form/class-ur-form-field-country.php:86
+msgid "Comoros"
+msgstr "科摩罗"
+
+#: includes/form/class-ur-form-field-country.php:85
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+#: includes/form/class-ur-form-field-country.php:84
+msgid "Cocos (Keeling) Islands"
+msgstr "科科斯（基林）群岛"
+
+#: includes/admin/class-ur-admin-assets.php:356
+msgid "Clone"
+msgstr "克隆"
+
+#: includes/form/class-ur-form-field-country.php:83
+msgid "Christmas Island"
+msgstr "圣诞岛"
+
+#: includes/functions-ur-template.php:501
+msgid "Choose an option"
+msgstr "选择一个选项"
+
+#: includes/form/class-ur-form-field-country.php:82
+msgid "China"
+msgstr "中国"
+
+#: includes/form/class-ur-form-field-country.php:81
+msgid "Chile"
+msgstr "智利"
+
+#: includes/admin/class-ur-admin-notices.php:123 user-registration.php:77
+#: user-registration.php:86
+msgid "Cheatin&#8217; huh?"
+msgstr "骗人的&#8217; 嗯？"
+
+#: includes/form/class-ur-form-field-country.php:80
+msgid "Chad"
+msgstr "乍得"
+
+#: includes/form/class-ur-form-field-country.php:79
+msgid "Central African Republic"
+msgstr "中非共和国"
+
+#: includes/form/class-ur-form-field-country.php:78
+msgid "Cayman Islands"
+msgstr "开曼群岛"
+
+#: includes/form/class-ur-form-field-country.php:77
+msgid "Cape Verde"
+msgstr "佛得角"
+
+#: includes/form/class-ur-form-field-country.php:76
+msgid "Canada"
+msgstr "加拿大"
+
+#: includes/form/class-ur-form-field-country.php:75
+msgid "Cameroon"
+msgstr "喀麦隆"
+
+#: includes/form/class-ur-form-field-country.php:74
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: includes/form/class-ur-form-field-country.php:73
+msgid "Burundi"
+msgstr "布隆迪"
+
+#: includes/form/class-ur-form-field-country.php:72
+msgid "Burkina Faso"
+msgstr "布基纳法索"
+
+#: includes/form/class-ur-form-field-country.php:71
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+#: includes/form/class-ur-form-field-country.php:70
+msgid "Brunei"
+msgstr "文莱"
+
+#: includes/form/class-ur-form-field-country.php:69
+msgid "British Virgin Islands"
+msgstr "英属维尔京群岛"
+
+#: includes/form/class-ur-form-field-country.php:68
+msgid "British Indian Ocean Territory"
+msgstr "英属印度洋领地"
+
+#: includes/form/class-ur-form-field-country.php:67
+msgid "Brazil"
+msgstr "巴西"
+
+#: includes/form/class-ur-form-field-country.php:66
+msgid "Bouvet Island"
+msgstr "布维岛"
+
+#: includes/form/class-ur-form-field-country.php:65
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: includes/form/class-ur-form-field-country.php:64
+msgid "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维那（简称：波黑）"
+
+#: includes/form/class-ur-form-field-country.php:63
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "博奈尔岛，圣尤斯达蒂斯和萨巴岛"
+
+#: includes/form/class-ur-form-field-country.php:62
+msgid "Bolivia"
+msgstr "玻利维亚"
+
+#: includes/form/class-ur-form-field-country.php:61
+msgid "Bhutan"
+msgstr "不丹"
+
+#: includes/form/class-ur-form-field-country.php:60
+msgid "Bermuda"
+msgstr "百慕大"
+
+#: includes/form/class-ur-form-field-country.php:59
+msgid "Benin"
+msgstr "贝宁"
+
+#: includes/form/class-ur-form-field-country.php:58
+msgid "Belize"
+msgstr "伯利兹"
+
+#: includes/form/class-ur-form-field-country.php:56
+msgid "Belgium"
+msgstr "比利时"
+
+#: includes/form/class-ur-form-field-country.php:57
+msgid "Belau"
+msgstr "贝劳"
+
+#: includes/form/class-ur-form-field-country.php:55
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+#: includes/form/class-ur-form-field-country.php:54
+msgid "Barbados"
+msgstr "巴巴多斯"
+
+#: includes/form/class-ur-form-field-country.php:53
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: includes/form/class-ur-form-field-country.php:52
+msgid "Bahrain"
+msgstr "巴林"
+
+#: includes/form/class-ur-form-field-country.php:51
+msgid "Bahamas"
+msgstr "巴哈马"
+
+#: includes/form/class-ur-form-field-country.php:50
+msgid "Azerbaijan"
+msgstr "阿塞拜疆"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:53
+msgid "Author"
+msgstr "作者"
+
+#: includes/form/class-ur-form-field-country.php:49
+msgid "Austria"
+msgstr "奥地利"
+
+#: includes/form/class-ur-form-field-country.php:48
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: includes/admin/class-ur-admin-assets.php:394
+msgctxt "user registration admin"
+msgid "At least one field needs to be selected."
+msgstr "至少需要选择一个字段。"
+
+#: includes/form/class-ur-form-field-country.php:47
+msgid "Aruba"
+msgstr "阿鲁巴岛"
+
+#: includes/form/class-ur-form-field-country.php:46
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+#: includes/form/class-ur-form-field-country.php:45
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: includes/shortcodes/class-ur-shortcode-my-account.php:138
+msgid "Are you sure you want to log out?&nbsp;<a href=\"%s\">Confirm and log out</a>"
+msgstr "您确定要注销吗？<a href=\"%s\">确认并注销</a>"
+
+#: includes/form/class-ur-form-field-country.php:44
+msgid "Antigua and Barbuda"
+msgstr "安提瓜和巴布达"
+
+#: includes/form/class-ur-form-field-country.php:43
+msgid "Antarctica"
+msgstr "南极洲"
+
+#: includes/form/class-ur-form-field-country.php:42
+msgid "Anguilla"
+msgstr "安圭拉岛"
+
+#: includes/form/class-ur-form-field-country.php:41
+msgid "Angola"
+msgstr "安哥拉"
+
+#: includes/form/class-ur-form-field-country.php:40
+msgid "Andorra"
+msgstr "安道尔"
+
+#: includes/form/class-ur-form-field-country.php:39
+msgid "American Samoa"
+msgstr "美属萨摩亚"
+
+#: includes/form/class-ur-form-field-country.php:38
+msgid "Algeria"
+msgstr "阿尔及利亚"
+
+#: includes/form/class-ur-form-field-country.php:37
+msgid "Albania"
+msgstr "阿尔巴尼亚"
+
+#: includes/form/class-ur-form-field-country.php:35
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: includes/abstracts/abstract-ur-form-field.php:650
+msgid "Advance Settings"
+msgstr "高级设置"
+
+#: includes/admin/class-ur-admin-menus.php:588
+msgid "Add to menu"
+msgstr "添加到菜单"
+
+#: includes/class-ur-post-types.php:51
+msgid "Add registration"
+msgstr "添加注册"
+
+#: includes/class-ur-post-types.php:52
+msgid "Add new registration"
+msgstr "新增注册"
+
+#: includes/admin/class-ur-admin-menus.php:418
+#: includes/admin/class-ur-admin-menus.php:419
+#: includes/admin/class-ur-admin-menus.php:756
+#: includes/admin/class-ur-admin-registrations-table-list.php:162
+msgid "Add New"
+msgstr "添新"
+
+#: includes/abstracts/abstract-ur-list-table.php:232
+#: includes/abstracts/abstract-ur-list-table.php:272
+#: includes/admin/class-ur-admin-export-users.php:51
+#: includes/admin/class-ur-admin-import-export-forms.php:51
+#: includes/admin/class-ur-admin-notices.php:119
+#: includes/admin/class-ur-admin-settings.php:69
+#: includes/admin/class-ur-admin-status.php:169
+#: includes/class-ur-email-confirmation.php:246
+msgid "Action failed. Please refresh the page and retry."
+msgstr "动作失败。请刷新页面，然后重试。"
+
+#: includes/class-ur-ajax.php:451 includes/class-ur-form-handler.php:357
+msgid "A user could not be found with this email address."
+msgstr "找不到使用此电子邮件地址的用户。"
+
+#: templates/myaccount/lost-password-confirmation.php:27
+msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
+msgstr "密码重设电子邮件已发送到您帐户的归档电子邮件地址，但可能需要几分钟才能显示在您的收件箱中。请至少等待10分钟，然后再尝试重新设置。"
+
+#: includes/form/class-ur-form-field-country.php:36
+msgid "&#197;land Islands"
+msgstr "奥兰"
+
+#: includes/class-ur-form-handler.php:206
+msgid "%s is not a valid email address."
+msgstr "%s不是有效的电子邮件地址。"
+
+#: includes/class-ur-form-handler.php:184
+#: includes/frontend/class-ur-frontend-form-handler.php:471
+msgid "%s is a required field."
+msgstr "%s是必填字段。"
+
+#: includes/abstracts/abstract-ur-list-table.php:532
+msgid "%s ago"
+msgstr "%s前"
+
+#: includes/form/class-ur-form-field-country.php:275
+msgid "Vatican"
+msgstr "梵蒂冈"
+
+#: includes/form/class-ur-form-field-country.php:261
+msgid "Turkey"
+msgstr "土耳其"
+
+#: includes/admin/class-ur-admin-assets.php:356
+#: includes/admin/class-ur-admin-registrations-table-list.php:107
+msgid "Trash"
+msgstr "回收站"
+
+#: includes/class-ur-ajax.php:643 includes/class-ur-ajax.php:649
+msgid "post data not set"
+msgstr "未设置过文章数据"
+
+#: includes/admin/settings/class-ur-settings-general.php:573
+#: includes/form/class-ur-form-field-password.php:35
+#: includes/form/class-ur-form-field-password.php:40
+msgid "Password Field"
+msgstr "密码字段"
+
+#: includes/admin/class-ur-admin-registrations-table-list.php:107
+msgid "Move this item to the Trash"
+msgstr "将此项目移到回收站"
+
+#: includes/abstracts/abstract-ur-list-table.php:109
+msgid "Move to trash"
+msgstr "移到回收站"
+
+#: includes/admin/views/html-notice-install.php:14
+msgid "<strong>Welcome to User Registration</strong> &#8211; You&lsquo;re almost ready to create registration :)"
+msgstr "<strong>欢迎使用User Registration</strong> &#8211; 您几乎准备好创建注册:)"
+
+#: includes/admin/settings/class-ur-settings-general.php:85
+msgid "Prevent dashboard access"
+msgstr "防止仪表盘访问"
+
+#: includes/abstracts/abstract-ur-list-table.php:445
+msgid "Empty trash"
+msgstr "清空回收站"
+
+#: includes/admin/class-ur-admin-menus.php:385
+#: includes/class-ur-install.php:638
+msgid "Settings"
+msgstr "设置"
+
+#: includes/admin/class-ur-admin-settings.php:566
+msgid "Select a page&hellip;"
+msgstr "选择一个页面&hellip;"
+
+#: includes/admin/functions-ur-admin.php:426
+#: includes/admin/settings/class-ur-settings-general.php:27
+#: includes/admin/settings/class-ur-settings-general.php:69
+#: includes/admin/settings/class-ur-settings-general.php:370
+msgid "General"
+msgstr "常规"

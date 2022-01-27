@@ -1,0 +1,202 @@
+{
+	"blockUniqId":{
+		"type":"string",
+		"default":""
+	},
+	
+	"countdown_style":{
+		"type":"string",
+		"default":"style-1"
+	},
+
+	"countdown_date":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_day_label":{
+		"type":"string",
+		"default":"Days"
+	},
+	"countdown_hour_labl":{
+		"type":"string",
+		"default":"Hours"
+	},
+	"countdown_mins_labl":{
+		"type":"string",
+		"default":"Minutes"
+	},
+	"countdown_sec_label":{
+		"type":"string",
+		"default":"Seconds"
+	},
+	"countdown_hide_label":{
+		"type":"string",
+		"default":"0"
+	},
+	"hide_day":{
+		"type":"boolean",
+		"default": false
+	},
+	"hide_hour":{
+		"type":"boolean",
+		"default": false
+	},
+	"hide_minute":{
+		"type":"boolean",
+		"default": false
+	},
+	"hide_second":{
+		"type":"boolean",
+		"default": false
+	},
+	"countdown_hide_time":{
+		"type":"array",
+		"default":[]
+	},
+	"countDownPosition":{
+		"type":"string",
+		"default":"left"
+	},
+	"countdown_timr_bg_clr":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_timr_border":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_timr_border_color":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_box_height":{
+    	"type":"number",
+    	"default":0
+    },
+    "countdown_box_width":{
+    	"type":"number",
+    	"default":0
+    },
+	"countdown_timr_border_width":{
+		"type":"number",
+    	"default":1
+	},
+	"timerBorderRadius": {
+        "type": "object",
+        "default": {
+            "top":"",
+            "right":"",
+            "bottom":"",
+            "left":"",
+            "unit":"px",
+            "link":"yes"
+        }
+    },
+    "timerPadding": {
+        "type": "object",
+        "default": {
+            "top":"",
+            "right":"",
+            "bottom":"",
+            "left":"",
+            "unit":"px",
+            "link":"yes"
+        }
+    },
+    "countdown_bg_color":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_timr_txt_clr":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_timr_font_size":{
+		"type":"string",
+		"default":""
+	},
+	"countdownLabelFontSize" :{
+		"type":"string",
+		"default":""
+	},
+    "countdown_timr_box_width":{
+    	"type":"number",
+    	"default":0
+    },
+	"countdown_number_border":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_number_border_color":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_number_border_width":{
+		"type":"number",
+    	"default":1
+	},
+	"numberBorderRadius": {
+        "type": "object",
+        "default": {
+            "top":"",
+            "right":"",
+            "bottom":"",
+            "left":"",
+            "unit":"px",
+            "link":"yes"
+        }
+    },
+    "numberPadding": {
+        "type": "object",
+        "default": {
+            "top":"",
+            "right":"",
+            "bottom":"",
+            "left":"",
+            "unit":"px",
+            "link":"yes"
+        }
+    },
+    "countdown_label_border":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_label_border_color":{
+		"type":"string",
+		"default":""
+	},
+	"countdown_label_border_width":{
+		"type":"number",
+    	"default":1
+	},
+	"labelBorderRadius": {
+        "type": "object",
+        "default": {
+            "top":"",
+            "right":"",
+            "bottom":"",
+            "left":"",
+            "unit":"px",
+            "link":"yes"
+        }
+    },
+    "countdown_label_clr":{
+    	"type":"string",
+		"default":""
+    },
+    "countdown_lbl_bg":{
+    	"type":"string",
+		"default":""
+    },
+    "labelPadding": {
+        "type": "object",
+        "default": {
+            "top":"",
+            "right":"",
+            "bottom":"",
+            "left":"",
+            "unit":"px",
+            "link":"yes"
+        }
+    }
+}

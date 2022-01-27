@@ -1,0 +1,1662 @@
+# Translation of Plugins - Contact Form 7 - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-29 05:55:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
+
+#: admin/admin.php:65 admin/admin.php:500
+msgid "Integration with External API"
+msgstr "集成外部API"
+
+#: modules/sendinblue/contact-form-properties.php:288
+msgid "Manage your email templates"
+msgstr "管理您的电子邮件模板"
+
+#: modules/sendinblue/contact-form-properties.php:273
+msgid "You have no active email template yet."
+msgstr "您还没有有效的电子邮件模板。"
+
+#: modules/sendinblue/contact-form-properties.php:253
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash;选择&mdash;"
+
+#: modules/sendinblue/contact-form-properties.php:240
+msgid "Select an email template:"
+msgstr "选择一个电子邮件模板。："
+
+#: modules/sendinblue/contact-form-properties.php:223
+msgid "Send a welcome email to new contacts"
+msgstr "向新联系人发送欢迎邮件"
+
+#: modules/sendinblue/contact-form-properties.php:205
+#: modules/sendinblue/contact-form-properties.php:214
+msgid "Welcome email"
+msgstr "欢迎邮件"
+
+#: modules/constant-contact/contact-form-properties.php:267
+#: modules/sendinblue/contact-form-properties.php:195
+#: modules/sendinblue/contact-form-properties.php:289
+msgid "(opens in a new tab)"
+msgstr "（在新标签页中打开）"
+
+#: modules/constant-contact/contact-form-properties.php:266
+#: modules/sendinblue/contact-form-properties.php:194
+msgid "Manage your contact lists"
+msgstr "管理您的联系人列表"
+
+#: modules/constant-contact/contact-form-properties.php:251
+#: modules/sendinblue/contact-form-properties.php:179
+msgid "You have no contact list yet."
+msgstr "您还没有联系人列表。"
+
+#: modules/constant-contact/contact-form-properties.php:227
+#: modules/sendinblue/contact-form-properties.php:155
+msgid "Select lists to which contacts are added:"
+msgstr "选择要添加联系人的列表。："
+
+#: modules/constant-contact/contact-form-properties.php:210
+#: modules/sendinblue/contact-form-properties.php:138
+msgid "Add form submitters to your contact lists"
+msgstr "将表单提交者添加到您的联系人列表中"
+
+#: modules/constant-contact/contact-form-properties.php:192
+#: modules/constant-contact/contact-form-properties.php:201
+#: modules/sendinblue/contact-form-properties.php:120
+#: modules/sendinblue/contact-form-properties.php:129
+msgid "Contact lists"
+msgstr "联系人列表"
+
+#: modules/sendinblue/contact-form-properties.php:97
+msgid "You can set up the Sendinblue integration here. For details, see %s."
+msgstr "您可以在这里设置Sendinblue集成。详情请看%s。"
+
+#: modules/sendinblue/service.php:207
+msgid "Save changes"
+msgstr "保存更改"
+
+#: modules/sendinblue/service.php:203
+msgctxt "API keys"
+msgid "Remove key"
+msgstr "移除密钥"
+
+#: modules/sendinblue/service.php:182
+msgid "API key"
+msgstr "API密钥"
+
+#: modules/sendinblue/service.php:168
+msgid "Setup integration"
+msgstr "配置集成"
+
+#: modules/sendinblue/service.php:158
+msgid "Sendinblue is active on this site."
+msgstr "Sendinblue以在此站点上启用。"
+
+#: modules/sendinblue/contact-form-properties.php:101
+#: modules/sendinblue/service.php:151
+msgid "Sendinblue integration"
+msgstr "Sendinblue集成"
+
+#: admin/includes/welcome-panel.php:152
+#: modules/sendinblue/contact-form-properties.php:100
+#: modules/sendinblue/service.php:150
+msgid "https://contactform7.com/sendinblue-integration/"
+msgstr "https://contactform7.com/sendinblue-integration/"
+
+#: modules/sendinblue/service.php:148
+msgid "Store and organize your contacts while protecting user privacy on Sendinblue, the leading CRM & email marketing platform in Europe. Sendinblue offers unlimited contacts and advanced marketing features. For details, see %s."
+msgstr "存储和组织您的联系人，同时保护用户隐私。Sendinblue是欧洲领先的CRM和电子邮件营销平台。Sendinblue提供不限数量的联系人存储和先进的营销服务。详情请查阅%s。"
+
+#: modules/sendinblue/service.php:126
+msgid "You have not been authenticated. Make sure the provided API key is correct."
+msgstr "您尚未通过身份验证。请确保您所提供的API密钥正确。"
+
+#: admin/includes/welcome-panel.php:153
+#: modules/sendinblue/contact-form-properties.php:109
+#: modules/sendinblue/contact-form-properties.php:303
+#: modules/sendinblue/service.php:30
+msgid "Sendinblue"
+msgstr "Sendinblue"
+
+#: includes/contact-form-template.php:42
+msgid "Submit"
+msgstr "提交"
+
+#: includes/contact-form-template.php:37
+msgid "(optional)"
+msgstr "(可选)"
+
+#: admin/includes/welcome-panel.php:69
+msgid "disallowed list"
+msgstr "不允许列表"
+
+#: modules/disallowed-list.php:35
+msgid "Disallowed words (%s) are used."
+msgstr "使用了不允许的字词 (%s)。"
+
+#: modules/disallowed-list.php:32
+msgid "Disallowed words are used."
+msgstr "使用不允许的词。"
+
+#: includes/contact-form-functions.php:142
+msgid "Not Found"
+msgstr "未找到"
+
+#. translators: Developer debugging message. 1: PHP function name, 2:
+#. Explanatory message, 3: Contact Form 7 version number.
+#: includes/functions.php:607
+msgid "%1$s was called incorrectly. %2$s %3$s"
+msgstr "%1$s 的调用不正确。 %2$s %3$s"
+
+#. translators: %s: Contact Form 7 version number.
+#: includes/functions.php:599
+msgid "(This message was added in Contact Form 7 version %s.)"
+msgstr "(此消息是在 Contact Form 7 版本%s中添加的。)"
+
+#: includes/special-mail-tags.php:22 includes/special-mail-tags.php:97
+#: includes/special-mail-tags.php:164 includes/special-mail-tags.php:218
+#: modules/flamingo.php:297
+msgid "The fourth parameter ($mail_tag) must be an instance of the WPCF7_MailTag class."
+msgstr "第四个参数($mail_tag)必须是WPCF7_MailTag类的实例。"
+
+#. translators: time format, see https://www.php.net/date
+#: admin/includes/class-contact-forms-list-table.php:238
+msgid "g:i a"
+msgstr "H:i"
+
+#. translators: 1: date, 2: time
+#: admin/includes/class-contact-forms-list-table.php:234
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: admin/edit-contact-form.php:197
+msgid "docs"
+msgstr "文档"
+
+#. translators: 1: FAQ, 2: Docs ("FAQ & Docs")
+#: admin/edit-contact-form.php:190
+msgid "%1$s and %2$s"
+msgstr "%1$s 和 %2$s"
+
+#: admin/includes/editor.php:247
+msgid "Additional settings"
+msgstr "其他设置"
+
+#: modules/constant-contact/service.php:311 modules/recaptcha/recaptcha.php:444
+#: modules/sendinblue/service.php:125 modules/sendinblue/service.php:133
+#: modules/stripe/service.php:142
+msgid "Error"
+msgstr "错误"
+
+#: includes/config-validator.php:617
+msgid "The total size of attachment files is too large."
+msgstr "附件文件总和太大。"
+
+#: includes/config-validator.php:426
+msgid "Unavailable HTML elements are used in the form template."
+msgstr "表单模板中使用了不可用的HTML元素。"
+
+#: modules/recaptcha/recaptcha.php:466
+msgid "reCAPTCHA is active on this site."
+msgstr "reCAPTCHA在此站点上已启用。"
+
+#: modules/recaptcha/recaptcha.php:123
+msgid "reCAPTCHA response token is empty."
+msgstr "reCAPTCHA响应令牌为空。"
+
+#: includes/submission.php:577
+msgid "Submitted nonce is invalid."
+msgstr "提交的nonce无效。"
+
+#: includes/submission.php:568
+msgid "User-Agent string is unnaturally short."
+msgstr "User-Agent 字符串太短。"
+
+#: modules/recaptcha/recaptcha.php:129
+msgid "reCAPTCHA score (%1$.2f) is lower than the threshold (%2$.2f)."
+msgstr "reCAPTCHA得分(%1$.2f)低于阈值(%2$.2f)。"
+
+#: modules/akismet.php:64
+msgid "Akismet returns a spam response."
+msgstr "Akismet返回了一个垃圾内容响应。"
+
+#: modules/constant-contact/service.php:410
+msgctxt "API keys"
+msgid "Reset Keys"
+msgstr "重置 Keys"
+
+#: modules/constant-contact/service.php:339
+msgid "This site is connected to the Constant Contact API."
+msgstr "此站点已连接 Constant Contact API。"
+
+#: modules/constant-contact/service.php:318
+msgid "Configuration updated."
+msgstr "配置已更新。"
+
+#: modules/constant-contact/service.php:312
+msgid "Failed to establish connection. Please double-check your configuration."
+msgstr "建立连接失败。请仔细检查您的配置。"
+
+#: modules/constant-contact/service.php:305
+msgid "Connection established."
+msgstr "已建立连接。"
+
+#. translators: 1: response code, 2: message, 3: body, 4: URL
+#: includes/functions.php:646
+msgid "HTTP Response: %1$s %2$s %3$s from %4$s"
+msgstr "HTTP响应如下: %1$s %2$s %3$s from %4$s"
+
+#: modules/recaptcha/recaptcha.php:537 modules/stripe/service.php:249
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: modules/recaptcha/recaptcha.php:456
+msgid "reCAPTCHA protects you against spam and other types of automated abuse. With Contact Form 7&#8217;s reCAPTCHA integration module, you can block abusive form submissions by spam bots. For details, see %s."
+msgstr "eCAPTCHA保护您免受垃圾邮件和其他类型的自动滥用的侵害。借助Contact Form 7的reCAPTCHA集成模块，您可以阻止垃圾邮件机器人提交有害的表单。有关详细信息，请参见%s。"
+
+#: modules/recaptcha/recaptcha.php:201 modules/recaptcha/recaptcha.php:459
+msgid "reCAPTCHA (v3)"
+msgstr "reCAPTCHA (v3)"
+
+#: modules/recaptcha/recaptcha.php:198
+msgid "API keys for reCAPTCHA v3 are different from those for v2; keys for v2 don&#8217;t work with the v3 API. You need to register your sites again to get new keys for v3. For details, see %s."
+msgstr "reCAPTCHA v3的API密钥与v2的API密钥不同；  v2的密钥不适用于v3的API。 您需要为您的站点注册一个v3的新密钥。 有关详细信息，请参阅 %s。"
+
+#: modules/constant-contact/service.php:415
+msgid "Connect to the Constant Contact API"
+msgstr "连接至 Constant Contact API"
+
+#: modules/recaptcha/recaptcha.php:532 modules/stripe/service.php:245
+msgctxt "API keys"
+msgid "Remove Keys"
+msgstr "删除密钥"
+
+#: modules/constant-contact/service.php:402
+msgid "Set this URL as the redirect URI."
+msgstr "将此URL设置为重定向URI。"
+
+#: modules/constant-contact/service.php:395
+msgid "Redirect URI"
+msgstr "重定向 URI"
+
+#: modules/constant-contact/service.php:378
+msgid "App Secret"
+msgstr "应用秘钥"
+
+#: modules/constant-contact/service.php:361
+msgid "API Key"
+msgstr "API密钥"
+
+#: modules/constant-contact/service.php:349 modules/recaptcha/recaptcha.php:476
+#: modules/stripe/service.php:179
+msgid "Setup Integration"
+msgstr "配置集成"
+
+#: modules/constant-contact/contact-form-properties.php:174
+#: modules/constant-contact/service.php:332
+msgid "Constant Contact integration"
+msgstr "Constant Contact 集成"
+
+#: admin/includes/welcome-panel.php:156
+#: modules/constant-contact/contact-form-properties.php:173
+#: modules/constant-contact/service.php:328
+msgid "https://contactform7.com/constant-contact-integration/"
+msgstr "https://contactform7.com/constant-contact-integration/"
+
+#: modules/constant-contact/service.php:326
+msgid "The Constant Contact integration module allows you to send contact data collected through your contact forms to the Constant Contact API. You can create reliable email subscription services in a few easy steps. For details, see %s."
+msgstr "Constant Contact集成模块允许您将通过联系表单收集的内容提交至Constant Contact API。 并且，您只要几个简单的步骤就可以创建可靠的电子邮件订阅服务。 有关详细信息，请参阅 %s。"
+
+#: admin/includes/welcome-panel.php:157
+#: modules/constant-contact/contact-form-properties.php:181
+#: modules/constant-contact/contact-form-properties.php:281
+#: modules/constant-contact/service.php:101
+msgid "Constant Contact"
+msgstr "Constant Contact"
+
+#: modules/constant-contact/constant-contact.php:22
+msgid "Email marketing"
+msgstr "邮件营销"
+
+#: includes/config-validator.php:679
+msgid "It is not allowed to use files outside the wp-content directory."
+msgstr "不允许使用wp-content目录之外的文件。"
+
+#: modules/acceptance.php:275
+msgid "Make this checkbox optional"
+msgstr "将此复选框设置为可选"
+
+#: admin/edit-contact-form.php:206
+msgid "Professional services"
+msgstr "专业服务"
+
+#: admin/edit-contact-form.php:205
+msgid "https://contactform7.com/custom-development/"
+msgstr "https://contactform7.com/custom-development/"
+
+#: admin/edit-contact-form.php:202
+msgid "Support forums"
+msgstr "支持论坛"
+
+#: admin/edit-contact-form.php:201
+msgid "https://wordpress.org/support/plugin/contact-form-7/"
+msgstr "https://wordpress.org/support/plugin/contact-form-7/"
+
+#: admin/edit-contact-form.php:186
+msgid "Here are some available options to help solve your problems."
+msgstr "这里有一些可用的选项可帮助您解决部分问题。"
+
+#: admin/edit-contact-form.php:184
+msgid "Do you need help?"
+msgstr "是否需要帮助？"
+
+#: modules/acceptance.php:266
+msgid "Condition"
+msgstr "条件"
+
+#. translators: 1: 'Consented' or 'Not consented', 2: conditions
+#: modules/acceptance.php:224
+msgctxt "mail output for acceptance checkboxes"
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: modules/acceptance.php:208
+msgid "Not consented"
+msgstr "已不同意"
+
+#: modules/acceptance.php:206
+msgid "Consented"
+msgstr "已同意"
+
+#: includes/submission.php:95
+msgid "Sending mail has been aborted."
+msgstr "发送邮件已中止。"
+
+#: admin/includes/editor.php:211
+msgid "You can edit messages used in various situations here. For details, see %s."
+msgstr "您可以编辑在各种情况下使用的消息。有关详细信息，请参见%s。"
+
+#: admin/includes/editor.php:210
+msgid "Editing messages"
+msgstr "编辑消息"
+
+#: admin/includes/editor.php:209
+msgid "https://contactform7.com/editing-messages/"
+msgstr "https://contactform7.com/editing-messages/"
+
+#: admin/includes/editor.php:130
+msgid "You can edit the mail template here. For details, see %s."
+msgstr "您可以在这里编辑邮件模板。有关详细信息，请参见%s。"
+
+#: admin/includes/editor.php:57
+msgid "You can edit the form template here. For details, see %s."
+msgstr "您可以在这里编辑表单模板。有关详细信息，请参见%s。"
+
+#: admin/includes/editor.php:56
+msgid "Editing form template"
+msgstr "编辑表单模板"
+
+#: admin/includes/editor.php:55
+msgid "https://contactform7.com/editing-form-template/"
+msgstr "https://contactform7.com/editing-form-template/"
+
+#. translators: screen reader text
+#: admin/edit-contact-form.php:224
+msgid "(left and right arrow)"
+msgstr "（左右箭头键）"
+
+#. translators: 1: ◀ ▶ dashicon, 2: screen reader text for the dashicon
+#: admin/edit-contact-form.php:219
+msgid "%1$s %2$s keys switch panels"
+msgstr "%1$s %2$s 按键转换面板"
+
+#. translators: screen reader text
+#: admin/admin.php:158
+msgid "(configuration error)"
+msgstr "（配置错误）"
+
+#: admin/admin.php:151
+msgid "How to resolve?"
+msgstr "如何解决？"
+
+#: admin/includes/welcome-panel.php:100
+msgid "Your donation will help encourage and support the plugin&#8217;s continued development and better user support."
+msgstr "您的捐赠将有助于鼓励和支持插件的持续开发和更好的用户支持。"
+
+#: admin/includes/welcome-panel.php:97
+msgid "making a donation"
+msgstr "捐赠"
+
+#. translators: %s: link labeled 'making a donation'
+#: admin/includes/welcome-panel.php:94
+msgid "If you enjoy using Contact Form 7 and find it useful, please consider %s."
+msgstr "如果您喜欢使用Contact Form 7，并认为它有用，请考虑%s。"
+
+#: admin/includes/welcome-panel.php:91
+msgid "It is hard to continue development and support for this plugin without contributions from users like you."
+msgstr "如果没有像您这样的用户的贡献，就很难继续开发和支持这个插件。"
+
+#: includes/contact-form.php:519 includes/contact-form.php:1032
+msgid "This contact form is available only for logged in users."
+msgstr "此联系人表单仅供已登录地用户填写。"
+
+#: includes/config-validator.php:152
+msgid "Deprecated settings are used."
+msgstr "已被废弃的设置正在被使用。"
+
+#. translators: %s: link labeled 'Really Simple CAPTCHA'
+#: modules/really-simple-captcha.php:36
+msgid "To use CAPTCHA, you need %s plugin installed."
+msgstr "要使用 CAPTCHA，您需要安装%s插件。"
+
+#: includes/rest-api.php:306
+msgid "There was an error deleting the contact form."
+msgstr "删除联系表单时出错。"
+
+#: includes/rest-api.php:66 includes/rest-api.php:82 includes/rest-api.php:98
+msgid "You are not allowed to access the requested contact form."
+msgstr "您不能取数您要的联系表单。"
+
+#: includes/rest-api.php:230 includes/rest-api.php:252
+#: includes/rest-api.php:297 includes/rest-api.php:327
+#: includes/rest-api.php:385
+msgid "The requested contact form was not found."
+msgstr "没有找到您要的联系表单。"
+
+#: includes/rest-api.php:44
+msgid "You are not allowed to create a contact form."
+msgstr "您不能创建联系表单。"
+
+#: includes/rest-api.php:184
+msgid "Cannot create existing contact form."
+msgstr "无法创建现有的联系表单。"
+
+#: includes/rest-api.php:30
+msgid "You are not allowed to access contact forms."
+msgstr "您无权访问联系表单。"
+
+#: includes/config-validator.php:661
+msgid "Attachment file does not exist at %path%."
+msgstr "在％path％不存附件文件。"
+
+#: includes/config-validator.php:537
+msgid "Invalid mailbox syntax is used in the %name% field."
+msgstr "％name％字段中使用无效的邮箱语法。"
+
+#. translators: %names%: a list of form control names
+#: includes/config-validator.php:409
+msgid "Unavailable names (%names%) are used for form controls."
+msgstr "不可用的名称（％names％）用于表单控件。"
+
+#: includes/config-validator.php:150
+msgid "There are invalid mail header fields."
+msgstr "有无效的邮件标头。"
+
+#: includes/config-validator.php:146
+msgid "HTML tags are used in a message."
+msgstr "HTML 标签在消息中使用。"
+
+#: includes/config-validator.php:144
+msgid "Sender email address does not belong to the site domain."
+msgstr "发件人电子邮件地址不属于站点域名。"
+
+#: includes/config-validator.php:142
+msgid "Invalid mailbox syntax is used."
+msgstr "使用无效的邮箱语法。"
+
+#: includes/config-validator.php:140
+msgid "There is a possible empty field."
+msgstr "有一个可能的空字段。"
+
+#. translators: %s: number of errors detected
+#: admin/includes/class-contact-forms-list-table.php:137
+msgid "%s configuration error detected"
+msgid_plural "%s configuration errors detected"
+msgstr[0] "检测到%s个配置错误"
+
+#: admin/admin.php:569 includes/rest-api.php:196 includes/rest-api.php:263
+msgid "There was an error saving the contact form."
+msgstr "保存联系表单时出错。"
+
+#: admin/admin.php:155
+msgid "%d configuration errors detected in this tab panel"
+msgstr "在此选项卡面板中检测到%d个配置错误"
+
+#: admin/admin.php:154
+msgid "1 configuration error detected in this tab panel"
+msgstr "在此选项卡面板中检测到1个配置错误"
+
+#: admin/admin.php:153
+msgid "%d configuration errors detected"
+msgstr "检测到%d个配置错误"
+
+#: admin/admin.php:152
+msgid "1 configuration error detected"
+msgstr "检测到1个配置错误"
+
+#. translators: 1: PHP function name, 2: version number, 3: alternative
+#. function name
+#. translators: 1: WordPress hook name, 2: version number, 3: alternative hook
+#. name
+#: includes/functions.php:537 includes/functions.php:574
+msgid "%1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
+msgstr "Contact Form 7  %2$s版本之后 %1$s <strong>已被弃用</strong> ！请改用 %3$s。"
+
+#: admin/includes/welcome-panel.php:126
+msgid "Flamingo"
+msgstr "Flamingo"
+
+#. translators: %s: link labeled 'Flamingo'
+#: admin/includes/welcome-panel.php:123
+msgid "Install a message storage plugin before this happens to you. %s saves all messages through contact forms into the database. Flamingo is a free WordPress plugin created by the same author as Contact Form 7."
+msgstr ""
+"发生这种情况之前，请安装消息存储插件。%s 将把联系表格的所有消息保存到数据库。\n"
+"Flamingo是由Contact Form 7同一作者所 创建一个免费的 WordPress 插件。"
+
+#: admin/includes/welcome-panel.php:120
+msgid "Contact Form 7 doesn&#8217;t store submitted messages anywhere. Therefore, you may lose important messages forever if your mail server has issues or you make a mistake in mail configuration."
+msgstr "Contact Form 7 并不存储提交的信息。因此，如果您的邮件服务器有问题或您的邮件配置有问题，您可能永远失去一些重要的消息。"
+
+#: admin/includes/welcome-panel.php:114
+msgid "Before you cry over spilt mail&#8230;"
+msgstr "在您为邮件泄露而伤心痛哭之前&#8230;"
+
+#: admin/includes/welcome-panel.php:68
+msgid "https://contactform7.com/comment-blacklist/"
+msgstr "https://contactform7.com/comment-blacklist/"
+
+#. translators: links labeled 1: 'Akismet', 2: 'reCAPTCHA', 3: 'disallowed
+#. list'
+#: admin/includes/welcome-panel.php:58
+msgid "Contact Form 7 supports spam-filtering with %1$s. Intelligent %2$s blocks annoying spambots. Plus, using %3$s, you can block messages containing specified keywords or those sent from specified IP addresses."
+msgstr "Contact Form 7 以%1$s支持垃圾邮件过滤。智能 %2$s 能阻止垃圾机器人。另外，使用 %3$s，您可以阻止包含指定的关键字或那些从指定的 IP 地址发送的邮件。"
+
+#: admin/includes/welcome-panel.php:55
+msgid "Spammers target everything; your contact forms aren&#8217;t an exception. Before you get spammed, protect your contact forms with the powerful anti-spam features Contact Form 7 provides."
+msgstr ""
+"垃圾邮件制造者把所有可能的东西都视为他们的攻击目标，您的联系表单也不例外。\n"
+"在您被垃圾邮件攻击之前，让Contact Form 7的作者提供的强大的垃圾邮件保护功能保护您的表单。"
+
+#: admin/includes/welcome-panel.php:49
+msgid "Getting spammed? You have protection."
+msgstr "收到垃圾邮件？您有保护。"
+
+#: includes/config-validator.php:148
+msgid "Multiple form controls are in a single label element."
+msgstr "多个表单控件都放在一个单独的标签元素中。"
+
+#: admin/includes/config-validator.php:135
+msgid "FAQ about Configuration Validator"
+msgstr "有关配置检验的常见问题"
+
+#: admin/includes/config-validator.php:134
+msgid "https://contactform7.com/configuration-validator-faq/"
+msgstr "https://contactform7.com/configuration-validator-faq/"
+
+#: modules/text.php:204
+msgid "The telephone number is invalid."
+msgstr "电话号码无效。"
+
+#: modules/text.php:197
+msgid "The URL is invalid."
+msgstr "提供的URL无效。"
+
+#: modules/text.php:190
+msgid "The e-mail address entered is invalid."
+msgstr "输入的电子邮件地址无效。"
+
+#: modules/quiz.php:200
+msgid "The answer to the quiz is incorrect."
+msgstr "小测验的答案不正确。"
+
+#: modules/number.php:144
+msgid "The number is larger than the maximum allowed."
+msgstr "数字大于允许的最大值。"
+
+#: modules/number.php:139
+msgid "The number is smaller than the minimum allowed."
+msgstr "数字小于允许的最小值。"
+
+#: modules/number.php:134
+msgid "The number format is invalid."
+msgstr "数字格式无效。"
+
+#: includes/file.php:135
+msgid "There was an error uploading the file."
+msgstr "上传文件时出错。"
+
+#: includes/file.php:130
+msgid "The file is too big."
+msgstr "该文件太大。"
+
+#: includes/file.php:125
+msgid "You are not allowed to upload files of this type."
+msgstr "抱歉，不允许上传这一类型的文件。"
+
+#: includes/file.php:120
+msgid "There was an unknown error uploading the file."
+msgstr "上传文件时出错。"
+
+#: modules/date.php:152
+msgid "The date is after the latest one allowed."
+msgstr "日期晚于允许的最后日期。"
+
+#: modules/date.php:147
+msgid "The date is before the earliest one allowed."
+msgstr "日期早于允许的最早日期。"
+
+#: modules/date.php:142
+msgid "The date format is incorrect."
+msgstr "日期格式不正确。"
+
+#: includes/contact-form-template.php:213
+msgid "The field is too short."
+msgstr "内容太短。"
+
+#: includes/contact-form-template.php:206
+msgid "The field is too long."
+msgstr "内容太长。"
+
+#: includes/contact-form-template.php:199
+msgid "The field is required."
+msgstr "必填字段。"
+
+#: includes/contact-form-template.php:192
+msgid "You must accept the terms and conditions before sending your message."
+msgstr "您必须阅读并接受条款和条件，才能发送信息。"
+
+#: includes/contact-form-template.php:178
+msgid "One or more fields have an error. Please check and try again."
+msgstr "出现错误，请检查后重新尝试。"
+
+#: includes/contact-form-template.php:171
+#: includes/contact-form-template.php:185
+msgid "There was an error trying to send your message. Please try again later."
+msgstr "发生错误，请稍后再试。"
+
+#: includes/contact-form-template.php:164
+msgid "Thank you for your message. It has been sent."
+msgstr "谢谢。已发送您的信息。"
+
+#. translators: 1: blog name, 2: [your-subject]
+#: includes/contact-form-template.php:52 includes/contact-form-template.php:96
+msgctxt "mail subject"
+msgid "%1$s \"%2$s\""
+msgstr "%1$s \"%2$s\""
+
+#: admin/includes/config-validator.php:48
+msgid "Misconfiguration leads to mail delivery failure or other troubles. Validate your contact forms now."
+msgstr "错误的设置导致无法发送或其它问题。请立即核对您的联系表单。"
+
+#: admin/includes/config-validator.php:45
+msgid "Validate Contact Form 7 Configuration"
+msgstr "验证 Contact Form 7 配置"
+
+#: includes/config-validator.php:23
+msgid "https://contactform7.com/configuration-errors/"
+msgstr "https://contactform7.com/configuration-errors/"
+
+#: admin/admin.php:600
+msgid "Configuration validation completed. No invalid contact form was found."
+msgstr "验证已完成，没有无效表单。"
+
+#. translators: %s: number of contact forms
+#: admin/admin.php:586
+msgid "Configuration validation completed. %s invalid contact form was found."
+msgid_plural "Configuration validation completed. %s invalid contact forms were found."
+msgstr[0] "验证已完成，发现%s个无效表单。"
+
+#: admin/includes/config-validator.php:124
+msgid "Validate Configuration"
+msgstr "验证配置"
+
+#. translators: %s: number of contact forms
+#: admin/includes/config-validator.php:112
+msgid "Validate %s contact form now"
+msgid_plural "Validate %s contact forms now"
+msgstr[0] "现在就验证%s联系表单"
+
+#: admin/includes/config-validator.php:70
+msgid "You are not allowed to validate configuration."
+msgstr "您没有权限进行验证。"
+
+#: admin/includes/welcome-panel.php:64 admin/includes/welcome-panel.php:164
+#: modules/recaptcha/recaptcha.php:200 modules/recaptcha/recaptcha.php:458
+msgid "https://contactform7.com/recaptcha/"
+msgstr "https://contactform7.com/recaptcha/"
+
+#: modules/recaptcha/recaptcha.php:508 modules/stripe/service.php:224
+msgid "Secret Key"
+msgstr "密匙"
+
+#: modules/recaptcha/recaptcha.php:491
+msgid "Site Key"
+msgstr "站点密钥"
+
+#: modules/recaptcha/recaptcha.php:450 modules/sendinblue/service.php:141
+#: modules/stripe/service.php:150
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: modules/recaptcha/recaptcha.php:445 modules/sendinblue/service.php:134
+#: modules/stripe/service.php:143
+msgid "Invalid key values."
+msgstr "无效的密钥。"
+
+#: admin/includes/welcome-panel.php:65 admin/includes/welcome-panel.php:165
+#: modules/recaptcha/recaptcha.php:234
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA人机识别系统"
+
+#: modules/really-simple-captcha.php:256
+msgid "CAPTCHA (Really Simple CAPTCHA)"
+msgstr "CAPTCHA (Really Simple CAPTCHA)"
+
+#. Author URI of the plugin
+msgid "https://ideasilo.wordpress.com/"
+msgstr "https://ideasilo.wordpress.com/"
+
+#. Author of the plugin
+msgid "Takayuki Miyoshi"
+msgstr "Takayuki Miyoshi"
+
+#. Description of the plugin
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr "一个联系表单插件，简单而灵活。"
+
+#. Plugin URI of the plugin
+msgid "https://contactform7.com/"
+msgstr "https://contactform7.com/"
+
+#. translators: title of your first contact form. %d: number fixed to '1'
+#: load.php:184
+msgid "Contact form %d"
+msgstr "联系表单 %d"
+
+#: modules/textarea.php:150
+msgid "Generate a form-tag for a multi-line text input field. For more details, see %s."
+msgstr "为多行文本输入字段创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/textarea.php:142
+msgid "text area"
+msgstr "文本段"
+
+#: modules/text.php:296
+msgid "This field requires author's URL"
+msgstr "这个域填发件人的链接"
+
+#: modules/text.php:291
+msgid "This field requires author's email address"
+msgstr "这个域填写发件人的邮箱地址"
+
+#: modules/text.php:286
+msgid "This field requires author's name"
+msgstr "这个域填写发件人的名字"
+
+#: admin/includes/welcome-panel.php:61 modules/text.php:278
+#: modules/text.php:281
+msgid "Akismet"
+msgstr "Akismet"
+
+#: modules/text.php:246 modules/textarea.php:152
+msgid "Text fields"
+msgstr "文本字段"
+
+#: modules/text.php:246 modules/textarea.php:152
+msgid "https://contactform7.com/text-fields/"
+msgstr "https://contactform7.com/text-fields/"
+
+#: modules/text.php:243
+msgid "Generate a form-tag for a single-line telephone number input field. For more details, see %s."
+msgstr "为单行电话号码输入字段创建form标签。欲知详情，请参阅%s。"
+
+#: modules/text.php:241
+msgid "Generate a form-tag for a single-line URL input field. For more details, see %s."
+msgstr "为单行URL输入字段创建form标签。欲知详情，请参阅%s。"
+
+#: modules/text.php:239
+msgid "Generate a form-tag for a single-line email address input field. For more details, see %s."
+msgstr "为单行电子邮件输入字段创建form标签。欲知详情，请参阅%s。"
+
+#: modules/text.php:237
+msgid "Generate a form-tag for a single-line plain text input field. For more details, see %s."
+msgstr "为单行文本输入字段创建form标签。欲知详情，请参阅%s。"
+
+#: modules/text.php:224
+msgid "tel"
+msgstr "电话"
+
+#: modules/text.php:222
+msgid "URL"
+msgstr "链接"
+
+#: modules/text.php:220
+msgid "email"
+msgstr "邮箱地址"
+
+#: modules/text.php:218
+msgid "text"
+msgstr "文本"
+
+#: modules/text.php:202
+msgid "Telephone number that the sender entered is invalid"
+msgstr "发件人输入的电话号码无效"
+
+#: modules/text.php:195
+msgid "URL that the sender entered is invalid"
+msgstr "发件人输入的链接无效"
+
+#: modules/text.php:188
+msgid "Email address that the sender entered is invalid"
+msgstr "发送人输入的邮箱地址无效"
+
+#: modules/submit.php:65
+msgid "Label"
+msgstr "标签"
+
+#: modules/submit.php:55
+msgid "Submit button"
+msgstr "提交按钮"
+
+#: modules/submit.php:55
+msgid "https://contactform7.com/submit-button/"
+msgstr "https://contactform7.com/submit-button/"
+
+#: modules/submit.php:53
+msgid "Generate a form-tag for a submit button. For more details, see %s."
+msgstr "为提交按钮创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/submit.php:46
+msgid "submit"
+msgstr "提交"
+
+#: modules/select.php:204
+msgid "Insert a blank item as the first option"
+msgstr "插入空白项作为第一个选项"
+
+#: modules/select.php:203
+msgid "Allow multiple selections"
+msgstr "允许多项选择"
+
+#: modules/select.php:170
+msgid "Generate a form-tag for a drop-down menu. For more details, see %s."
+msgstr "为下拉菜单创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/select.php:163
+msgid "drop-down menu"
+msgstr "下拉式菜单"
+
+#: modules/quiz.php:244
+msgid "One pipe-separated question-answer pair (e.g. The capital of Brazil?|Rio) per line."
+msgstr "每行一个竖线分隔的问与答。（例如：巴西的首都？|里约）"
+
+#: modules/quiz.php:239 modules/quiz.php:242
+msgid "Questions and answers"
+msgstr "问题与解答"
+
+#: modules/quiz.php:224
+msgid "Quiz"
+msgstr "小测验"
+
+#: modules/quiz.php:224
+msgid "https://contactform7.com/quiz/"
+msgstr "https://contactform7.com/quiz/"
+
+#: modules/quiz.php:222
+msgid "Generate a form-tag for a question-answer pair. For more details, see %s."
+msgstr "为每一列问与答创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/quiz.php:214
+msgid "quiz"
+msgstr "测验"
+
+#: modules/quiz.php:198
+msgid "Sender doesn't enter the correct answer to the quiz"
+msgstr "发送者没有输入小测验的正确答案"
+
+#: modules/number.php:182
+msgid "Slider"
+msgstr "轮播图"
+
+#: modules/number.php:181
+msgid "Spinbox"
+msgstr "Spinbox"
+
+#: modules/number.php:166
+msgid "Number fields"
+msgstr "数字字段"
+
+#: modules/number.php:166
+msgid "https://contactform7.com/number-fields/"
+msgstr "https://contactform7.com/number-fields/"
+
+#: modules/number.php:164
+msgid "Generate a form-tag for a field for numeric value input. For more details, see %s."
+msgstr "创建form标签来显示数值输入字段。 有关详细信息，请参阅 %s。"
+
+#: modules/number.php:156
+msgid "number"
+msgstr "数值"
+
+#: modules/number.php:143
+msgid "Number is larger than maximum limit"
+msgstr "数字大于上限"
+
+#: modules/number.php:138
+msgid "Number is smaller than minimum limit"
+msgstr "数字小于下限"
+
+#: modules/number.php:133
+msgid "Number format that the sender entered is invalid"
+msgstr "发送者输入的数字格式无效"
+
+#. translators: %s: the path of the temporary folder
+#: includes/file.php:395
+msgid "This contact form has file uploading fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually."
+msgstr "此联系表单有文件上传字段，但文件的临时文件夹(%s)不存在或不可写。您可以手动创建文件夹或更改其权限。"
+
+#: modules/file.php:182
+msgid "To attach the file uploaded through this field to mail, you need to insert the corresponding mail-tag (%s) into the File Attachments field on the Mail tab."
+msgstr "要将通过此字段上传的文件附加到邮件，您需要将相应的邮件标签 (%s) 插入“邮件”选项卡上的“文件附件”字段。"
+
+#: modules/file.php:154
+msgid "Acceptable file types"
+msgstr "可上传的文件类型"
+
+#: modules/file.php:149
+msgid "File size limit (bytes)"
+msgstr "文件大小限制(字节)"
+
+#: modules/file.php:124
+msgid "File uploading and attachment"
+msgstr "文件上传和附件"
+
+#: modules/file.php:124
+msgid "https://contactform7.com/file-uploading-and-attachment/"
+msgstr "https://contactform7.com/file-uploading-and-attachment/"
+
+#: modules/file.php:122
+msgid "Generate a form-tag for a file uploading field. For more details, see %s."
+msgstr "为文件上传字段创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/file.php:114
+msgid "file"
+msgstr "文件"
+
+#: includes/file.php:134
+msgid "Uploading a file fails for PHP error"
+msgstr "因为PHP错误，上传文件失败"
+
+#: includes/file.php:129
+msgid "Uploaded file is too large"
+msgstr "上传的文件太大"
+
+#: includes/file.php:124
+msgid "Uploaded file is not allowed for file type"
+msgstr "上传的文件是不允许的文件类型"
+
+#: includes/file.php:119
+msgid "Uploading a file fails for any reason"
+msgstr "由于某种原因上传文件失败"
+
+#: modules/date.php:215 modules/number.php:212
+msgid "Max"
+msgstr "最大"
+
+#: modules/date.php:210 modules/number.php:207
+msgid "Min"
+msgstr "最小"
+
+#: modules/date.php:205 modules/date.php:208 modules/number.php:202
+#: modules/number.php:205
+msgid "Range"
+msgstr "范围"
+
+#: modules/date.php:201 modules/number.php:198 modules/text.php:273
+#: modules/textarea.php:179
+msgid "Use this text as the placeholder of the field"
+msgstr "将此文本作为该字段的占位符"
+
+#: modules/date.php:199 modules/number.php:196 modules/text.php:271
+#: modules/textarea.php:177
+msgid "Default value"
+msgstr "默认值"
+
+#: modules/date.php:174
+msgid "Date field"
+msgstr "日期字段"
+
+#: modules/date.php:174
+msgid "https://contactform7.com/date-field/"
+msgstr "https://contactform7.com/date-field/"
+
+#: modules/date.php:172
+msgid "Generate a form-tag for a date input field. For more details, see %s."
+msgstr "为日期输入字段创建form标签。 有关详细信息，请参阅 %s。"
+
+#: modules/date.php:164
+msgid "date"
+msgstr "日期"
+
+#: modules/date.php:151
+msgid "Date is later than maximum limit"
+msgstr "日期值大于最大允许日期值"
+
+#: modules/date.php:146
+msgid "Date is earlier than minimum limit"
+msgstr "日期值小于最小日期值"
+
+#: modules/date.php:141
+msgid "Date format that the sender entered is invalid"
+msgstr "发件人输入的日期格式不正确"
+
+#: modules/checkbox.php:301 modules/date.php:245 modules/number.php:242
+#: modules/select.php:233 modules/text.php:329 modules/textarea.php:206
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr "要在邮件字段中使用通过此字段输入的值，需要在“邮件”选项卡上的字段中插入相应的邮件标签 (%s)。"
+
+#: modules/checkbox.php:271
+msgid "Make checkboxes exclusive"
+msgstr "复选框排它性"
+
+#: modules/checkbox.php:269
+msgid "Wrap each item with label element"
+msgstr "每一项都用label标签标注"
+
+#: modules/checkbox.php:268
+msgid "Put a label first, a checkbox last"
+msgstr "标签在前，选项在后"
+
+#: modules/checkbox.php:267 modules/select.php:202
+msgid "One option per line."
+msgstr "每行一个选项。"
+
+#: modules/checkbox.php:250 modules/date.php:188 modules/file.php:138
+#: modules/number.php:185 modules/select.php:186 modules/text.php:260
+#: modules/textarea.php:166
+msgid "Required field"
+msgstr "必填字段"
+
+#: modules/checkbox.php:246 modules/checkbox.php:249 modules/date.php:184
+#: modules/date.php:187 modules/file.php:134 modules/file.php:137
+#: modules/number.php:176 modules/number.php:179 modules/select.php:182
+#: modules/select.php:185 modules/text.php:256 modules/text.php:259
+#: modules/textarea.php:162 modules/textarea.php:165
+msgid "Field type"
+msgstr "字段类型"
+
+#: modules/checkbox.php:235 modules/select.php:172
+msgid "Checkboxes, radio buttons and menus"
+msgstr "复选框，单选按钮和菜单"
+
+#: modules/checkbox.php:235 modules/select.php:172
+msgid "https://contactform7.com/checkboxes-radio-buttons-and-menus/"
+msgstr "https://contactform7.com/checkboxes-radio-buttons-and-menus/"
+
+#: modules/checkbox.php:232
+msgid "Generate a form-tag for a group of radio buttons. For more details, see %s."
+msgstr "为一组单选按钮创建form标签。 有关更多详细信息，请参阅 %s."
+
+#: modules/checkbox.php:230
+msgid "Generate a form-tag for a group of checkboxes. For more details, see %s."
+msgstr "为一组复选框创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/checkbox.php:217
+msgid "radio buttons"
+msgstr "单选按钮"
+
+#: modules/checkbox.php:215
+msgid "checkboxes"
+msgstr "复选框"
+
+#: modules/really-simple-captcha.php:377
+msgid "This contact form contains CAPTCHA fields, but the necessary libraries (GD and FreeType) are not available on your server."
+msgstr "这个联系表单包含CAPTCHA域，但是您的服务器上没有必须要用到的库（GD and FreeType）。"
+
+#: modules/really-simple-captcha.php:370
+msgid "This contact form contains CAPTCHA fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually."
+msgstr "这个联系表单包含CAPTCHA域，但包含文件(%s)的临时文件夹不存在或者没法写入。您可以创建文件夹或者手动修改权限。"
+
+#: modules/really-simple-captcha.php:315
+msgid "Input field settings"
+msgstr "输入栏的设置"
+
+#: modules/really-simple-captcha.php:300
+msgid "Image settings"
+msgstr "图像设置"
+
+#: modules/really-simple-captcha.php:283
+msgid "https://contactform7.com/captcha/"
+msgstr "https://contactform7.com/captcha/"
+
+#: modules/really-simple-captcha.php:281
+msgid "Generate form-tags for a CAPTCHA image and corresponding response input field. For more details, see %s."
+msgstr "为人机识别系统图像和相应的响应输入字段创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#. translators: %s: link labeled 'Really Simple CAPTCHA'
+#: modules/really-simple-captcha.php:270
+msgid "To use CAPTCHA, you first need to install and activate %s plugin."
+msgstr "要使用人机识别系统，您首先需要安装和激活 %s 插件。"
+
+#: modules/really-simple-captcha.php:283 modules/recaptcha/recaptcha.php:9
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: modules/really-simple-captcha.php:237
+msgid "Your entered code is incorrect."
+msgstr "您输入的验证码不正确。"
+
+#: modules/really-simple-captcha.php:235
+msgid "The code that sender entered does not match the CAPTCHA"
+msgstr "发件人输入的验证码和CAPTCHA的不匹配"
+
+#: modules/acceptance.php:299 modules/checkbox.php:296 modules/date.php:240
+#: modules/file.php:177 modules/number.php:237 modules/quiz.php:268
+#: modules/really-simple-captcha.php:335 modules/select.php:228
+#: modules/submit.php:88 modules/text.php:324 modules/textarea.php:201
+msgid "Insert Tag"
+msgstr "插入标签"
+
+#: modules/acceptance.php:286 modules/checkbox.php:283 modules/date.php:228
+#: modules/file.php:164 modules/number.php:225 modules/quiz.php:255
+#: modules/really-simple-captcha.php:308 modules/really-simple-captcha.php:323
+#: modules/select.php:215 modules/submit.php:75 modules/text.php:311
+#: modules/textarea.php:188
+msgid "Class attribute"
+msgstr "样式属性"
+
+#: modules/acceptance.php:281 modules/checkbox.php:278 modules/date.php:223
+#: modules/file.php:159 modules/number.php:220 modules/quiz.php:250
+#: modules/really-simple-captcha.php:303 modules/really-simple-captcha.php:318
+#: modules/select.php:210 modules/submit.php:70 modules/text.php:306
+#: modules/textarea.php:183
+msgid "Id attribute"
+msgstr "ID属性"
+
+#: modules/acceptance.php:271 modules/acceptance.php:274
+#: modules/checkbox.php:262 modules/checkbox.php:265 modules/select.php:197
+#: modules/select.php:200
+msgid "Options"
+msgstr "可选项"
+
+#: modules/acceptance.php:261 modules/checkbox.php:257 modules/date.php:194
+#: modules/file.php:144 modules/number.php:191 modules/quiz.php:234
+#: modules/really-simple-captcha.php:293 modules/select.php:192
+#: modules/text.php:266 modules/textarea.php:172
+msgid "Name"
+msgstr "名字"
+
+#: modules/acceptance.php:251
+msgid "Acceptance checkbox"
+msgstr "接受复选框"
+
+#: modules/acceptance.php:251
+msgid "https://contactform7.com/acceptance-checkbox/"
+msgstr "https://contactform7.com/acceptance-checkbox/"
+
+#: modules/acceptance.php:249
+msgid "Generate a form-tag for an acceptance checkbox. For more details, see %s."
+msgstr "为复选框创建form标签。 有关更多详细信息，请参阅 %s。"
+
+#: modules/acceptance.php:241
+msgid "acceptance"
+msgstr "接受"
+
+#: includes/contact-form.php:221
+msgid "<code>%1$s</code> property of a <code>WPCF7_ContactForm</code> object is <strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr "<code>WPCF7_ContactForm</code> 对象的<code>%1$s</code>属性 <strong>已经废除</strong>。请使用<code>%2$s</code>代替。"
+
+#: includes/contact-form.php:110 includes/contact-form.php:428
+msgid "Untitled"
+msgstr "没有标题"
+
+#: includes/contact-form.php:48
+msgid "Contact Form"
+msgstr "联系表单"
+
+#: includes/contact-form-template.php:211
+msgid "There is a field with input that is shorter than the minimum allowed length"
+msgstr "一个字段的输入短于最小允许长度"
+
+#: includes/contact-form-template.php:204
+msgid "There is a field with input that is longer than the maximum allowed length"
+msgstr "一个字段输入超过最大允许长度"
+
+#: includes/contact-form-template.php:197
+msgid "There is a field that the sender must fill in"
+msgstr "发件人必须填写必填项"
+
+#: includes/contact-form-template.php:190
+msgid "There are terms that the sender must accept"
+msgstr "有些选项发件人必须同意接受"
+
+#: includes/contact-form-template.php:183
+msgid "Submission was referred to as spam"
+msgstr "提交的邮件被归为垃圾邮件"
+
+#: includes/contact-form-template.php:176
+msgid "Validation errors occurred"
+msgstr "出现验证错误"
+
+#: includes/contact-form-template.php:169
+msgid "Sender's message failed to send"
+msgstr "发件人的邮件发送失败"
+
+#: includes/contact-form-template.php:162
+msgid "Sender's message was sent successfully"
+msgstr "发件人的邮件已经成功发送"
+
+#. translators: 1: blog name, 2: blog URL
+#: includes/contact-form-template.php:77 includes/contact-form-template.php:111
+msgid "This e-mail was sent from a contact form on %1$s (%2$s)"
+msgstr "这封邮件来自联系表单%1$s (%2$s)"
+
+#: includes/contact-form-template.php:72 includes/contact-form-template.php:106
+msgid "Message Body:"
+msgstr "消息正文："
+
+#. translators: %s: [your-subject]
+#: includes/contact-form-template.php:69
+msgid "Subject: %s"
+msgstr "主题：%s"
+
+#. translators: %s: [your-name] <[your-email]>
+#: includes/contact-form-template.php:64
+msgid "From: %s"
+msgstr "发件人：%s"
+
+#: modules/submit.php:26
+msgid "Send"
+msgstr "发送"
+
+#: includes/contact-form-template.php:41
+msgid "Your message"
+msgstr "您的消息"
+
+#: includes/contact-form-template.php:39
+msgid "Your email"
+msgstr "您的电邮"
+
+#: includes/contact-form-template.php:38
+msgid "Your name"
+msgstr "您的名字"
+
+#. translators: %s: title of form-tag like 'email' or 'checkboxes'
+#: admin/includes/tag-generator.php:46
+msgid "Form-tag Generator: %s"
+msgstr "Form标签创建：%s"
+
+#: admin/includes/help-tabs.php:91
+msgid "For more information:"
+msgstr "想要了解详细情况："
+
+#: admin/includes/help-tabs.php:83
+msgid "Any information you provide will not be shared with service providers without your authorization."
+msgstr "您所提供的信息未经您同意不会与服务供应商分享。"
+
+#: admin/includes/help-tabs.php:82
+msgid "You may need to first sign up for an account with the service that you plan to use. When you do so, you would need to authorize Contact Form 7 to access the service with your account."
+msgstr "您需要创建帐号以使用服务。创建时，请同时授权Contact Form 7访问您的帐号。"
+
+#: admin/includes/help-tabs.php:81
+msgid "On this screen, you can manage services that are available through Contact Form 7. Using API will allow you to collaborate with any services that are available."
+msgstr "在当前屏幕，您可以管理Contact Form7有关的服务。使用API来进行相关操作。"
+
+#: admin/includes/help-tabs.php:79
+msgid "There are also special mail-tags that have specific names, but don&#8217;t have corresponding form-tags. They are used to represent meta information of form submissions like the submitter&#8217;s IP address or the URL of the page."
+msgstr "也有特殊的邮件标签，有具体的名字，但没有相应的form标签。它们是用来代表表单提交的元信息，比如提交者的IP地址或页面URL。"
+
+#: admin/includes/help-tabs.php:78
+msgid "A mail-tag is also a short code enclosed in square brackets that you can use in every Mail and Mail (2) field. A mail-tag represents a user input value through an input field of a corresponding form-tag."
+msgstr "邮件标签也是置于方括号中的短代码，您可以使用在邮件和邮件 (2) 字段。邮件标签表示用户通过相应的form标签输入字段的输入值。"
+
+#: admin/includes/help-tabs.php:76
+msgid "While form-tags have a comparatively complex syntax, you don&#8217;t need to know the syntax to add form-tags because you can use the straightforward tag generator (<strong>Generate Tag</strong> button on this screen)."
+msgstr "虽然form标签的语法有些复杂，您实际上不需要掌握那些语法来添加form标签，因为您可以使用简洁明了的标签生成器 （在此屏幕上的<strong>创建标记</strong> 按钮）。"
+
+#: admin/includes/help-tabs.php:75
+msgid "A form-tag is a short code enclosed in square brackets used in a form content. A form-tag generally represents an input field, and its components can be separated into four parts: type, name, options, and values. Contact Form 7 supports several types of form-tags including text fields, number fields, date fields, checkboxes, radio buttons, menus, file-uploading fields, CAPTCHAs, and quiz fields."
+msgstr "Form标签是在表单内容中的方括号内的简码（short code）。Form标签通常表示一个输入的字段，其组件可以分成四个部分︰ 类型、 名称、 选项和值。Contact Form 7 支持多种类型的表单,包括文本字段、数字字段、日期字段、复选框、单选按钮、菜单、文件上传字段，验证码，和测验字段。"
+
+#: admin/includes/help-tabs.php:73
+msgid "<strong>Additional Settings</strong> provides a place where you can customize the behavior of this contact form by adding code snippets."
+msgstr "<strong>其它设置</strong>提供了使用码段来改变联系表单的方法。"
+
+#: admin/includes/help-tabs.php:72
+msgid "In <strong>Messages</strong>, you can edit various types of messages used for this contact form. These messages are relatively short messages, like a validation error message you see when you leave a required field blank."
+msgstr "在 <strong>邮件信息</strong> 中，您可以编辑各种类型的消息用于此联系表单。这些消息都是相对较短的消息，比如您看到必填的字段为空时的验证错误消息。"
+
+#: admin/includes/help-tabs.php:71
+msgid "<strong>Mail (2)</strong> is an additional mail template that works similar to Mail. Mail (2) is different in that it is sent only when Mail has been sent successfully."
+msgstr "<strong>邮件(2)</strong> 是一个类似于邮件（Mail）的附加的邮件模板。邮件(2) 不同的是它只有当邮件（Mail）已成功发送时发送。"
+
+#: admin/includes/help-tabs.php:70
+msgid "<strong>Mail</strong> manages a mail template (headers and message body) that this contact form will send when users submit it. You can use Contact Form 7&#8217;s mail-tags here."
+msgstr "<strong>邮件</strong> 是一个模板文件（邮件标题和邮件正文），用户提交联系表单时，它将发送该邮件模板。您可以在此使用Contact form 7的邮件标签。"
+
+#: admin/includes/help-tabs.php:69
+msgid "<strong>Form</strong> is a content of HTML form. You can use arbitrary HTML, which is allowed inside a form element. You can also use Contact Form 7&#8217;s form-tags here."
+msgstr "<strong>表单</strong> 是HTML表单的内容。您可以在form元素内使用任意的HTML。您还可以在这里使用Contact Form 7的form标签。"
+
+#: admin/includes/help-tabs.php:68
+msgid "<strong>Title</strong> is the title of a contact form. This title is only used for labeling a contact form, and can be edited."
+msgstr "<strong>标题</strong>是联系表单的标题。标题用于标记该表单，并可进行编辑。"
+
+#: admin/includes/help-tabs.php:67
+msgid "On this screen, you can edit a contact form. A contact form is comprised of the following components:"
+msgstr "在该屏幕可以进行联系表单的编辑。联系表单由以下部分组成："
+
+#: admin/includes/help-tabs.php:65
+msgid "<strong>Duplicate</strong> - Clones that contact form. A cloned contact form inherits all content from the original, but has a different ID."
+msgstr "<strong>复制</strong> -复制表单。复制的表单与原表单内容一致，但ID不同。"
+
+#: admin/includes/help-tabs.php:64
+msgid "<strong>Edit</strong> - Navigates to the editing screen for that contact form. You can also reach that screen by clicking on the contact form title."
+msgstr "<strong>编辑</strong> -打开联系表单编辑屏幕。您也可以单击联系表单进入编辑状态。"
+
+#: admin/includes/help-tabs.php:63
+msgid "Hovering over a row in the contact forms list will display action links that allow you to manage your contact form. You can perform the following actions:"
+msgstr "悬停在联系表单中的某一行将显示允许您管理您的联系表单的操作链接。您可以执行以下操作:"
+
+#: admin/includes/help-tabs.php:61
+msgid "On this screen, you can manage contact forms provided by Contact Form 7. You can manage an unlimited number of contact forms. Each contact form has a unique ID and Contact Form 7 shortcode ([contact-form-7 ...]). To insert a contact form into a post or a text widget, insert the shortcode into the target."
+msgstr "在此屏幕上，您可以管理Contact Form7提供的所有表单。您可以管理无限数量的。每个联表单。每一个表单有唯一的ID和Contact Form 7 简码 ([contact-form-7...])。若要在文章或小工具中插入联系表单，只需要输入简码即可。"
+
+#: admin/includes/help-tabs.php:40
+msgid "Mail-tags"
+msgstr "Mail标签"
+
+#: admin/includes/help-tabs.php:35
+msgid "Form-tags"
+msgstr "表单form标签"
+
+#: admin/includes/help-tabs.php:21
+msgid "Available Actions"
+msgstr "可进行的操作"
+
+#: admin/includes/help-tabs.php:16 admin/includes/help-tabs.php:30
+#: admin/includes/help-tabs.php:49
+msgid "Overview"
+msgstr "概述"
+
+#: admin/includes/editor.php:248
+msgid "You can add customization code snippets here. For details, see %s."
+msgstr "您可在此插入自訂代码。详细方式可參考 %s 。"
+
+#: admin/includes/editor.php:246
+msgid "https://contactform7.com/additional-settings/"
+msgstr "https://contactform7.com/additional-settings/"
+
+#: admin/includes/editor.php:194
+msgid "File attachments"
+msgstr "文件附件"
+
+#: admin/includes/editor.php:188
+msgid "Use HTML content type"
+msgstr "使用HTML内容类型"
+
+#: admin/includes/editor.php:186
+msgid "Exclude lines with blank mail-tags from output"
+msgstr "不输出空白邮件标签行"
+
+#: admin/includes/editor.php:181
+msgid "Message body"
+msgstr "消息正文"
+
+#: admin/includes/editor.php:172
+msgid "Additional headers"
+msgstr "附加标题"
+
+#: admin/includes/editor.php:163 includes/contact-form-template.php:40
+msgid "Subject"
+msgstr "主题"
+
+#: admin/includes/editor.php:154
+msgid "From"
+msgstr "发件人"
+
+#: admin/includes/editor.php:145
+msgid "To"
+msgstr "收件人"
+
+#: admin/includes/editor.php:135
+msgid "In the following fields, you can use these mail-tags:"
+msgstr "下面空格中，您可以使用這些邮件标签:"
+
+#: admin/includes/editor.php:119
+msgid "Mail (2) is an additional mail template often used as an autoresponder."
+msgstr "邮箱（2）通常用作自动回复的模板。"
+
+#: admin/includes/editor.php:85
+msgid "Use Mail (2)"
+msgstr "使用 Mail (2)"
+
+#: admin/includes/editor.php:84
+msgid "Mail (2)"
+msgstr "邮箱（2）"
+
+#. translators: date format, see https://www.php.net/date
+#: admin/includes/class-contact-forms-list-table.php:236
+msgid "Y/m/d"
+msgstr "年/月/日"
+
+#. translators: %s: title of contact form
+#: admin/includes/class-contact-forms-list-table.php:122
+msgid "Edit &#8220;%s&#8221;"
+msgstr "编辑 &#8220;%s&#8221;"
+
+#: admin/includes/class-contact-forms-list-table.php:169
+msgid "Edit"
+msgstr "编辑"
+
+#: admin/includes/class-contact-forms-list-table.php:15
+msgid "Date"
+msgstr "日期"
+
+#: admin/includes/class-contact-forms-list-table.php:14
+msgid "Author"
+msgstr "作者"
+
+#: admin/includes/class-contact-forms-list-table.php:13
+msgid "Shortcode"
+msgstr "简码"
+
+#: admin/includes/class-contact-forms-list-table.php:12
+msgid "Title"
+msgstr "标题"
+
+#: admin/edit-contact-form.php:267 admin/includes/editor.php:252
+msgid "Additional Settings"
+msgstr "额外的设置"
+
+#. translators: %d: number of additional settings
+#: admin/edit-contact-form.php:265
+msgid "Additional Settings (%d)"
+msgstr "附加的设置 (%d)"
+
+#: admin/edit-contact-form.php:245 admin/includes/editor.php:222
+msgid "Messages"
+msgstr "留言"
+
+#: admin/edit-contact-form.php:241 admin/includes/editor.php:93
+msgid "Mail"
+msgstr "邮箱"
+
+#: admin/edit-contact-form.php:237 admin/includes/editor.php:61
+msgid "Form"
+msgstr "表单"
+
+#: admin/includes/help-tabs.php:94
+msgid "Support"
+msgstr "支持"
+
+#: admin/includes/help-tabs.php:94
+msgid "https://contactform7.com/support/"
+msgstr "https://contactform7.com/support/"
+
+#: admin/edit-contact-form.php:193 admin/includes/help-tabs.php:93
+msgid "FAQ"
+msgstr "常见问题解答"
+
+#: admin/edit-contact-form.php:192 admin/includes/help-tabs.php:93
+msgid "https://contactform7.com/faq/"
+msgstr "https://contactform7.com/faq/"
+
+#: admin/includes/help-tabs.php:92
+msgid "Docs"
+msgstr "文档"
+
+#: admin/edit-contact-form.php:196 admin/includes/help-tabs.php:92
+msgid "https://contactform7.com/docs/"
+msgstr "https://contactform7.com/docs/"
+
+#: admin/edit-contact-form.php:168
+msgid ""
+"You are about to delete this contact form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"您正准备删除这个联系表单。\n"
+"  '取消' 停止删除表单, '提交' 删除表单。"
+
+#: admin/edit-contact-form.php:168
+#: admin/includes/class-contact-forms-list-table.php:90
+msgid "Delete"
+msgstr "删除"
+
+#: admin/edit-contact-form.php:153
+#: admin/includes/class-contact-forms-list-table.php:187
+msgid "Duplicate"
+msgstr "复制"
+
+#: admin/edit-contact-form.php:139
+msgid "Status"
+msgstr "状态"
+
+#: admin/edit-contact-form.php:125
+msgid "You can also use this old-style shortcode:"
+msgstr "也可使用旧式短代码："
+
+#: admin/edit-contact-form.php:118
+msgid "Copy this shortcode and paste it into your post, page, or text widget content:"
+msgstr "复制此“短代码并粘贴到您的文章，页面，或文字小工具中:"
+
+#: admin/edit-contact-form.php:95
+msgid "Enter title here"
+msgstr "在此输入标题"
+
+#: admin/edit-contact-form.php:26 admin/edit-contact-form.php:146
+msgid "Save"
+msgstr "保存"
+
+#: admin/admin.php:673
+msgid "You are not allowed to edit this contact form."
+msgstr "您没有编辑此项目的权限。"
+
+#: admin/includes/welcome-panel.php:125
+msgid "https://contactform7.com/save-submitted-messages-with-flamingo/"
+msgstr "https://contactform7.com/save-submitted-messages-with-flamingo/"
+
+#: admin/includes/welcome-panel.php:60
+msgid "https://contactform7.com/spam-filtering-with-akismet/"
+msgstr "https://contactform7.com/spam-filtering-with-akismet/"
+
+#: admin/includes/editor.php:129
+msgid "Setting up mail"
+msgstr "设置电邮"
+
+#: admin/includes/editor.php:128
+msgid "https://contactform7.com/setting-up-mail/"
+msgstr "https://contactform7.com/setting-up-mail/"
+
+#: admin/includes/welcome-panel.php:96
+msgid "https://contactform7.com/donate/"
+msgstr "https://contactform7.com/donate/"
+
+#: admin/includes/welcome-panel.php:85
+msgid "Contact Form 7 needs your support."
+msgstr "Contact Form 7需要您的支持。"
+
+#: admin/includes/welcome-panel.php:216
+msgid "Dismiss"
+msgstr "取消"
+
+#. translators: 1: version of Contact Form 7, 2: version of WordPress, 3: URL
+#: admin/admin.php:649
+msgid "<strong>Contact Form 7 %1$s requires WordPress %2$s or higher.</strong> Please <a href=\"%3$s\">update WordPress</a> first."
+msgstr "<strong>Contact Form 7 %1$s 需要 WordPress %2$s 或更高版本。</strong> 请<a href=\"%3$s\">先更新WordPress</a>。"
+
+#: admin/admin.php:626
+msgid "Settings"
+msgstr "设置"
+
+#: admin/admin.php:555
+msgid "Contact form deleted."
+msgstr "联系表单已删除。"
+
+#: admin/admin.php:553
+msgid "Contact form saved."
+msgstr "联系表已单保存。"
+
+#: admin/admin.php:551
+msgid "Contact form created."
+msgstr "联系表单已创建。"
+
+#: admin/admin.php:448
+msgid "Search Contact Forms"
+msgstr "搜索联系表单"
+
+#. translators: %s: search keywords
+#: admin/admin.php:425
+msgid "Search results for &#8220;%s&#8221;"
+msgstr " &#8220;%s&#8221; 的搜索结果"
+
+#: admin/admin.php:144
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果您离开该页面，您所做的更改将作废。"
+
+#: admin/admin.php:330
+msgid "Error in deleting."
+msgstr "删除时出错。"
+
+#: admin/admin.php:325
+msgid "You are not allowed to delete this item."
+msgstr "您没有删除权限。"
+
+#: admin/admin.php:217 admin/admin.php:281
+msgid "You are not allowed to edit this item."
+msgstr "您没有编辑此项目的权限。"
+
+#: admin/admin.php:66
+msgid "Integration"
+msgstr "整合"
+
+#: admin/admin.php:52 admin/admin.php:416 admin/edit-contact-form.php:47
+msgid "Add New"
+msgstr "添加新表单"
+
+#: admin/admin.php:51 admin/edit-contact-form.php:36
+msgid "Add New Contact Form"
+msgstr "创建新的联系表单"
+
+#: admin/admin.php:41 admin/admin.php:409 includes/contact-form.php:47
+msgid "Contact Forms"
+msgstr "联系表单"
+
+#: admin/admin.php:40 admin/edit-contact-form.php:38
+msgid "Edit Contact Form"
+msgstr "编辑联系表单"
+
+#: admin/admin.php:30
+msgid "Contact"
+msgstr "联系"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:29 modules/flamingo.php:208 includes/block-editor/index.js:1
+msgid "Contact Form 7"
+msgstr "Contact Form 7"

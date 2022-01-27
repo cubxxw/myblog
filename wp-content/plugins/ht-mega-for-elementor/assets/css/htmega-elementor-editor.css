@@ -1,0 +1,14 @@
+.elementor-element .icon {
+  position: relative;
+}
+.elementor-element .icon .htmega-icon::after {
+  content: "HT";
+  font-size: 10px;
+  opacity: 0.4;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+.elementor-control-redirect_page_url .elementor-control-url-more{
+  display: none;
+}

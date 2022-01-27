@@ -1,0 +1,155 @@
+# Translation of Plugins - Categories to Tags Converter - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Categories to Tags Converter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-08 11:57:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Categories to Tags Converter - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://cn.wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wpcat2tag-importer/"
+msgstr "http://wordpress.org/extend/plugins/wpcat2tag-importer/"
+
+#. Plugin Name of the plugin/theme
+msgid "Categories to Tags Converter Importer"
+msgstr "分类与标签转换器"
+
+#. #-#-#-#-#  tmp-wpcat2tag-importer.pot (Categories to Tags Converter Importer
+#. 0.5)  #-#-#-#-#
+#. Description of the plugin/theme
+#: wpcat2tag-importer.php:490
+msgid "Convert existing categories to tags or tags to categories, selectively."
+msgstr "选择性地将分类转换为标签或将标签转换为分类。"
+
+#: wpcat2tag-importer.php:490
+msgid "Categories and Tags Converter"
+msgstr "分类与标签转换器"
+
+#: wpcat2tag-importer.php:447
+msgid "* This tag is also a category. The converter has added all posts from it to the category. If you want to remove it, please confirm that all posts were added successfully, then delete it from the <a href=\"%s\">Manage Tags</a> page."
+msgstr "* 这个标签同时也是分类。转换器已经为当前标签中所有文章加入了这个分类，如果您想删除它，请确认所有文章是否成功添加上，然后在“<a href=\"%s\">管理标签</a>”页面中予以删除。"
+
+#: wpcat2tag-importer.php:429
+msgid "Tag #%s doesn&#8217;t exist!"
+msgstr "标签 #%s 不存在！"
+
+#: wpcat2tag-importer.php:408
+msgid "All posts were added to the category with the same name."
+msgstr "所有文章均会被添加到同名的分类中。"
+
+#: wpcat2tag-importer.php:384
+msgid "Converting tag <strong>%s</strong> ... "
+msgstr "正在转换标签 <strong>%s</strong>……"
+
+#: wpcat2tag-importer.php:359 wpcat2tag-importer.php:448
+msgid "We&#8217;re all done here, but you can always <a href=\"%s\">convert more</a>."
+msgstr "已经全部完成，但您也可以<a href=\"%s\">转换更多</a>。"
+
+#: wpcat2tag-importer.php:358
+msgid "* This category is also a tag. The converter has added that tag to all posts currently in the category. If you want to remove it, please confirm that all tags were added successfully, then delete it from the <a href=\"%s\">Manage Categories</a> page."
+msgstr "* 这个分类同时也是标签。转换器已经为当前分类中的所有文章添加了这个标签，如果您想删除它，请确认所有标签是否成功添加上，然后从“<a href=\"%s\">管理分类</a>”页面中予以删除。"
+
+#: wpcat2tag-importer.php:316
+msgid "Tag added to all posts in this category."
+msgstr "标签将添加到这个分类下的所有文章。"
+
+#: wpcat2tag-importer.php:297 wpcat2tag-importer.php:340
+#: wpcat2tag-importer.php:426
+msgid "Converted successfully."
+msgstr "转换成功。"
+
+#: wpcat2tag-importer.php:269
+msgid "Converting category <strong>%s</strong> ... "
+msgstr "正在转换分类 <strong>%s</strong>……"
+
+#: wpcat2tag-importer.php:266
+msgid "Category %s doesn&#8217;t exist!"
+msgstr "分类%s不存在！"
+
+#: wpcat2tag-importer.php:247 wpcat2tag-importer.php:367
+msgid "Uh, oh. Something didn&#8217;t work. Please <a href=\"%s\">try again</a>."
+msgstr "很抱歉，程序出现异常。请<a href=\"%s\">重试</a>。"
+
+#: wpcat2tag-importer.php:209
+msgid "Convert Tags to Categories"
+msgstr "将标签转换为分类"
+
+#: wpcat2tag-importer.php:207
+msgid "* This tag is also a category. When converted, all posts associated with the tag will also be in the category."
+msgstr "* 该标签存在同名分类。转换后，会将该分类添加到当前标签的文章中。"
+
+#: wpcat2tag-importer.php:165
+msgid "You have no tags to convert!"
+msgstr "没有可供转换的标签！"
+
+#: wpcat2tag-importer.php:161
+msgid "The newly created categories will still be associated with the same posts."
+msgstr "最近创建的分类将仍然与相同的日志相关联。"
+
+#: wpcat2tag-importer.php:160
+msgid "Here you can selectively convert existing tags to categories. To get started, check the tags you wish to be converted, then click the Convert button."
+msgstr "这个转换器允许您有选择地把现有的标签转换成分类。选取您想转换的标签，然后点击转换按钮。"
+
+#: wpcat2tag-importer.php:158
+msgid "Convert Tag to Category."
+msgid_plural "Convert Tags (%d) to Categories."
+msgstr[0] "将（%d个标签转换为分类"
+
+#: wpcat2tag-importer.php:145
+msgid "Convert Categories to Tags"
+msgstr "将分类转换为标签"
+
+#: wpcat2tag-importer.php:143
+msgid "* This category is also a tag. Converting it will add that tag to all posts that are currently in the category."
+msgstr "* 该分类存在同名标签。转换后，会将该标签添加到当前分类的文章中。"
+
+#: wpcat2tag-importer.php:113 wpcat2tag-importer.php:120
+#: wpcat2tag-importer.php:189 wpcat2tag-importer.php:196
+msgid "Check All"
+msgstr "选中全部"
+
+#: wpcat2tag-importer.php:106 wpcat2tag-importer.php:182
+msgid "Uncheck All"
+msgstr "反选全部"
+
+#: wpcat2tag-importer.php:89
+msgid "You have no categories to convert!"
+msgstr "没有可供转换的分类！"
+
+#: wpcat2tag-importer.php:85
+msgid "Keep in mind that if you convert a category with child categories, the children become top-level orphans."
+msgstr "注意，当您转换一个带有子分类的分类时，其下子分类的上级分类将会被移除从而成为顶级分类。"
+
+#: wpcat2tag-importer.php:84
+msgid "Hey there. Here you can selectively convert existing categories to tags. To get started, check the categories you wish to be converted, then click the Convert button."
+msgstr "您好！这个转化器允许您有选择地把现有的分类转换成标签。选取您想转换的分类，然后点击转换按钮。"
+
+#: wpcat2tag-importer.php:82
+msgid "Convert Category to Tag."
+msgid_plural "Convert Categories (%d) to Tags."
+msgstr[0] "将（%d个分类）转换为标签"
+
+#: wpcat2tag-importer.php:46
+msgid "Tags to Categories"
+msgstr "将标签转换为分类"
+
+#: wpcat2tag-importer.php:45
+msgid "Categories to Tags"
+msgstr "将分类转换为标签"
+
+#: wpcat2tag-importer.php:42
+msgid "Cheatin&#8217; uh?"
+msgstr "您的攻击行为已被记录。"

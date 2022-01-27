@@ -1,0 +1,7 @@
+
+# BEGIN INDEX
+# 在“BEGIN INDEX”与“END INDEX”之间的指令（行）是
+# 动态生成的，只应被WordPress过滤器修改。
+# 任何对标记之间的指令的修改都会被覆盖。
+Options -Indexes
+# END INDEX

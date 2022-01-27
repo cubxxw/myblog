@@ -1,0 +1,14 @@
+{
+    "bannerBgImage": {
+		"type":"object",
+		"default":{}
+	},
+	"imageLink":{
+		"type":"string",
+		"default":"#"
+	},
+	"openNewTab":{
+		"type":"string",
+		"default":"no"
+	}
+}

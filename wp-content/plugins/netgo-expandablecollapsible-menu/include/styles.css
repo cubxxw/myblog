@@ -1,0 +1,54 @@
+div.netgo_navigation ul,
+#main .widget-area div.netgo_navigation ul 
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+div.netgo_navigation li {
+	margin: 0;
+	padding: 0 0 0 15px;
+}
+
+div.netgo_navigation li.page-has-children {
+	background: url(arrow-right.gif) no-repeat -3px 0px;
+	padding: 0 0 0 15px;
+	cursor: pointer;
+}
+
+div.netgo_navigation li.menu-item-has-children {
+	background: url(arrow-right.gif) no-repeat -3px 0px;
+	padding: 0 0 0 15px;
+	cursor: pointer;
+}
+
+
+div.netgo_navigation ul ul li {
+	padding-left: 5px;
+}
+
+div.netgo_navigation li.current_page_ancestor,
+div.netgo_navigation li.current_page_parent,
+div.netgo_navigation li.netgo-navigation-selected,
+div.netgo_navigation li.current_page_item.page-has-children
+ {
+	background: url(arrow-down.gif) no-repeat -3px 0px;
+}
+
+div.netgo_navigation li.netgo-navigation-deselected {
+	background-image: url(arrow-right.gif) !important;
+}
+
+
+
+div.netgo_navigation li.current_page_item > a
+ {
+	font-weight: bold;
+}
+
+div.netgo_navigation li.current_page_item li {
+	font-weight: normal;
+}
+
+
+
