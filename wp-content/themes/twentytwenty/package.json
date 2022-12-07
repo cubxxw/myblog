@@ -23,7 +23,7 @@
 		"autoprefixer": "^9.6.1",
 		"concurrently": "^5.2.0",
 		"postcss-cli": "^7.0.0",
-		"rtlcss": "^2.5.0",
+		"rtlcss": "^4.0.0",
 		"stylelint-a11y": "^1.2.3"
 	},
 	"browserslist": [
